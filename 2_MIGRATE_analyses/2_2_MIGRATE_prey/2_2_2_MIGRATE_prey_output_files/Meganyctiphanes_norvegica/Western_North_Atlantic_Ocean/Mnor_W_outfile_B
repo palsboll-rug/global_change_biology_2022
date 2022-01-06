@@ -1,0 +1,292 @@
+  ===================================================================================================
+   Dataset of Meganyctiphanes norvegica ND1 for North Atlantic. One population Western North Atlantic
+  ===================================================================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ===================================================================================================
+  Version 3.6.6
+
+  Program started at Wed Jun 14 00:13:16 2017
+         finished at Wed Jun 14 00:56:27 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.050000   0.100000   0.010000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 5052
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)               138050
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.01200
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Meganyctiphanes_norvegica_34mtND1_155bp_201610
+   Output file (ASCII text):                Mnor_W_outfile_B
+   Output file (PDF):                           Mnor_W_B.pdf
+   Posterior distribution:                Mnor_W_bayesfile_B
+   All values of Post.Dist:            Mnor_W_bayesallfile_B
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file     Mnor_W_mighistfile_B
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Mnor_W_skyline_
+
+Summary of data:
+Title: Meganyctiphanes norvegica, where Population Western_N
+Data file:  Meganyctiphanes_norvegica_34mtND1_155bp_20161012
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 Western_No Mnor0803 Mnor0804 Mnor0805 Mnor0806 Mnor0807 Mnor0808 Mnor0809 Mnor0810 
+                 Mnor0811 Mnor0812 Mnor0813 Mnor0814 Mnor0815 Mnor0816 Mnor0817 Mnor0818 
+                 Mnor0819 Mnor0820 Mnor0821 Mnor0822 Mnor0823 Mnor0824 Mnor0825 Mnor0826 
+                 Mnor0827 Mnor0828 Mnor0829 Mnor0830 Mnor0831 Mnor0832 Mnor0833 Mnor0834 
+                 Mnor0835 Mnor0836 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 Western_North                1        34
+    Total of all populations     1        34
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.2514  0.1176  0.1560  0.4750       7.69530
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.00447  0.00893  0.01223  0.01647  0.02853  0.01423  0.01539
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0005000000  0.0247868318     0.0007152482
+0.0010000000  0.0232195351     0.0020750479
+0.0015000001  0.0221480634     0.0036407253
+0.0020000001  0.0213935990     0.0050607217
+0.0025000001  0.0209436752     0.0062623583
+0.0030000001  0.0206168741     0.0072342153
+0.0035000002  0.0202875696     0.0080117350
+0.0040000002  0.0199091509     0.0086357724
+0.0045000002  0.0194822922     0.0091090463
+0.0050000002  0.0190451108     0.0094928136
+0.0055000003  0.0186338592     0.0097879712
+0.0060000003  0.0182746369     0.0100261355
+0.0065000003  0.0179843009     0.0102138408
+0.0070000003  0.0177595522     0.0103662629
+0.0075000004  0.0176162142     0.0104906727
+0.0080000004  0.0175479986     0.0105958236
+0.0085000004  0.0175446346     0.0106783668
+0.0090000004  0.0176105537     0.0107447561
+0.0095000005  0.0177393276     0.0108047090
+0.0100000005  0.0179258287     0.0108534005
+0.0105000005  0.0181630459     0.0108922645
+0.0110000005  0.0184499808     0.0109311333
+0.0115000005  0.0187892783     0.0109592751
+0.0120000006  0.0191578642     0.0109874383
+0.0125000006  0.0195752978     0.0110068135
+0.0130000006  0.0200289302     0.0110093765
+0.0135000006  0.0205171574     0.0110343816
+0.0140000007  0.0210294835     0.0110409558
+0.0145000007  0.0215809960     0.0110529466
+0.0150000007  0.0221611392     0.0110525424
+0.0155000007  0.0227797832     0.0110583650
+0.0160000008  0.0234103668     0.0110642621
+0.0165000008  0.0240584128     0.0110753430
+0.0170000008  0.0247347318     0.0110736825
+0.0175000008  0.0254306961     0.0110765137
+0.0180000009  0.0261508953     0.0110815717
+0.0185000009  0.0268730372     0.0110696508
+0.0190000009  0.0276289657     0.0110844830
+0.0195000009  0.0283974316     0.0110857170
+0.0200000009  0.0291761383     0.0110643562
+0.0205000010  0.0299643837     0.0110746399
+0.0210000010  0.0307820365     0.0110762222
+0.0215000010  0.0315893143     0.0110925371
+0.0220000010  0.0323983058     0.0110693723
+0.0225000011  0.0332208872     0.0110904658
+0.0230000011  0.0340307578     0.0110664098
+0.0235000011  0.0349093974     0.0110531067
+0.0240000011  0.0358110964     0.0110633057
+0.0245000012  0.0366723724     0.0110694030
+0.0250000012  0.0375618413     0.0110463798
+0.0255000012  0.0384846851     0.0110938577
+0.0260000012  0.0394057259     0.0110573350
+0.0265000013  0.0403266549     0.0110806124
+0.0270000013  0.0412142128     0.0110610044
+0.0275000013  0.0421446599     0.0110516399
+0.0280000013  0.0429911800     0.0110773984
+0.0285000014  0.0438614078     0.0110652605
+0.0290000014  0.0448060594     0.0110528963
+0.0295000014  0.0457304120     0.0111093633
+0.0300000014  0.0465431809     0.0110856630
+0.0305000014  0.0473951884     0.0110516986
+0.0310000015  0.0484206378     0.0110937031
+0.0315000015  0.0493609719     0.0110357292
+0.0320000015  0.0502574854     0.0110669266
+0.0325000015  0.0512558930     0.0110062435
+0.0330000016  0.0522684976     0.0110278027
+0.0335000016  0.0531445444     0.0110303694
+0.0340000016  0.0541112162     0.0110611767
+0.0345000016  0.0549246110     0.0110777644
+0.0350000017  0.0559879765     0.0109740477
+0.0355000017  0.0568913482     0.0111205559
+0.0360000017  0.0578106642     0.0110753942
+0.0365000017  0.0588705540     0.0109966937
+0.0370000018  0.0597423315     0.0111744674
+0.0375000018  0.0606595129     0.0109572439
+0.0380000018  0.0616530702     0.0110014779
+0.0385000018  0.0625679418     0.0109231845
+0.0390000019  0.0636843964     0.0111918803
+0.0395000019  0.0645791367     0.0111216884
+0.0400000019  0.0653796867     0.0110676344
+0.0405000019  0.0663360506     0.0108824521
+0.0410000019  0.0665240437     0.0111774579
+0.0415000020  0.0674195886     0.0110148173
+0.0420000020  0.0681073964     0.0108956713
+0.0425000020  0.0671378896     0.0104242396
+0.0430000020  0.0683659986     0.0106411232
+0.0435000021  0.0684829727     0.0101527218
+0.0440000021  0.0639006495     0.0092601068
+0.0445000021  0.0595227219     0.0089528924
+0.0450000021  0.0571221560     0.0082802577
+0.0455000022  0.0548338704     0.0080865994
+0.0460000022  0.0515228845     0.0075900834
+0.0465000022  0.0464083962     0.0069064237
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00129    0.00000    0.00238    1.00000
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.01084    0.01025    0.00462    1.00000
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-276.017142 (-264.193373 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-257.618677
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               160015198/160015198          1.00000
+Genealogies           264123695/639984802          0.41270
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.40037           2586537.54
+  Ln[Prob(D|P)]          0.41276           2511490.15
+

@@ -1,0 +1,118 @@
+  ============================================================
+   Dataset of Clupea harengus COI from Eastern North Atlantic 
+  ============================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ============================================================
+  Version 3.6.6
+
+  Program started at Mon Jun 19 13:37:07 2017
+                                                   
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.100000   0.200000   0.020000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 1398
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)             56463586
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.03600
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Clupea_harengus_98mtCOI_1551bp_20170515_Migrat
+   Output file (ASCII text): Clupea_harengus_98mtCOI_1551bp_
+   Output file (PDF):        Clupea_harengus_98mtCOI_1551bp_
+   Posterior distribution: Clupea_harengus_98mtCOI_1551bp_20
+   All values of Post.Dist:Clupea_harengus_98mtCOI_1551bp_20
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file Clupea_harengus_98mtCOI_
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Clupea_harengus
+
+Summary of data:
+Title: Clupea harengus where Population North represents the
+Data file:  Clupea_harengus_98mtCOI_1551bp_20170515_Migrate_
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 North      Char0001 Char0002 Char0003 Char0004 Char0005 Char0006 Char0007 Char0008 
+                 Char0009 Char0010 Char0011 Char0012 Char0013 Char0014 Char0015 Char0016 
+                 Char0017 Char0018 Char0019 Char0020 Char0021 Char0022 Char0023 Char0024 
+                 Char0025 Char0026 Char0027 Char0028 Char0029 Char0030 Char0031 Char0032 
+                 Char0033 Char0034 Char0035 Char0036 Char0037 Char0038 Char0039 Char0040 
+                 Char0041 Char0042 Char0043 Char0044 Char0045 Char0046 Char0047 Char0048 
+                 Char0049 Char0050 Char0051 Char0052 Char0053 Char0054 Char0055 Char0056 
+                 Char0057 Char0058 Char0059 Char0060 Char0061 Char0062 Char0063 Char0064 
+                 Char0065 Char0066 Char0067 Char0068 Char0069 Char0070 Char0071 Char0072 
+                 Char0073 Char0074 Char0075 Char0076 Char0077 Char0078 Char0079 Char0080 
+                 Char0081 Char0082 Char0083 Char0084 Char0085 Char0086 Char0087 Char0088 
+                 Char0089 Char0090 Char0091 Char0092 Char0093 Char0094 Char0095 Char0096 
+                 Char0097 Char0098 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 North                        1        98
+    Total of all populations     1        98
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.2528  0.2658  0.1940  0.2874      12.31880

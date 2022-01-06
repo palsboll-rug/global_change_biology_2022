@@ -1,0 +1,260 @@
+  ==========================================================
+   Dataset of Centropages typicus for migrate North Atlantic
+  ==========================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ==========================================================
+  Version 3.6.6
+
+  Program started at Fri May  5 15:59:50 2017
+         finished at Fri May  5 20:22:03 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.250000   0.500000   0.050000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 3615
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)               376776
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.20000
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Centropages_typicus_79mtCOI_560bp_20170426_Mig
+   Output file (ASCII text): Centropages_typicus_79mtCOI_560
+   Output file (PDF):        Centropages_typicus_79mtCOI_560
+   Posterior distribution: Centropages_typicus_79mtCOI_560bp
+   All values of Post.Dist:Centropages_typicus_79mtCOI_560bp
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file Centropages_typicus_79mt
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Centropages_typ
+
+Summary of data:
+Title: Centropages typicus where Population North represents
+Data file:  Centropages_typicus_79mtCOI_560bp_20170426_Migra
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 North      Ctyp0038 Ctyp0039 Ctyp0040 Ctyp0041 Ctyp0042 Ctyp0043 Ctyp0044 Ctyp0045 
+                 Ctyp0046 Ctyp0047 Ctyp0048 Ctyp0049 Ctyp0050 Ctyp0051 Ctyp0052 Ctyp0053 
+                 Ctyp0054 Ctyp0055 Ctyp0056 Ctyp0057 Ctyp0058 Ctyp0059 Ctyp0060 Ctyp0061 
+                 Ctyp0062 Ctyp0063 Ctyp0064 Ctyp0065 Ctyp0066 Ctyp0067 Ctyp0068 Ctyp0069 
+                 Ctyp0070 Ctyp0071 Ctyp0072 Ctyp0073 Ctyp0074 Ctyp0075 Ctyp0076 Ctyp0077 
+                 Ctyp0078 Ctyp0079 Ctyp0080 Ctyp0081 Ctyp0082 Ctyp0083 Ctyp0084 Ctyp0085 
+                 Ctyp0086 Ctyp0087 Ctyp0088 Ctyp0089 Ctyp0090 Ctyp0091 Ctyp0092 Ctyp0093 
+                 Ctyp0094 Ctyp0095 Ctyp0096 Ctyp0097 Ctyp0098 Ctyp0099 Ctyp0100 Ctyp0101 
+                 Ctyp0102 Ctyp0103 Ctyp0104 Ctyp0105 Ctyp0106 Ctyp0107 Ctyp0108 Ctyp0109 
+                 Ctyp0110 Ctyp0111 Ctyp0112 Ctyp0113 Ctyp0114 Ctyp0115 Ctyp0116 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 North                        1        79
+    Total of all populations     1        79
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.2215  0.1917  0.2445  0.3423      18.99600
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.14300  0.17267  0.19150  0.21133  0.25567  0.19583  0.19763
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0005000000  1.2084152699     0.0058506797
+0.0010000000  0.9059190154     0.0043848157
+0.0015000001  0.6474539042     0.0038521038
+0.0020000001  0.4945796430     0.0037015199
+0.0025000001  0.3921349645     0.0037732199
+0.0030000001  0.3209168911     0.0040205033
+0.0035000002  0.2666400075     0.0043917876
+0.0040000002  0.2228036076     0.0048550954
+0.0045000002  0.1854556352     0.0053823828
+0.0050000002  0.1544094086     0.0059870798
+0.0055000003  0.1274581254     0.0066228705
+0.0060000003  0.1038305238     0.0072929207
+0.0065000003  0.0840041116     0.0081270617
+0.0070000003  0.0671414956     0.0090070460
+0.0075000004  0.0538073853     0.0100317653
+0.0080000004  0.0435603224     0.0111535909
+0.0085000004  0.0361445732     0.0124548087
+0.0090000004  0.0305533949     0.0137858260
+0.0095000005  0.0262931772     0.0151569461
+0.0100000005  0.0227792561     0.0166200902
+0.0105000005  0.0198454987     0.0180091783
+0.0110000005  0.0173597764     0.0192270745
+0.0115000005  0.0153337372     0.0203807838
+0.0120000006  0.0137797995     0.0212938804
+0.0125000006  0.0125840474     0.0220725983
+0.0130000006  0.0117148738     0.0226010289
+0.0135000006  0.0110892225     0.0230801571
+0.0140000007  0.0106676491     0.0233399309
+0.0145000007  0.0103989625     0.0235814415
+0.0150000007  0.0102173667     0.0236928985
+0.0155000007  0.0100956867     0.0238160584
+0.0160000008  0.0100675859     0.0238479879
+0.0165000008  0.0101512671     0.0240004119
+0.0170000008  0.0102956640     0.0239499118
+0.0175000008  0.0104857944     0.0239223223
+0.0180000009  0.0106934709     0.0240676478
+0.0185000009  0.0110253645     0.0240227431
+0.0190000009  0.0113899969     0.0239100568
+0.0195000009  0.0118252020     0.0241010953
+0.0200000009  0.0122367525     0.0241106208
+0.0205000010  0.0126740076     0.0242665187
+0.0210000010  0.0132298619     0.0240344275
+0.0215000010  0.0137000000     0.0236547533
+0.0220000010  0.0141666168     0.0240652598
+0.0225000011  0.0149033563     0.0239862092
+0.0230000011  0.0154589768     0.0240360890
+0.0235000011  0.0161734633     0.0242116600
+0.0240000011  0.0171734393     0.0234063696
+0.0245000012  0.0181576125     0.0233137235
+0.0250000012  0.0190020408     0.0242652912
+0.0255000012  0.0195278209     0.0246098861
+0.0260000012  0.0199490227     0.0230713543
+0.0265000013  0.0198633969     0.0225708932
+0.0270000013  0.0190884750     0.0204603914
+0.0275000013  0.0190087426     0.0194033142
+0.0280000013  0.0170630310     0.0145108569
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00401    0.00325    0.00302    1.00000
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.01435    0.01425    0.00239    1.00000
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-2315.886535 (-2183.344286 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-2094.652720
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               159986866/159986866          1.00000
+Genealogies           57102367/640013134          0.08922
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.34065           5036988.71
+  Ln[Prob(D|P)]          0.92990            372700.36
+

@@ -1,0 +1,60 @@
+Species	Mallotus villosus			
+Number of data sets	3			
+				
+Data set no.	1			
+Locus	Mitochondrial cytochrome b			
+DNA sequence lengh (in base pairs)	572			
+No. of DNA sequences	41			
+				
+Source_referencess		Sample areas	Habitat	Links to source data files
+1	Colbeck, G. J., Turgeon, J., Sirois, P., & Dodson, J. J. (2011). Historical introgression and the role of selective vs. neutral processes in structuring nuclear genetic variation (AFLP) in a circumpolar marine fish, the capelin (Mallotus villosus). Molecular Ecology, 20(9), 1976-1987. doi: 10.1111/j.1365-294X.2011.05069.x	Northwest North Atlantic Ocean	NA	GenBank
+				
+Migrate data file name	Mallotus_villosus_41mtCytb_572bp_20170828_Migrate_1pop.txt			
+Results figure(s)	4, 5, 6 & S5 			
+				
+Individual sample identifiers and data source				
+Migrate_infile_sequence_identifier	Migrate_sample_partition	Data_source	GenBank_Accession_number	Source_DNA_sequence_identifier
+Mvil0001	Northwestern_North	1	HQ340243	
+Mvil0002	Northwestern_North	1	HQ340244	
+Mvil0003	Northwestern_North	1	HQ340245	
+Mvil0004	Northwestern_North	1	HQ340246	
+Mvil0005	Northwestern_North	1	HQ340247	
+Mvil0006	Northwestern_North	1	HQ340248	
+Mvil0007	Northwestern_North	1	HQ340249	
+Mvil0008	Northwestern_North	1	HQ340250	
+Mvil0009	Northwestern_North	1	HQ340251	
+Mvil0010	Northwestern_North	1	HQ340252	
+Mvil0011	Northwestern_North	1	HQ340253	
+Mvil0012	Northwestern_North	1	HQ340254	
+Mvil0013	Northwestern_North	1	HQ340255	
+Mvil0014	Northwestern_North	1	HQ340256	
+Mvil0015	Northwestern_North	1	HQ340257	
+Mvil0016	Northwestern_North	1	HQ340258	
+Mvil0017	Northwestern_North	1	HQ340259	
+Mvil0018	Northwestern_North	1	HQ340260	
+Mvil0019	Northwestern_North	1	HQ340261	
+Mvil0020	Northwestern_North	1	HQ340262	
+Mvil0021	Northwestern_North	1	HQ340263	
+Mvil0022	Northwestern_North	1	HQ340264	
+Mvil0023	Northwestern_North	1	HQ340265	
+Mvil0024	Northwestern_North	1	HQ340266	
+Mvil0025	Northwestern_North	1	HQ340267	
+Mvil0026	Northwestern_North	1	HQ340268	
+Mvil0027	Northwestern_North	1	HQ340269	
+Mvil0028	Northwestern_North	1	HQ340270	
+Mvil0029	Northwestern_North	1	HQ340271	
+Mvil0030	Northwestern_North	1	HQ340272	
+Mvil0031	Northwestern_North	1	HQ340273	
+Mvil0032	Northwestern_North	1	HQ340274	
+Mvil0033	Northwestern_North	1	HQ340275	
+Mvil0034	Northwestern_North	1	HQ340276	
+Mvil0035	Northwestern_North	1	HQ340277	
+Mvil0036	Northwestern_North	1	HQ340278	
+Mvil0037	Northwestern_North	1	HQ340279	
+Mvil0038	Northwestern_North	1	HQ340280	
+Mvil0039	Northwestern_North	1	HQ340281	
+Mvil0040	Northwestern_North	1	HQ340282	
+Mvil0041	Northwestern_North	1	HQ340283	
+				
+				
+				

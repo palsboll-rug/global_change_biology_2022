@@ -1,0 +1,277 @@
+  ==================================================
+   Dataset of Euphasia superba for migrate Antarctic
+  ==================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ==================================================
+  Version 3.6.6
+
+  Program started at Thu May  4 14:14:46 2017
+         finished at Thu May  4 19:10:25 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.250000   0.500000   0.050000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 5611
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)               880019
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.19000
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Esuperba_640mtCOI_593bp_20160911_Migrate_1pop.
+   Output file (ASCII text): Esuperba_640mtCOI_593bp_2016091
+   Output file (PDF):        Esuperba_640mtCOI_593bp_2016091
+   Posterior distribution: Esuperba_640mtCOI_593bp_20160911_
+   All values of Post.Dist:Esuperba_640mtCOI_593bp_20160911_
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file Esuperba_640mtCOI_593bp_
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Esuperba_640mtC
+
+Summary of data:
+Title:     Dataset of Euphasia superba for migrate Antarctic
+Data file:  Esuperba_640mtCOI_593bp_20160911_Migrate_1pop.tx
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 South      Esup0156 Esup0133 Esup0328 Esup0580 Esup0184 Esup0368 Esup0226 Esup0346 
+                 Esup0277 Esup0113 Esup0200 Esup0392 Esup0205 Esup0121 Esup0158 Esup0522 
+                 Esup0512 Esup0065 Esup0069 Esup0335 Esup0120 Esup0320 Esup0111 Esup0017 
+                 Esup0255 Esup0129 Esup0584 Esup0445 Esup0575 Esup0292 Esup0269 Esup0100 
+                 Esup0294 Esup0426 Esup0247 Esup0401 Esup0388 Esup0183 Esup0031 Esup0309 
+                 Esup0589 Esup0395 Esup0217 Esup0169 Esup0116 Esup0458 Esup0590 Esup0410 
+                 Esup0199 Esup0632 Esup0619 Esup0241 Esup0276 Esup0615 Esup0487 Esup0437 
+                 Esup0415 Esup0221 Esup0044 Esup0337 Esup0090 Esup0465 Esup0101 Esup0173 
+                 Esup0440 Esup0063 Esup0019 Esup0502 Esup0315 Esup0515 Esup0140 Esup0327 
+                 Esup0617 Esup0093 Esup0073 Esup0375 Esup0386 Esup0055 Esup0537 Esup0102 
+                 Esup0362 Esup0519 Esup0480 Esup0527 Esup0543 Esup0108 Esup0518 Esup0150 
+                 Esup0473 Esup0506 Esup0484 Esup0141 Esup0613 Esup0385 Esup0206 Esup0417 
+                 Esup0278 Esup0024 Esup0382 Esup0529 Esup0466 Esup0508 Esup0523 Esup0132 
+                 Esup0478 Esup0572 Esup0285 Esup0614 Esup0547 Esup0503 Esup0474 Esup0085 
+                 Esup0436 Esup0562 Esup0168 Esup0109 Esup0407 Esup0043 Esup0603 Esup0517 
+                 Esup0144 Esup0434 Esup0225 Esup0143 Esup0234 Esup0630 Esup0009 Esup0077 
+                 Esup0430 Esup0380 Esup0538 Esup0463 Esup0005 Esup0540 Esup0083 Esup0215 
+                 Esup0353 Esup0459 Esup0256 Esup0427 Esup0282 Esup0642 Esup0452 Esup0551 
+                 Esup0329 Esup0314 Esup0191 Esup0318 Esup0104 Esup0396 Esup0325 Esup0486 
+                 Esup0239 Esup0010 Esup0209 Esup0178 Esup0567 Esup0355 Esup0425 Esup0594 
+                 Esup0235 Esup0492 Esup0297 Esup0568 Esup0047 Esup0003 Esup0095 Esup0081 
+                 Esup0363 Esup0539 Esup0645 Esup0365 Esup0429 Esup0602 Esup0595 Esup0422 
+                 Esup0514 Esup0525 Esup0159 Esup0324 Esup0107 Esup0286 Esup0138 Esup0094 
+                 Esup0011 Esup0175 Esup0405 Esup0549 Esup0307 Esup0266 Esup0462 Esup0339 
+                 Esup0230 Esup0598 Esup0088 Esup0004 Esup0053 Esup0196 Esup0028 Esup0139 
+                 Esup0042 Esup0354 Esup0524 Esup0070 Esup0604 Esup0394 Esup0087 Esup0254 
+                 Esup0034 Esup0084 Esup0096 Esup0404 Esup0036 Esup0330 Esup0146 Esup0258 
+                 Esup0397 Esup0460 Esup0228 Esup0198 Esup0485 Esup0489 Esup0268 Esup0288 
+                 Esup0106 Esup0472 Esup0227 Esup0291 Esup0293 Esup0056 Esup0245 Esup0182 
+                 Esup0482 Esup0067 Esup0351 Esup0050 Esup0099 Esup0136 Esup0074 Esup0347 
+                 Esup0371 Esup0124 Esup0029 Esup0552 Esup0313 Esup0591 Esup0398 Esup0033 
+                 Esup0533 Esup0421 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 South                        1       640
+    Total of all populations     1       640
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.2555  0.2052  0.1867  0.3526       8.21180
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.15500  0.17700  0.18983  0.20333  0.23133  0.19183  0.19250
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0005000000  0.5924854279     0.0004319227
+0.0010000000  0.4171858430     0.0006108263
+0.0015000001  0.3274008036     0.0009271380
+0.0020000001  0.2641788423     0.0013601234
+0.0025000001  0.2129072100     0.0018963119
+0.0030000001  0.1719396412     0.0025629133
+0.0035000002  0.1402896941     0.0033259774
+0.0040000002  0.1157200858     0.0042676297
+0.0045000002  0.0951119810     0.0053547118
+0.0050000002  0.0773961470     0.0066655236
+0.0055000003  0.0640496686     0.0081153344
+0.0060000003  0.0532954484     0.0096622752
+0.0065000003  0.0453245454     0.0113576055
+0.0070000003  0.0393524319     0.0132648153
+0.0075000004  0.0353013724     0.0152853336
+0.0080000004  0.0323603041     0.0173693430
+0.0085000004  0.0299619101     0.0194559973
+0.0090000004  0.0277473181     0.0212790705
+0.0095000005  0.0253319442     0.0225657802
+0.0100000005  0.0229305569     0.0234879609
+0.0105000005  0.0206751842     0.0241605416
+0.0110000005  0.0186063964     0.0246469900
+0.0115000005  0.0167521629     0.0248987656
+0.0120000006  0.0151827643     0.0250187833
+0.0125000006  0.0138579784     0.0252186507
+0.0130000006  0.0128541840     0.0253763013
+0.0135000006  0.0120703243     0.0254422985
+0.0140000007  0.0115003074     0.0256055314
+0.0145000007  0.0110441614     0.0256656762
+0.0150000007  0.0107517717     0.0258231517
+0.0155000007  0.0106025245     0.0259097423
+0.0160000008  0.0105299605     0.0259032268
+0.0165000008  0.0105338572     0.0258042067
+0.0170000008  0.0105958199     0.0259039085
+0.0175000008  0.0107275117     0.0260469988
+0.0180000009  0.0110379802     0.0263342764
+0.0185000009  0.0113867065     0.0261208396
+0.0190000009  0.0118829152     0.0265805610
+0.0195000009  0.0123783946     0.0258630067
+0.0200000009  0.0127596669     0.0266351756
+0.0205000010  0.0131397545     0.0261375662
+0.0210000010  0.0137755964     0.0263114385
+0.0215000010  0.0142907603     0.0266964678
+0.0220000010  0.0147202099     0.0256573241
+0.0225000011  0.0158095323     0.0265178047
+0.0230000011  0.0165240746     0.0267184936
+0.0235000011  0.0175104737     0.0255516358
+0.0240000011  0.0179515127     0.0243691076
+0.0245000012  0.0165169891     0.0224664938
+0.0250000012  0.0151411975     0.0165889077
+0.0255000012  0.0109974118     0.0136016691
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00169    0.00075    0.00202    1.00000
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.01415    0.01375    0.00228    1.00000
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-4305.703851 (-3440.094625 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-2969.582591
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               159999728/159999728          1.00000
+Genealogies           25787174/640000272          0.04029
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.56371           1684403.06
+  Ln[Prob(D|P)]          0.98738             38318.93
+

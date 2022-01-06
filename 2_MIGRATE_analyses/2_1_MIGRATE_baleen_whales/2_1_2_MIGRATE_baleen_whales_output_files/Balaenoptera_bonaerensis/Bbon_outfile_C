@@ -1,0 +1,262 @@
+  =======================================================================
+   Dataset of B bonaerensis for migrate Samples from Brazil and Antarctic
+  =======================================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  =======================================================================
+  Version 3.6.6
+
+  Program started at Wed Aug 30 23:44:43 2017
+         finished at Thu Aug 31 02:50:34 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.200000   0.400000   0.040000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 1092452
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)           3658193856
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.22000
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Bbonaerensis_180mtDNA_337bp_20170828_Migrate_1
+   Output file (ASCII text):                  Bbon_outfile_C
+   Output file (PDF):                             Bbon_C.pdf
+   Posterior distribution:                  Bbon_bayesfile_C
+   All values of Post.Dist:              Bbon_bayesallfile_C
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file       Bbon_mighistfile_C
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file  Bbon_skyline_C
+
+Summary of data:
+Title: Balaenoptera bonaerensis where Population South repre
+Data file:  Bbonaerensis_180mtDNA_337bp_20170828_Migrate_1po
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 South      Bbon0001 Bbon0004 Bbon0006 Bbon0007 Bbon0008 Bbon0009 Bbon0010 Bbon0011 
+                 Bbon0012 Bbon0013 Bbon0014 Bbon0015 Bbon0016 Bbon0017 Bbon0018 Bbon0028 
+                 Bbon0030 Bbon0031 Bbon0032 Bbon0033 Bbon0035 Bbon0036 Bbon0038 Bbon0039 
+                 Bbon0040 Bbon0041 Bbon0042 Bbon0043 Bbon0044 Bbon0045 Bbon0047 Bbon0048 
+                 Bbon0049 Bbon0051 Bbon0052 Bbon0054 Bbon0057 Bbon0058 Bbon0059 Bbon0060 
+                 Bbon0061 Bbon0062 Bbon0063 Bbon0064 Bbon0066 Bbon0069 Bbon0070 Bbon0071 
+                 Bbon0074 Bbon0075 Bbon0077 Bbon0078 Bbon0079 Bbon0080 Bbon0081 Bbon0082 
+                 Bbon0084 Bbon0085 Bbon0086 Bbon0087 Bbon0088 Bbon0002 Bbon0003 Bbon0005 
+                 Bbon0019 Bbon0020 Bbon0021 Bbon0022 Bbon0023 Bbon0024 Bbon0025 Bbon0026 
+                 Bbon0027 Bbon0029 Bbon0034 Bbon0037 Bbon0046 Bbon0050 Bbon0053 Bbon0055 
+                 Bbon0056 Bbon0065 Bbon0067 Bbon0068 Bbon0072 Bbon0073 Bbon0076 Bbon0083 
+                 Bbon0089 Bbon0090 Bbon0091 Bbon0092 Bbon0093 Bbon0094 Bbon0095 Bbon0096 
+                 Bbon0097 Bbon0098 Bbon0099 Bbon0100 Bbon0101 Bbon0102 Bbon0103 Bbon0104 
+                 Bbon0105 Bbon0106 Bbon0107 Bbon0108 Bbon0109 Bbon0110 Bbon0111 Bbon0112 
+                 Bbon0113 Bbon0114 Bbon0115 Bbon0116 Bbon0117 Bbon0118 Bbon0119 Bbon0120 
+                 Bbon0121 Bbon0122 Bbon0123 Bbon0124 Bbon0125 Bbon0126 Bbon0127 Bbon0128 
+                 Bbon0129 Bbon0130 Bbon0131 Bbon0132 Bbon0133 Bbon0134 Bbon0135 Bbon0136 
+                 Bbon0137 Bbon0138 Bbon0139 Bbon0140 Bbon0141 Bbon0142 Bbon0143 Bbon0144 
+                 Bbon0145 Bbon0146 Bbon0147 Bbon0148 Bbon0149 Bbon0150 Bbon0151 Bbon0152 
+                 Bbon0153 Bbon0154 Bbon0155 Bbon0156 Bbon0157 Bbon0158 Bbon0159 Bbon0160 
+                 Bbon0161 Bbon0162 Bbon0163 Bbon0164 Bbon0165 Bbon0166 Bbon0167 Bbon0168 
+                 Bbon0169 Bbon0170 Bbon0171 Bbon0172 Bbon0173 Bbon0174 Bbon0175 Bbon0176 
+                 Bbon0177 Bbon0178 Bbon0179 Bbon0180 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 South                        1       180
+    Total of all populations     1       180
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.3371  0.2053  0.1334  0.3241      25.20000
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.17680  0.20613  0.22360  0.24213  0.28133  0.22653  0.22784
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0010000000  0.5778555870     0.0006207507
+0.0020000001  0.4995223582     0.0011577352
+0.0030000001  0.4141589701     0.0018452985
+0.0040000002  0.3403169215     0.0026826786
+0.0050000002  0.2837035656     0.0037356417
+0.0060000003  0.2388925999     0.0050228639
+0.0070000003  0.2083933949     0.0066488287
+0.0080000004  0.1814428866     0.0083997883
+0.0090000004  0.1592893898     0.0102545423
+0.0100000005  0.1372977644     0.0120268678
+0.0110000005  0.1166174635     0.0136845522
+0.0120000006  0.0973986611     0.0153534757
+0.0130000006  0.0800656751     0.0169330928
+0.0140000007  0.0649240464     0.0184720382
+0.0150000007  0.0525232442     0.0201801974
+0.0160000008  0.0425033942     0.0216839146
+0.0170000008  0.0345874913     0.0234187562
+0.0180000009  0.0285835192     0.0247992538
+0.0190000009  0.0240919273     0.0261696633
+0.0200000009  0.0208377596     0.0271545686
+0.0210000010  0.0186083242     0.0281444751
+0.0220000010  0.0170679875     0.0287556276
+0.0230000011  0.0161393601     0.0293218624
+0.0240000011  0.0155761223     0.0298433118
+0.0250000012  0.0153994625     0.0301475152
+0.0260000012  0.0154961031     0.0304526575
+0.0270000013  0.0157194696     0.0305430125
+0.0280000013  0.0161597561     0.0308569521
+0.0290000014  0.0167458002     0.0307753570
+0.0300000014  0.0173355024     0.0310463775
+0.0310000015  0.0181398932     0.0311535485
+0.0320000015  0.0191390552     0.0311780721
+0.0330000016  0.0203825254     0.0311770774
+0.0340000016  0.0216589589     0.0312233288
+0.0350000017  0.0230379645     0.0307181533
+0.0360000017  0.0244059134     0.0312291849
+0.0370000018  0.0261959042     0.0309909955
+0.0380000018  0.0274590813     0.0313911438
+0.0390000019  0.0279580578     0.0323925205
+0.0400000019  0.0294733606     0.0300420057
+0.0410000019  0.0299631376     0.0290286206
+0.0420000020  0.0281755347     0.0256281886
+0.0430000020  0.0230768826     0.0214254111
+0.0440000021  0.0176208727     0.0168754924
+0.0450000021  0.0155860418     0.0134169990
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00308    0.00150    0.00395    1.00000
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.02292    0.02250    0.00369    1.00000
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-2545.296724 (-2215.844040 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-1855.860856
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               159995698/159995698          1.00000
+Genealogies           21298070/640004302          0.03328
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.56456           1683489.32
+  Ln[Prob(D|P)]          0.98030             60218.26
+

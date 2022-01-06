@@ -1,0 +1,573 @@
+Species	Balaenoptera musculus			
+Number of data sets	1			
+				
+Data set no.	1			
+Locus	Mitochondrial control region			
+DNA sequence lengh (in base pairs)	404			
+No. of DNA sequences	555			
+				
+Source_referencess		Sample areas	Habitat	Links to source data files
+1	Sremba, A. L., Hancock-Hanser, B., Branch, T. A., LeDuc, R. L., & Baker, C. S. (2012). Circumpolar diversity and geographic differentiation of mtDNA in the critically endangered Antarctic blue whale (Balaenoptera musculus intermedia). PLoS One, 7(3), e32579. doi: 10.1371/journal.pone.0032579	Antarctica	Summer feeding area	https://doi.org/10.1371/journal.pone.0032579.t004 & https://ndownloader.figstatic.com/files/343152
+2	This study	Eastern Canadian seaborder, West Greenland, Iceland, Barents Sea, Central North Atlantic Ocean	Summer feeding areas and migratory (Central North Atlantic Ocean)	
+3	LeDuc, R. G., Dizon, A. E., Goto, M., Pastene, L. A., Kato, H., Nishiwaki, S., ... & Brownell, R. L. (2007). Patterns of genetic variation in Southern Hemisphere blue whales and the use of assignment test to detect mixing on the feeding grounds. Journal of Cetacean Research and Management, 9(1), 73.	Antarctica	Summer feeding area	https://archive.iwc.int/pages/terms.php?ref=263&k=&search=%21collection15+&url=%2Fpages%2Fdownload_progress.php%3Fref%3D263%26ext%3Dpdf%26k%3D%26alternative%3D1417%26search%3D%2521collection15%2B%26offset%3D0%26archive%3D%26sort%3DDESC%26order_by%3Dtitle
+				
+Migrate data file name	Bmusculus_555mtDNA_404bp_20170901_Migrate_2pop.txt			
+Results figure(s)	3, 4, 5, 6, S1, S5 & S6			
+				
+Individual sample identifiers and data source				
+Migrate_infile_sequence_identifier	Migrate_sample_partition	Data_source	GenBank_Accession_number	Source_DNA_sequence_identifier
+Bmus0001	South	1	JN801048	Z-13951_OSU
+Bmus0002	South	1	JN801048	Z-13951_OSU
+Bmus0003	South	1	JN801048	Z-13951_OSU
+Bmus0004	South	1	JN801048	Z-13951_OSU
+Bmus0005	South	1	JN801048	Z-13951_OSU
+Bmus0006	South	1	JN801049	Z-51460_OSU
+Bmus0007	South	1	JN801050	Z-51461_OSU
+Bmus0008	South	1	JN801050	Z-51461_OSU
+Bmus0009	South	1	JN801050	Z-51461_OSU
+Bmus0010	South	1	JN801050	Z-51461_OSU
+Bmus0011	South	1	JN801050	Z-51461_OSU
+Bmus0012	South	1	JN801050	Z-51461_OSU
+Bmus0013	South	1	JN801050	Z-51461_OSU
+Bmus0014	South	1	JN801050	Z-51461_OSU
+Bmus0015	South	1	JN801050	Z-51461_OSU
+Bmus0016	South	1	JN801050	Z-51461_OSU
+Bmus0017	South	1	JN801051	Z-51470_OSU
+Bmus0018	South	1	JN801052	Z-51472_OSU
+Bmus0019	South	1	JN801053	Z-51480_OSU
+Bmus0020	South	1	JN801053	Z-51480_OSU
+Bmus0021	South	1	JN801054	Z-51481_OSU
+Bmus0022	South	1	JN801054	Z-51481_OSU
+Bmus0023	South	1	JN801054	Z-51481_OSU
+Bmus0024	South	1	JN801054	Z-51481_OSU
+Bmus0025	South	1	JN801055	Z-51486_OSU
+Bmus0026	South	1	JN801056	Z-62481_OSU
+Bmus0027	South	1	JN801056	Z-62481_OSU
+Bmus0028	South	1	JN801057	Z-62482_OSU
+Bmus0029	South	1	JN801057	Z-62482_OSU
+Bmus0030	South	1	JN801057	Z-62482_OSU
+Bmus0031	South	1	JN801058	Z-62487_OSU
+Bmus0032	South	1	JN801070	Z-72906_OSU
+Bmus0033	South	1	JN801059	Z-72910_OSU
+Bmus0034	South	1	JN801059	Z-72910_OSU
+Bmus0035	South	1	JN801060	Z-72912_OSU
+Bmus0036	South	1	JN801061	Z-72916_OSU
+Bmus0037	South	1	JN801062	Z-72917_OSU
+Bmus0038	South	1	JN801062	Z-72917_OSU
+Bmus0039	South	1	JN801062	Z-72917_OSU
+Bmus0040	South	1	JN801063	Z-72929_OSU
+Bmus0041	South	1	JN801063	Z-72929_OSU
+Bmus0042	South	1	JN801064	Z-72931_OSU
+Bmus0043	South	1	JN801065	Z-72935_OSU
+Bmus0044	South	1	JN801065	Z-72935_OSU
+Bmus0045	South	1	JN801066	Z-72943_OSU
+Bmus0046	South	1	JN801067	Z-72949_OSU
+Bmus0047	South	1	JN801068	Z-72956_OSU
+Bmus0048	South	1	JN801068	Z-72956_OSU
+Bmus0049	South	1	JN801068	Z-72956_OSU
+Bmus0050	South	1	JN801068	Z-72956_OSU
+Bmus0051	South	1	JN801068	Z-72956_OSU
+Bmus0052	South	1	JN801068	Z-72956_OSU
+Bmus0053	South	1	JN801068	Z-72956_OSU
+Bmus0054	South	1	JN801068	Z-72956_OSU
+Bmus0055	South	1	JN801068	Z-72956_OSU
+Bmus0056	South	1	JN801068	Z-72956_OSU
+Bmus0057	South	1	JN801068	Z-72956_OSU
+Bmus0058	South	1	JN801068	Z-72956_OSU
+Bmus0059	South	1	JN801069	Z-88257_OSU
+Bmus0060	South	1	JN801069	Z-88257_OSU
+Bmus0061	South	1		Z-51488_OSU
+Bmus0062	South	1		Z-51488_OSU
+Bmus0063	South	1		Z-51488_OSU
+Bmus0064	South	1		Z-72930_AA
+Bmus0065	South	1		Z-72930_AA
+Bmus0066	South	1		Z-72930_AA
+Bmus0067	South	1		Z-72930_AA
+Bmus0068	South	1		Z-72896_B
+Bmus0069	South	1		Z-72896_B
+Bmus0070	South	1		Z-26580_BB
+Bmus0071	South	1		Z-26580_BB
+Bmus0072	South	1		Z-26580_BB
+Bmus0073	South	1		Z-26580_BB
+Bmus0074	South	1		Z-26580_BB
+Bmus0075	South	1		Z-26580_BB
+Bmus0076	South	1		Z-26580_BB
+Bmus0077	South	1		Z-26580_BB
+Bmus0078	South	1		Z-26580_BB
+Bmus0079	South	1		Z-26580_BB
+Bmus0080	South	1		Z-26580_BB
+Bmus0081	South	1		Z-62506_D
+Bmus0082	South	1		Z-62506_D
+Bmus0083	South	1		Z-62506_D
+Bmus0084	South	1		Z-62506_D
+Bmus0085	South	1		Hap_EE
+Bmus0086	South	1		Z-72907_F
+Bmus0087	South	1		Z-13944_FF
+Bmus0088	South	1		Z-13944_FF
+Bmus0089	South	1		Z-13944_FF
+Bmus0090	South	1		Z-13945_GG
+Bmus0091	South	1		Z-13945_GG
+Bmus0092	South	1		Z-13945_GG
+Bmus0093	South	1		Z-13945_GG
+Bmus0094	South	1		Z-62475_H
+Bmus0095	South	1		Z-62475_H
+Bmus0096	South	1		Z-13948_HH
+Bmus0097	South	1		Z-13948_HH
+Bmus0098	South	1		Z-13948_HH
+Bmus0099	South	1		Z-13948_HH
+Bmus0100	South	1		Z-13948_HH
+Bmus0101	South	1		Z-13948_HH
+Bmus0102	South	1		Z-13948_HH
+Bmus0103	South	1		Z-13948_HH
+Bmus0104	South	1		Z-62489_I
+Bmus0105	South	1		Z-62489_I
+Bmus0106	South	1		Z-62489_I
+Bmus0107	South	1		Z-62489_I
+Bmus0108	South	1		Z-62489_I
+Bmus0109	South	1		Z-62489_I
+Bmus0110	South	1		Z-62489_I
+Bmus0111	South	1		Z-62489_I
+Bmus0112	South	1		Z-62489_I
+Bmus0113	South	1		Z-62489_I
+Bmus0114	South	1		Z-62489_I
+Bmus0115	South	1		Z-7341_J
+Bmus0116	South	1		Z-7341_J
+Bmus0117	South	1		Z-7619_K
+Bmus0118	South	1		Z-88260_L
+Bmus0119	South	1		Z-88260_L
+Bmus0120	South	1		Z-88260_L
+Bmus0121	South	1		Z-88260_L
+Bmus0122	South	1		Z-88260_L
+Bmus0123	South	1		Z-88260_L
+Bmus0124	South	1		Z-88260_L
+Bmus0125	South	1		Z-88260_L
+Bmus0126	South	1		Z-88260_L
+Bmus0127	South	1		Z-88260_L
+Bmus0128	South	1		Z-88260_L
+Bmus0129	South	1		Z-88260_L
+Bmus0130	South	1		Z-88260_L
+Bmus0131	South	1		Z-7622_M
+Bmus0132	South	1		Z-7622_M
+Bmus0133	South	1		Z-7622_M
+Bmus0134	South	1		Z-7622_M
+Bmus0135	South	1		Z-7622_M
+Bmus0136	South	1		Z-7622_M
+Bmus0137	South	1		Z-7622_M
+Bmus0138	South	1		Z-7622_M
+Bmus0139	South	1		Z-7622_M
+Bmus0140	South	1		Z-7622_M
+Bmus0141	South	1		Z-7622_M
+Bmus0142	South	1		Z-7622_M
+Bmus0143	South	1		Z-7622_M
+Bmus0144	South	1		Z-7622_M
+Bmus0145	South	1		Z-13949_N
+Bmus0146	South	1		Z-13949_N
+Bmus0147	South	1		Z-13949_N
+Bmus0148	South	1		Z-13949_N
+Bmus0149	South	1		Z-13949_N
+Bmus0150	South	1		Z-13949_N
+Bmus0151	South	1		Z-13949_N
+Bmus0152	South	1		Z-26574_NN
+Bmus0153	South	1		Z-26574_NN
+Bmus0154	South	1		Z-26578_OO
+Bmus0155	South	1		Z-26578_OO
+Bmus0156	South	1		Z-11165_R
+Bmus0157	South	1		Z-11165_R
+Bmus0158	South	1		Z-26589_RR
+Bmus0159	South	1		Z-26589_RR
+Bmus0160	South	1		Z-26589_RR
+Bmus0161	South	1		Z-26589_RR
+Bmus0162	South	1		Z-26590_SS
+Bmus0163	South	1		Z-26590_SS
+Bmus0164	South	1		Z-26594_TT
+Bmus0165	South	1		Z-26594_TT
+Bmus0166	South	1		Z-11164_U
+Bmus0167	South	1		Z-11164_U
+Bmus0168	South	1		Z-11164_U
+Bmus0169	South	1		Z-11164_U
+Bmus0170	South	1		Z-11164_U
+Bmus0171	South	1		Z-11164_U
+Bmus0172	South	1		Z-Z51475_UU
+Bmus0173	South	1		Z-Z51475_UU
+Bmus0174	South	1		Z-26586_V
+Bmus0175	South	1		Z-26586_V
+Bmus0176	South	1		Hap_X
+Bmus0177	South	1		Z-51451_Y
+Bmus0178	South	1		Z-51451_Y
+Bmus0179	South	1		Z-51451_Y
+Bmus0180	South	1		Z-51451_Y
+Bmus0181	South	1		Z-51451_Y
+Bmus0182	South	1		Z6591_Z
+Bmus0183	South	1		Z6591_Z
+Bmus0184	South	1		Z6591_Z
+Bmus0185	North	2		
+Bmus0186	North	2		
+Bmus0187	North	2		
+Bmus0188	North	2		
+Bmus0189	North	2		
+Bmus0190	North	2		
+Bmus0191	North	2		
+Bmus0192	North	2		
+Bmus0193	North	2		
+Bmus0194	North	2		
+Bmus0195	North	2		
+Bmus0196	North	2		
+Bmus0197	North	2		
+Bmus0198	North	2		
+Bmus0199	North	2		
+Bmus0200	North	2		
+Bmus0201	North	2		
+Bmus0202	North	2		
+Bmus0203	North	2		
+Bmus0204	North	2		
+Bmus0205	North	2		
+Bmus0206	North	2		
+Bmus0207	North	2		
+Bmus0208	North	2		
+Bmus0209	North	2		
+Bmus0210	North	2		
+Bmus0211	North	2		
+Bmus0212	North	2		
+Bmus0213	North	2		
+Bmus0214	North	2		
+Bmus0215	North	2		
+Bmus0216	North	2		
+Bmus0217	North	2		
+Bmus0218	North	2		
+Bmus0219	North	2		
+Bmus0220	North	2		
+Bmus0221	North	2		
+Bmus0222	North	2		
+Bmus0223	North	2		
+Bmus0224	North	2		
+Bmus0225	North	2		
+Bmus0226	North	2		
+Bmus0227	North	2		
+Bmus0228	North	2		
+Bmus0229	North	2		
+Bmus0230	North	2		
+Bmus0231	North	2		
+Bmus0232	North	2		
+Bmus0233	North	2		
+Bmus0234	North	2		
+Bmus0235	North	2		
+Bmus0236	North	2		
+Bmus0237	North	2		
+Bmus0238	North	2		
+Bmus0239	North	2		
+Bmus0240	North	2		
+Bmus0241	North	2		
+Bmus0242	North	2		
+Bmus0243	North	2		
+Bmus0244	North	2		
+Bmus0245	North	2		
+Bmus0246	North	2		
+Bmus0247	North	2		
+Bmus0248	North	2		
+Bmus0249	North	2		
+Bmus0250	North	2		
+Bmus0251	North	2		
+Bmus0252	North	2		
+Bmus0253	North	2		
+Bmus0254	North	2		
+Bmus0255	North	2		
+Bmus0256	North	2		
+Bmus0257	North	2		
+Bmus0258	North	2		
+Bmus0259	North	2		
+Bmus0260	North	2		
+Bmus0261	North	2		
+Bmus0262	North	2		
+Bmus0263	North	2		
+Bmus0264	North	2		
+Bmus0265	North	2		
+Bmus0266	North	2		
+Bmus0267	North	2		
+Bmus0268	North	2		
+Bmus0269	North	2		
+Bmus0270	North	2		
+Bmus0271	North	2		
+Bmus0272	North	2		
+Bmus0273	North	2		
+Bmus0274	North	2		
+Bmus0275	North	2		
+Bmus0276	North	2		
+Bmus0277	North	2		
+Bmus0278	North	2		
+Bmus0279	North	2		
+Bmus0280	North	2		
+Bmus0281	North	2		
+Bmus0282	North	2		
+Bmus0283	North	2		
+Bmus0284	North	2		
+Bmus0285	North	2		
+Bmus0286	North	2		
+Bmus0287	North	2		
+Bmus0288	North	2		
+Bmus0289	North	2		
+Bmus0290	North	2		
+Bmus0291	North	2		
+Bmus0292	North	2		
+Bmus0293	North	2		
+Bmus0294	North	2		
+Bmus0295	North	2		
+Bmus0296	North	2		
+Bmus0297	North	2		
+Bmus0298	North	2		
+Bmus0299	North	2		
+Bmus0300	North	2		
+Bmus0301	North	2		
+Bmus0302	North	2		
+Bmus0303	North	2		
+Bmus0304	North	2		
+Bmus0305	North	2		
+Bmus0306	North	2		
+Bmus0307	North	2		
+Bmus0308	North	2		
+Bmus0309	North	2		
+Bmus0310	North	2		
+Bmus0311	North	2		
+Bmus0312	North	2		
+Bmus0313	North	2		
+Bmus0314	North	2		
+Bmus0315	North	2		
+Bmus0316	North	2		
+Bmus0317	North	2		
+Bmus0318	North	2		
+Bmus0319	North	2		
+Bmus0320	North	2		
+Bmus0321	North	2		
+Bmus0322	North	2		
+Bmus0323	North	2		
+Bmus0324	North	2		
+Bmus0325	North	2		
+Bmus0326	North	2		
+Bmus0327	North	2		
+Bmus0328	North	2		
+Bmus0329	North	2		
+Bmus0330	North	2		
+Bmus0331	North	2		
+Bmus0332	North	2		
+Bmus0333	North	2		
+Bmus0334	North	2		
+Bmus0335	North	2		
+Bmus0336	North	2		
+Bmus0337	North	2		
+Bmus0338	North	2		
+Bmus0339	North	2		
+Bmus0340	North	2		
+Bmus0341	North	2		
+Bmus0342	North	2		
+Bmus0343	North	2		
+Bmus0344	North	2		
+Bmus0345	North	2		
+Bmus0346	North	2		
+Bmus0347	North	2		
+Bmus0348	North	2		
+Bmus0349	North	2		
+Bmus0350	North	2		
+Bmus0351	North	2		
+Bmus0352	North	2		
+Bmus0353	North	2		
+Bmus0354	North	2		
+Bmus0355	North	2		
+Bmus0356	North	2		
+Bmus0357	North	2		
+Bmus0358	North	2		
+Bmus0359	North	2		
+Bmus0360	North	2		
+Bmus0361	North	2		
+Bmus0362	North	2		
+Bmus0363	North	2		
+Bmus0364	North	2		
+Bmus0365	North	2		
+Bmus0366	North	2		
+Bmus0367	North	2		
+Bmus0368	North	2		
+Bmus0369	North	2		
+Bmus0370	North	2		
+Bmus0371	North	2		
+Bmus0372	North	2		
+Bmus0373	North	2		
+Bmus0374	North	2		
+Bmus0375	North	2		
+Bmus0376	North	2		
+Bmus0377	North	2		
+Bmus0378	North	2		
+Bmus0379	North	2		
+Bmus0380	North	2		
+Bmus0381	North	2		
+Bmus0382	North	2		
+Bmus0383	North	2		
+Bmus0384	North	2		
+Bmus0385	North	2		
+Bmus0386	North	2		
+Bmus0387	North	2		
+Bmus0388	North	2		
+Bmus0389	North	2		
+Bmus0390	North	2		
+Bmus0391	North	2		
+Bmus0392	North	2		
+Bmus0393	North	2		
+Bmus0394	North	2		
+Bmus0395	North	2		
+Bmus0396	North	2		
+Bmus0397	North	2		
+Bmus0398	North	2		
+Bmus0399	North	2		
+Bmus0400	North	2		
+Bmus0401	North	2		
+Bmus0402	North	2		
+Bmus0403	North	2		
+Bmus0404	North	2		
+Bmus0405	North	2		
+Bmus0406	North	2		
+Bmus0407	North	2		
+Bmus0408	North	2		
+Bmus0409	North	2		
+Bmus0410	North	2		
+Bmus0411	North	2		
+Bmus0412	North	2		
+Bmus0413	North	2		
+Bmus0414	North	2		
+Bmus0415	North	2		
+Bmus0416	North	2		
+Bmus0417	North	2		
+Bmus0418	North	2		
+Bmus0419	North	2		
+Bmus0420	North	2		
+Bmus0421	North	2		
+Bmus0422	North	2		
+Bmus0423	North	2		
+Bmus0424	North	2		
+Bmus0425	North	2		
+Bmus0426	North	2		
+Bmus0427	North	2		
+Bmus0428	North	2		
+Bmus0429	North	2		
+Bmus0430	North	2		
+Bmus0431	North	2		
+Bmus0432	North	2		
+Bmus0433	North	2		
+Bmus0434	North	2		
+Bmus0435	North	2		
+Bmus0436	North	2		
+Bmus0437	North	2		
+Bmus0438	North	2		
+Bmus0439	North	2		
+Bmus0440	North	2		
+Bmus0441	North	2		
+Bmus0442	North	2		
+Bmus0443	North	2		
+Bmus0444	North	2		
+Bmus0445	North	2		
+Bmus0446	North	2		
+Bmus0447	North	2		
+Bmus0448	North	2		
+Bmus0449	North	2		
+Bmus0450	North	2		
+Bmus0451	North	2		
+Bmus0452	North	2		
+Bmus0453	North	2		
+Bmus0454	North	2		
+Bmus0455	North	2		
+Bmus0456	North	2		
+Bmus0457	North	2		
+Bmus0458	North	2		
+Bmus0459	North	2		
+Bmus0460	North	2		
+Bmus0461	North	2		
+Bmus0462	North	2		
+Bmus0463	North	2		
+Bmus0464	North	2		
+Bmus0465	North	2		
+Bmus0466	North	2		
+Bmus0467	North	2		
+Bmus0468	North	2		
+Bmus0469	North	2		
+Bmus0470	North	2		
+Bmus0471	North	2		
+Bmus0472	North	2		
+Bmus0473	North	2		
+Bmus0474	North	2		
+Bmus0475	North	2		
+Bmus0476	North	2		
+Bmus0477	North	2		
+Bmus0478	North	2		
+Bmus0479	North	2		
+Bmus0480	North	2		
+Bmus0481	North	2		
+Bmus0482	North	2		
+Bmus0483	North	2		
+Bmus0484	North	2		
+Bmus0485	North	2		
+Bmus0486	North	2		
+Bmus0487	North	2		
+Bmus0488	North	2		
+Bmus0489	North	2		
+Bmus0490	North	2		
+Bmus0491	North	2		
+Bmus0492	North	2		
+Bmus0493	North	2		
+Bmus0494	North	2		
+Bmus0495	North	2		
+Bmus0496	North	2		
+Bmus0497	North	2		
+Bmus0498	North	2		
+Bmus0499	North	2		
+Bmus0500	North	2		
+Bmus0501	North	2		
+Bmus0502	North	2		
+Bmus0503	North	2		
+Bmus0504	North	2		
+Bmus0505	North	2		
+Bmus0506	North	2		
+Bmus0507	North	2		
+Bmus0508	North	2		
+Bmus0509	North	2		
+Bmus0510	South	3	EU093925	Haplotype h
+Bmus0511	South	3	EU093921	Haplotype d
+Bmus0512	South	3	EU093938	Haplotype u
+Bmus0513	South	3	EU093938	Haplotype u
+Bmus0514	South	3	EU093938	Haplotype u
+Bmus0515	South	3	EU093959	Haplotype rr
+Bmus0516	South	3	EU093959	Haplotype rr
+Bmus0517	South	3	EU093959	Haplotype rr
+Bmus0518	South	3	EU093935	Haplotype r
+Bmus0519	South	3	EU093926	Haplotype i
+Bmus0520	South	3	EU093926	Haplotype i
+Bmus0521	South	3	EU093926	Haplotype i
+Bmus0522	South	3	EU093926	Haplotype i
+Bmus0523	South	3	EU093945	Haplotype bb
+Bmus0524	South	3	EU093945	Haplotype bb
+Bmus0525	South	3	EU093945	Haplotype bb
+Bmus0526	South	3	EU093945	Haplotype bb
+Bmus0527	South	3	EU093943	Haplotype z
+Bmus0528	South	3	EU093943	Haplotype z
+Bmus0529	South	3	EU093943	Haplotype z
+Bmus0530	South	3	EU093960	Haplotype ss
+Bmus0531	South	3	EU093962	Haplotype uu
+Bmus0532	South	3	EU093944	Haplotype aa
+Bmus0533	South	3	EU093950	Haplotype gg
+Bmus0534	South	3	EU093929	Haplotype l
+Bmus0535	South	3	EU093929	Haplotype l
+Bmus0536	South	3	EU093929	Haplotype l
+Bmus0537	South	3	EU093927	Haplotype j
+Bmus0538	South	3	EU093928	Haplotype k
+Bmus0539	South	3	EU093949	Haplotype ff
+Bmus0540	South	3	EU093951	Haplotype hh
+Bmus0541	South	3	EU093942	Haplotype y
+Bmus0542	South	3	EU093942	Haplotype y
+Bmus0543	South	3	EU093957	Haplotype nn
+Bmus0544	South	3	EU093931	Haplotype n
+Bmus0545	South	3	EU093931	Haplotype n
+Bmus0546	South	3	EU093931	Haplotype n
+Bmus0547	South	3	EU093931	Haplotype n
+Bmus0548	South	3	EU093948	Haplotype ee
+Bmus0549	South	3	EU093961	Haplotype tt
+Bmus0550	South	3	EU093930	Haplotype m
+Bmus0551	South	3	EU093930	Haplotype m
+Bmus0552	South	3	EU093958	Haplotype oo
+Bmus0553	South	3	EU093958	Haplotype oo
+Bmus0554	South	3	EU093941	Haplotype x
+Bmus0555	South	3	EU093939	Haplotype v

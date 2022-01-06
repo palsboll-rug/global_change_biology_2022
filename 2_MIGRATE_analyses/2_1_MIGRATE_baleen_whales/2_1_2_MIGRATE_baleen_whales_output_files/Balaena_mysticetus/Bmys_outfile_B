@@ -1,0 +1,260 @@
+  =============================================
+   Dataset of Bmysticetus for migrate          
+  =============================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  =============================================
+  Version 3.6.6
+
+  Program started at Wed Aug 30 18:13:04 2017
+         finished at Wed Aug 30 21:55:26 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.050000   0.100000   0.010000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 3634875
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)           9165183751
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.03500
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Bmysticetus_395mtDNA_454bp_20170828_Migrate_1p
+   Output file (ASCII text):                  Bmys_outfile_B
+   Output file (PDF):                             Bmys_B.pdf
+   Posterior distribution:                  Bmys_bayesfile_B
+   All values of Post.Dist:              Bmys_bayesallfile_B
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file       Bmys_mighistfile_B
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file  Bmys_skyline_B
+
+Summary of data:
+Title:   Balaena mysticetus where Population North represent
+Data file:  Bmysticetus_395mtDNA_454bp_20170828_Migrate_1pop
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 North      Bmys0281 Bmys0006 Bmys0161 Bmys0313 Bmys0308 Bmys0082 Bmys0355 Bmys0058 
+                 Bmys0024 Bmys0035 Bmys0189 Bmys0130 Bmys0385 Bmys0389 Bmys0105 Bmys0072 
+                 Bmys0044 Bmys0069 Bmys0112 Bmys0277 Bmys0343 Bmys0025 Bmys0232 Bmys0102 
+                 Bmys0155 Bmys0262 Bmys0052 Bmys0070 Bmys0114 Bmys0321 Bmys0333 Bmys0128 
+                 Bmys0237 Bmys0098 Bmys0154 Bmys0014 Bmys0156 Bmys0166 Bmys0159 Bmys0056 
+                 Bmys0390 Bmys0064 Bmys0193 Bmys0152 Bmys0158 Bmys0209 Bmys0083 Bmys0328 
+                 Bmys0380 Bmys0106 Bmys0268 Bmys0142 Bmys0078 Bmys0218 Bmys0263 Bmys0378 
+                 Bmys0342 Bmys0093 Bmys0300 Bmys0115 Bmys0100 Bmys0063 Bmys0190 Bmys0137 
+                 Bmys0170 Bmys0223 Bmys0307 Bmys0118 Bmys0254 Bmys0174 Bmys0295 Bmys0235 
+                 Bmys0222 Bmys0008 Bmys0302 Bmys0243 Bmys0195 Bmys0272 Bmys0316 Bmys0107 
+                 Bmys0113 Bmys0147 Bmys0085 Bmys0337 Bmys0110 Bmys0019 Bmys0047 Bmys0091 
+                 Bmys0357 Bmys0267 Bmys0260 Bmys0010 Bmys0181 Bmys0197 Bmys0224 Bmys0101 
+                 Bmys0220 Bmys0208 Bmys0022 Bmys0180 Bmys0236 Bmys0139 Bmys0084 Bmys0121 
+                 Bmys0157 Bmys0392 Bmys0319 Bmys0348 Bmys0318 Bmys0061 Bmys0146 Bmys0148 
+                 Bmys0043 Bmys0173 Bmys0275 Bmys0372 Bmys0395 Bmys0186 Bmys0088 Bmys0134 
+                 Bmys0060 Bmys0029 Bmys0182 Bmys0258 Bmys0126 Bmys0087 Bmys0274 Bmys0132 
+                 Bmys0288 Bmys0315 Bmys0131 Bmys0040 Bmys0018 Bmys0270 Bmys0306 Bmys0041 
+                 Bmys0162 Bmys0360 Bmys0365 Bmys0304 Bmys0269 Bmys0111 Bmys0017 Bmys0032 
+                 Bmys0299 Bmys0048 Bmys0292 Bmys0320 Bmys0027 Bmys0252 Bmys0294 Bmys0099 
+                 Bmys0007 Bmys0327 Bmys0144 Bmys0363 Bmys0371 Bmys0266 Bmys0246 Bmys0151 
+                 Bmys0376 Bmys0167 Bmys0251 Bmys0201 Bmys0188 Bmys0367 Bmys0168 Bmys0012 
+                 Bmys0256 Bmys0211 Bmys0362 Bmys0097 Bmys0305 Bmys0381 Bmys0163 Bmys0160 
+                 Bmys0013 Bmys0143 Bmys0290 Bmys0037 Bmys0065 Bmys0344 Bmys0317 Bmys0108 
+                 Bmys0250 Bmys0096 Bmys0051 Bmys0089 Bmys0045 Bmys0001 Bmys0183 Bmys0361 
+                 Bmys0120 Bmys0207 Bmys0345 Bmys0301 Bmys0386 Bmys0231 Bmys0228 Bmys0383 
+                 Bmys0322 Bmys0071 Bmys0015 Bmys0370 Bmys0240 Bmys0073 Bmys0023 Bmys0046 
+                 Bmys0175 Bmys0026 Bmys0009 Bmys0074 Bmys0080 Bmys0391 Bmys0257 Bmys0388 
+                 Bmys0238 Bmys0005 Bmys0359 Bmys0138 Bmys0054 Bmys0287 Bmys0187 Bmys0247 
+                 Bmys0375 Bmys0276 Bmys0206 Bmys0213 Bmys0325 Bmys0164 Bmys0036 Bmys0324 
+                 Bmys0135 Bmys0039 Bmys0104 Bmys0214 Bmys0346 Bmys0332 Bmys0179 Bmys0271 
+                 Bmys0192 Bmys0109 Bmys0125 Bmys0068 Bmys0172 Bmys0241 Bmys0169 Bmys0264 
+                 Bmys0379 Bmys0338 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 North                        1       395
+    Total of all populations     1       395
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.2977  0.2185  0.1747  0.3092       9.60000
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.02607  0.03233  0.03610  0.04020  0.04920  0.03697  0.03729
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0010000000  0.0770429075     0.0004344397
+0.0020000001  0.0725363418     0.0026870898
+0.0030000001  0.0603704192     0.0058867838
+0.0040000002  0.0468110517     0.0091413502
+0.0050000002  0.0350655802     0.0129619641
+0.0060000003  0.0266827960     0.0171635542
+0.0070000003  0.0214981101     0.0210097544
+0.0080000004  0.0184270777     0.0250899326
+0.0090000004  0.0166153908     0.0294384193
+0.0100000005  0.0155559052     0.0333948359
+0.0110000005  0.0149752842     0.0360416658
+0.0120000006  0.0147562241     0.0373964086
+0.0130000006  0.0148912892     0.0377764516
+0.0140000007  0.0153305633     0.0376101583
+0.0150000007  0.0160329938     0.0371525921
+0.0160000008  0.0169651005     0.0365517698
+0.0170000008  0.0180619694     0.0359681100
+0.0180000009  0.0192968920     0.0354171135
+0.0190000009  0.0206407309     0.0348384604
+0.0200000009  0.0220966805     0.0342634283
+0.0210000010  0.0236292817     0.0338386446
+0.0220000010  0.0252103601     0.0335428976
+0.0230000011  0.0267835613     0.0333141498
+0.0240000011  0.0284986328     0.0325103328
+0.0250000012  0.0302619990     0.0325106643
+0.0260000012  0.0319843180     0.0323703252
+0.0270000013  0.0336748362     0.0321620554
+0.0280000013  0.0354004987     0.0322624072
+0.0290000014  0.0371509567     0.0322453342
+0.0300000014  0.0388706587     0.0305109881
+0.0310000015  0.0405353233     0.0315575376
+0.0320000015  0.0420400426     0.0302304961
+0.0330000016  0.0400101468     0.0283817686
+0.0340000016  0.0346284173     0.0225485787
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00088    0.00000    0.00146    1.00000
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.01533    0.01550    0.00328    1.00000
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-2494.875074 (-1632.722477 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-1264.478002
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               159978810/159978810          1.00000
+Genealogies           51351254/640021190          0.08023
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.81710            609527.45
+  Ln[Prob(D|P)]          0.97522             75724.88
+

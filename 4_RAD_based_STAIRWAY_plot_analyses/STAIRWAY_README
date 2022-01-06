@@ -1,0 +1,33 @@
+This directory contain the scripts used for the RAD based analyses (“script” directory)
+Additionally, it contains the used data (links in the “rad_data” directory), list of sample 
+identification IDs (“IDs_files” directory) and the input file used to run stairway plot 
+(“blueprint” directory). 
+
+Each script corresponds to a step of the entire analysis pipeline which was executed in 
+the following order:
+
+- STACKS: process_radtags.sh
+
+Process_radtags separate reads per by sample ID creating four fastq files per sample ID
+(sample_xxx.1.fq, sample_xxx.2.fq, sample_xxx.rem.1.fq, sample_xxx.rem.2.fq). These are 
+the data files deposited in GenBank's SRA archive.
+
+Fastq read files from the same sample ID (i.e., from different RAD libraries) were 
+combined (using cat_command.sh), after which the infiles for ANGSD were generated applying 
+the following script in the listed order:
+
+- BOWTIE: bowtie2_alig.sh
+- SAMTOOLS: sam_to_sortedbam.sh
+- ANGSD: sfs.sh followed by sfs2.sh
+
+After generating the site frequency spectrum (SFS), the SFS was added to the corresponding
+blueprint file. The blueprint files used in the paper are all included in this repository.
+
+The blueprint files serves as the input for generting the final STAIRWAY plot. The final 
+STAIRWAY plot was generated as follows (available at the STAIRWAY 
+manual for ver. 2.0 beta): 
+
+java -cp stairway_plot_es Stairbuilder file.blueprint
+
+The command above creates the script file.blueprint.sh, which then is executed to produce
+the final STAIRWAY plot (i.e., file.blueprint.plot.sh)

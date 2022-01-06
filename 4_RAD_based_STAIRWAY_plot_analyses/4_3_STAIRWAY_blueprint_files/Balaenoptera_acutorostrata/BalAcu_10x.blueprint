@@ -1,0 +1,24 @@
+#example blueprint file
+#input setting
+popid: BalAcu_10x # id of the population (no white space)
+nseq: 54 # number of sequences
+L: 5051467 # total number of observed nucleic sites, including polymorphic and monomorphic
+whether_folded: true # whether the SFS is folded (true or false)
+SFS: 	3297.805263	1358.059481	873.939561	745.084399	639.308	532.062984	520.522028	470.273702	425.630854	405.028267	358.863538	363.071589	339.863056	302.510263	303.438305	303.84927	252.749802	256.113201	259.843733	319.272201	279.278649	269.416775	280.834997	233.774888	305.778033	266.441401	341.12754 # snp frequency spectrum: number of singleton, number of doubleton, etc. (separated by white space)
+#smallest_size_of_SFS_bin_used_for_estimation: 1 # default is 1; to ignore singletons, change this number to 2
+#largest_size_of_SFS_bin_used_for_estimation: 27 # default is nseq/2 for folded SFS
+pct_training: 0.67 # percentage of sites for training
+nrand: 13	26	39	52 # number of random break points for each try (separated by white space)
+project_dir: BalAcu_10x # project directory
+stairway_plot_dir: stairway_plot_es # directory to the stairway plot files
+ninput: 200 # number of input files to be created for each estimation
+#output setting
+mu: 2.27e-8 # assumed mutation rate per site per generation
+year_per_generation: 21.22 # assumed generation time (in years)
+#plot setting
+plot_title: BalAcu_10x # title of the plot
+xrange: 0.1,10000 # Time (1k year) range; format: xmin,xmax; "0,0" for default
+yrange: 0,0 # Ne (1k individual) range; format: xmin,xmax; "0,0" for default
+xspacing: 2 # X axis spacing
+yspacing: 2 # Y axis spacing
+fontsize: 12 # Font size

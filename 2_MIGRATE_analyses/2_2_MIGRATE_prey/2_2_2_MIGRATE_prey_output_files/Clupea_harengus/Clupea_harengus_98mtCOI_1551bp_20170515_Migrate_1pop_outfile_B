@@ -1,0 +1,223 @@
+  ============================================================
+   Dataset of Clupea harengus COI from Eastern North Atlantic 
+  ============================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ============================================================
+  Version 3.6.6
+
+  Program started at Mon Jun 19 13:37:05 2017
+         finished at Mon Jun 19 18:24:05 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.100000   0.200000   0.020000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 5638
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)              1734409
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.03600
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Clupea_harengus_98mtCOI_1551bp_20170515_Migrat
+   Output file (ASCII text): Clupea_harengus_98mtCOI_1551bp_
+   Output file (PDF):        Clupea_harengus_98mtCOI_1551bp_
+   Posterior distribution: Clupea_harengus_98mtCOI_1551bp_20
+   All values of Post.Dist:Clupea_harengus_98mtCOI_1551bp_20
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file Clupea_harengus_98mtCOI_
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Clupea_harengus
+
+Summary of data:
+Title: Clupea harengus where Population North represents the
+Data file:  Clupea_harengus_98mtCOI_1551bp_20170515_Migrate_
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 North      Char0001 Char0002 Char0003 Char0004 Char0005 Char0006 Char0007 Char0008 
+                 Char0009 Char0010 Char0011 Char0012 Char0013 Char0014 Char0015 Char0016 
+                 Char0017 Char0018 Char0019 Char0020 Char0021 Char0022 Char0023 Char0024 
+                 Char0025 Char0026 Char0027 Char0028 Char0029 Char0030 Char0031 Char0032 
+                 Char0033 Char0034 Char0035 Char0036 Char0037 Char0038 Char0039 Char0040 
+                 Char0041 Char0042 Char0043 Char0044 Char0045 Char0046 Char0047 Char0048 
+                 Char0049 Char0050 Char0051 Char0052 Char0053 Char0054 Char0055 Char0056 
+                 Char0057 Char0058 Char0059 Char0060 Char0061 Char0062 Char0063 Char0064 
+                 Char0065 Char0066 Char0067 Char0068 Char0069 Char0070 Char0071 Char0072 
+                 Char0073 Char0074 Char0075 Char0076 Char0077 Char0078 Char0079 Char0080 
+                 Char0081 Char0082 Char0083 Char0084 Char0085 Char0086 Char0087 Char0088 
+                 Char0089 Char0090 Char0091 Char0092 Char0093 Char0094 Char0095 Char0096 
+                 Char0097 Char0098 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 North                        1        98
+    Total of all populations     1        98
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.2528  0.2658  0.1940  0.2874      12.31880
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.02547  0.03160  0.03540  0.03933  0.04827  0.03633  0.03656
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0005000000  0.0882036462     0.0030678865
+0.0010000000  0.0559074916     0.0063346699
+0.0015000001  0.0312347505     0.0111343004
+0.0020000001  0.0188339464     0.0194401797
+0.0025000001  0.0118448325     0.0325576253
+0.0030000001  0.0070517212     0.0475000329
+0.0035000002  0.0043181833     0.0606404617
+0.0040000002  0.0032135944     0.0697274506
+0.0045000002  0.0029049281     0.0749426484
+0.0050000002  0.0029946466     0.0770244971
+0.0055000003  0.0033361488     0.0777878314
+0.0060000003  0.0038561746     0.0778820515
+0.0065000003  0.0044879690     0.0769346878
+0.0070000003  0.0052334792     0.0777036697
+0.0075000004  0.0060337028     0.0720015541
+0.0080000004  0.0066172555     0.0805447251
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00080    0.00000    0.00080    1.00000
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00404    0.00375    0.00071    1.00000
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-3651.649609 (-3347.528251 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-3247.182722
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               159982839/159982839          1.00000
+Genealogies           43950266/640017161          0.06867
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.49161           3498963.21
+  Ln[Prob(D|P)]          0.92991            372313.41
+

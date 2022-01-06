@@ -1,0 +1,271 @@
+  ============================================================
+   Dataset of Calanus helgolandicus for migrate North Atlantic
+  ============================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ============================================================
+  Version 3.6.6
+
+  Program started at Fri May  5 14:10:31 2017
+         finished at Fri May  5 18:21:29 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.050000   0.100000   0.010000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 3567
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)               689157
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.02000
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Calanus_helgolandicus_218mt16S_408bp_20170425_
+   Output file (ASCII text): Calanus_helgolandicus_218mt16S_
+   Output file (PDF):        Calanus_helgolandicus_218mt16S_
+   Posterior distribution: Calanus_helgolandicus_218mt16S_40
+   All values of Post.Dist:Calanus_helgolandicus_218mt16S_40
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file Calanus_helgolandicus_21
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Calanus_helgola
+
+Summary of data:
+Title: Calanus helgolandicus where Population North represen
+Data file:  Calanus_helgolandicus_218mt16S_408bp_20170425_Mi
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 North      Chel0001 Chel0002 Chel0003 Chel0004 Chel0005 Chel0006 Chel0007 Chel0008 
+                 Chel0009 Chel0010 Chel0011 Chel0012 Chel0013 Chel0014 Chel0015 Chel0016 
+                 Chel0017 Chel0018 Chel0019 Chel0020 Chel0021 Chel0022 Chel0023 Chel0024 
+                 Chel0025 Chel0026 Chel0027 Chel0028 Chel0029 Chel0030 Chel0031 Chel0032 
+                 Chel0033 Chel0034 Chel0035 Chel0036 Chel0037 Chel0038 Chel0039 Chel0040 
+                 Chel0041 Chel0042 Chel0043 Chel0044 Chel0045 Chel0046 Chel0047 Chel0048 
+                 Chel0049 Chel0050 Chel0051 Chel0052 Chel0053 Chel0054 Chel0055 Chel0056 
+                 Chel0057 Chel0058 Chel0059 Chel0060 Chel0061 Chel0062 Chel0063 Chel0064 
+                 Chel0065 Chel0066 Chel0067 Chel0068 Chel0069 Chel0070 Chel0071 Chel0072 
+                 Chel0073 Chel0074 Chel0075 Chel0076 Chel0077 Chel0078 Chel0079 Chel0080 
+                 Chel0081 Chel0082 Chel0083 Chel0084 Chel0085 Chel0086 Chel0087 Chel0088 
+                 Chel0089 Chel0090 Chel0091 Chel0092 Chel0093 Chel0094 Chel0095 Chel0096 
+                 Chel0097 Chel0098 Chel0099 Chel0100 Chel0101 Chel0102 Chel0103 Chel0104 
+                 Chel0105 Chel0106 Chel0107 Chel0108 Chel0109 Chel0110 Chel0111 Chel0112 
+                 Chel0113 Chel0114 Chel0115 Chel0116 Chel0117 Chel0118 Chel0119 Chel0120 
+                 Chel0121 Chel0122 Chel0123 Chel0124 Chel0125 Chel0126 Chel0127 Chel0128 
+                 Chel0129 Chel0130 Chel0131 Chel0132 Chel0133 Chel0134 Chel0135 Chel0136 
+                 Chel0137 Chel0138 Chel0139 Chel0140 Chel0141 Chel0142 Chel0143 Chel0144 
+                 Chel0145 Chel0146 Chel0147 Chel0148 Chel0149 Chel0150 Chel0151 Chel0152 
+                 Chel0153 Chel0154 Chel0155 Chel0156 Chel0157 Chel0158 Chel0159 Chel0160 
+                 Chel0161 Chel0162 Chel0163 Chel0164 Chel0165 Chel0166 Chel0167 Chel0168 
+                 Chel0169 Chel0170 Chel0171 Chel0172 Chel0173 Chel0174 Chel0175 Chel0176 
+                 Chel0177 Chel0178 Chel0179 Chel0180 Chel0181 Chel0182 Chel0183 Chel0184 
+                 Chel0185 Chel0186 Chel0187 Chel0188 Chel0189 Chel0190 Chel0191 Chel0192 
+                 Chel0193 Chel0194 Chel0195 Chel0196 Chel0197 Chel0198 Chel0199 Chel0200 
+                 Chel0201 Chel0202 Chel0203 Chel0204 Chel0205 Chel0206 Chel0207 Chel0208 
+                 Chel0209 Chel0210 Chel0211 Chel0212 Chel0213 Chel0214 Chel0215 Chel0216 
+                 Chel0217 Chel0218 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 North                        1       218
+    Total of all populations     1       218
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.3592  0.1253  0.1720  0.3435       6.54000
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.01220  0.01640  0.01903  0.02200  0.02853  0.01977  0.02008
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0005000000  0.0371752642     0.0002726731
+0.0010000000  0.0332550295     0.0016713561
+0.0015000001  0.0304956995     0.0038912150
+0.0020000001  0.0288959369     0.0064590205
+0.0025000001  0.0271247998     0.0091507146
+0.0030000001  0.0248855632     0.0115417289
+0.0035000002  0.0226142835     0.0134650590
+0.0040000002  0.0205426402     0.0150853461
+0.0045000002  0.0186125394     0.0163795315
+0.0050000002  0.0167635847     0.0175216403
+0.0055000003  0.0151536847     0.0186123177
+0.0060000003  0.0138261290     0.0194463562
+0.0065000003  0.0127940290     0.0200377051
+0.0070000003  0.0120304944     0.0205307305
+0.0075000004  0.0114976019     0.0209163669
+0.0080000004  0.0111550316     0.0211894270
+0.0085000004  0.0109924087     0.0214348864
+0.0090000004  0.0109550534     0.0215718970
+0.0095000005  0.0110315019     0.0216642953
+0.0100000005  0.0111877117     0.0217688512
+0.0105000005  0.0114224637     0.0217636880
+0.0110000005  0.0117282402     0.0217660982
+0.0115000005  0.0120722027     0.0218333490
+0.0120000006  0.0124765700     0.0218139235
+0.0125000006  0.0129153514     0.0218219385
+0.0130000006  0.0134196002     0.0218041260
+0.0135000006  0.0139618265     0.0217446145
+0.0140000007  0.0145851504     0.0217671376
+0.0145000007  0.0152518945     0.0217414275
+0.0150000007  0.0159240887     0.0216849390
+0.0155000007  0.0164927207     0.0217482504
+0.0160000008  0.0172155537     0.0216674656
+0.0165000008  0.0179902110     0.0216989610
+0.0170000008  0.0188754965     0.0215307325
+0.0175000008  0.0197270494     0.0214745514
+0.0180000009  0.0205598585     0.0215588100
+0.0185000009  0.0213608481     0.0216241553
+0.0190000009  0.0221635774     0.0215087067
+0.0195000009  0.0230590105     0.0213440806
+0.0200000009  0.0240532681     0.0214872994
+0.0205000010  0.0247585848     0.0214091707
+0.0210000010  0.0254940689     0.0215949956
+0.0215000010  0.0264890883     0.0208098143
+0.0220000010  0.0276877470     0.0216496792
+0.0225000011  0.0285735782     0.0221308060
+0.0230000011  0.0293072555     0.0221013427
+0.0235000011  0.0299274512     0.0216321759
+0.0240000011  0.0284370575     0.0201263614
+0.0245000012  0.0261234585     0.0178925861
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00049    0.00000    0.00095    1.00000
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00902    0.00875    0.00255    1.00000
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-1166.134958 (-986.973479 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-879.980038
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               159993662/159993662          1.00000
+Genealogies           266710124/640006338          0.41673
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.83296            550736.13
+  Ln[Prob(D|P)]          0.92331            240837.03
+

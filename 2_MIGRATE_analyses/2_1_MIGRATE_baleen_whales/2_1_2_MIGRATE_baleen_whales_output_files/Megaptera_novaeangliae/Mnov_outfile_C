@@ -1,0 +1,425 @@
+  ====================================================
+   Dataset of M novaeangliae for migration North South
+  ====================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ====================================================
+  Version 3.6.6
+
+  Program started at Sat Sep  2 23:38:02 2017
+         finished at Sun Sep  3 08:39:35 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+Migration rate      (M)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.075000   0.150000   0.015000 
+Migration rate      (M)      Uniform  0.000000  125.000000 250.000000 25.000000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 1092452
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)           3658193856
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.07000,0.00700
+   M values were generated from guessed values
+   M-matrix: ----- 20.00 
+               60.00 ----- 
+               
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Mnovaeangliae_1586mtDNA_396bp_20170902_Migrate
+   Output file (ASCII text):                  Mnov_outfile_C
+   Output file (PDF):                             Mnov_C.pdf
+   Posterior distribution:                  Mnov_bayesfile_C
+   All values of Post.Dist:              Mnov_bayesallfile_C
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file       Mnov_mighistfile_C
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file  Mnov_skyline_C
+
+Summary of data:
+Title: Megaptera novaeangliae where Population South represe
+Data file:  Mnovaeangliae_1586mtDNA_396bp_20170902_Migrate_2
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 South      Mnov1936 Mnov1495 Mnov1702 Mnov1491 Mnov1607 Mnov1529 Mnov1661 Mnov1790 
+                 Mnov1839 Mnov1726 Mnov1872 Mnov1625 Mnov1650 Mnov1494 Mnov1700 Mnov1531 
+                 Mnov1919 Mnov1841 Mnov1759 Mnov1928 Mnov1832 Mnov1838 Mnov1548 Mnov1614 
+                 Mnov1564 Mnov1632 Mnov1597 Mnov1827 Mnov1738 Mnov1847 Mnov1736 Mnov1652 
+                 Mnov1643 Mnov1889 Mnov1855 Mnov1801 Mnov1884 Mnov1492 Mnov1535 Mnov1673 
+                 Mnov1587 Mnov1490 Mnov1771 Mnov1606 Mnov1762 Mnov1506 Mnov1750 Mnov1864 
+                 Mnov1553 Mnov1805 Mnov1717 Mnov1657 Mnov1944 Mnov1800 Mnov1708 Mnov1542 
+                 Mnov1575 Mnov1629 Mnov1798 Mnov1905 Mnov1588 Mnov1799 Mnov1968 Mnov1857 
+                 Mnov1569 Mnov1942 Mnov1634 Mnov1808 Mnov1772 Mnov1620 Mnov1862 Mnov1849 
+                 Mnov1496 Mnov1920 Mnov1515 Mnov1649 Mnov1693 Mnov1861 Mnov1581 Mnov1644 
+                 Mnov1781 Mnov1840 Mnov1716 Mnov1565 Mnov1706 Mnov1712 Mnov1678 Mnov1926 
+                 Mnov1767 Mnov1806 Mnov1549 Mnov1837 Mnov1557 Mnov1918 Mnov1611 Mnov1574 
+                 Mnov1778 Mnov1690 Mnov1664 Mnov1793 Mnov1859 Mnov1876 Mnov1848 Mnov1670 
+                 Mnov1737 Mnov1528 Mnov1507 Mnov1518 Mnov1519 Mnov1591 Mnov1697 Mnov1764 
+                 Mnov1725 Mnov1732 Mnov1497 Mnov1970 Mnov1610 Mnov1930 Mnov1585 Mnov1782 
+                 Mnov1807 Mnov1803 Mnov1504 Mnov1949 Mnov1821 Mnov1707 Mnov1609 Mnov1850 
+                 Mnov1555 Mnov1830 Mnov1779 Mnov1624 Mnov1890 Mnov1517 Mnov1899 Mnov1752 
+                 Mnov1979 Mnov1676 Mnov1600 Mnov1823 Mnov1654 Mnov1570 Mnov1791 Mnov1813 
+                 Mnov1969 Mnov1984 Mnov1977 Mnov1877 Mnov1545 Mnov1662 Mnov1719 Mnov1556 
+                 Mnov1604 Mnov1694 Mnov1593 Mnov1748 Mnov1739 Mnov1858 Mnov1971 Mnov1685 
+                 Mnov1746 Mnov1844 Mnov1822 Mnov1586 Mnov1666 Mnov1516 Mnov1893 Mnov1761 
+                 Mnov1503 Mnov1603 Mnov1721 Mnov1554 Mnov1957 Mnov1508 Mnov1824 Mnov1660 
+                 Mnov1612 Mnov1916 Mnov1559 Mnov1980 Mnov1907 Mnov1695 Mnov1950 Mnov1868 
+                 Mnov1524 Mnov1568 Mnov1797 Mnov1760 Mnov1836 Mnov1671 Mnov1875 Mnov1933 
+                 Mnov1894 Mnov1775 Mnov1773 Mnov1684 Mnov1605 Mnov1520 Mnov1683 Mnov1931 
+                 Mnov1653 Mnov1552 Mnov1763 Mnov1720 Mnov1539 Mnov1927 Mnov1964 Mnov1874 
+                 Mnov1639 Mnov1595 Mnov1784 Mnov1794 Mnov1558 Mnov1895 Mnov1902 Mnov1886 
+                 Mnov1769 Mnov1622 Mnov1869 Mnov1755 Mnov1499 Mnov1975 Mnov1952 Mnov1955 
+                 Mnov1974 Mnov1619 Mnov1812 Mnov1917 Mnov1681 Mnov1814 Mnov1853 Mnov1747 
+                 Mnov1834 Mnov1965 Mnov1521 Mnov1883 Mnov1631 Mnov1724 Mnov1500 Mnov1802 
+                 Mnov1940 Mnov1709 Mnov1551 Mnov1741 Mnov1815 Mnov1871 Mnov1692 Mnov1751 
+                 Mnov1925 Mnov1845 
+      North      Mnov3692 Mnov4328 Mnov3844 Mnov4392 Mnov3829 Mnov4007 Mnov4276 Mnov3672 
+                 Mnov3854 Mnov3777 Mnov4234 Mnov3465 Mnov4054 Mnov3671 Mnov4481 Mnov3771 
+                 Mnov4133 Mnov4179 Mnov4154 Mnov3861 Mnov3402 Mnov3577 Mnov3571 Mnov3875 
+                 Mnov3499 Mnov3799 Mnov4244 Mnov3518 Mnov3982 Mnov4126 Mnov4480 Mnov4122 
+                 Mnov4421 Mnov4260 Mnov3818 Mnov4113 Mnov4120 Mnov4069 Mnov3607 Mnov4399 
+                 Mnov3749 Mnov3609 Mnov3897 Mnov3986 Mnov3515 Mnov3808 Mnov3632 Mnov3867 
+                 Mnov3681 Mnov3601 Mnov4050 Mnov3936 Mnov3679 Mnov3755 Mnov4235 Mnov3587 
+                 Mnov3781 Mnov4396 Mnov3660 Mnov3653 Mnov3680 Mnov3726 Mnov4358 Mnov4454 
+                 Mnov3966 Mnov3978 Mnov4445 Mnov4346 Mnov4475 Mnov4360 Mnov3534 Mnov3885 
+                 Mnov4282 Mnov3888 Mnov3560 Mnov3700 Mnov3728 Mnov4170 Mnov3954 Mnov3646 
+                 Mnov4269 Mnov4414 Mnov4284 Mnov4093 Mnov4205 Mnov4241 Mnov4022 Mnov4035 
+                 Mnov3603 Mnov4176 Mnov3870 Mnov3857 Mnov4467 Mnov4364 Mnov4209 Mnov3895 
+                 Mnov3502 Mnov3775 Mnov4341 Mnov4337 Mnov4252 Mnov3537 Mnov4024 Mnov3714 
+                 Mnov4307 Mnov3619 Mnov4190 Mnov3702 Mnov3624 Mnov4117 Mnov4457 Mnov3576 
+                 Mnov3464 Mnov4229 Mnov4459 Mnov3661 Mnov3935 Mnov3593 Mnov4426 Mnov3539 
+                 Mnov4224 Mnov4088 Mnov4097 Mnov3514 Mnov4422 Mnov3582 Mnov3816 Mnov4064 
+                 Mnov4090 Mnov3416 Mnov4175 Mnov3476 Mnov3429 Mnov3419 Mnov3443 Mnov4412 
+                 Mnov3748 Mnov4213 Mnov4380 Mnov3788 Mnov3447 Mnov3580 Mnov4436 Mnov3655 
+                 Mnov4309 Mnov4128 Mnov4239 Mnov3989 Mnov3479 Mnov3414 Mnov3690 Mnov3455 
+                 Mnov4404 Mnov4362 Mnov3761 Mnov3774 Mnov3741 Mnov4271 Mnov4441 Mnov3561 
+                 Mnov3734 Mnov3703 Mnov4150 Mnov4325 Mnov4405 Mnov4293 Mnov3720 Mnov3611 
+                 Mnov4052 Mnov4168 Mnov3481 Mnov4214 Mnov3863 Mnov4359 Mnov4444 Mnov4005 
+                 Mnov3913 Mnov3715 Mnov3583 Mnov4484 Mnov3783 Mnov3575 Mnov3962 Mnov4410 
+                 Mnov3879 Mnov4391 Mnov3608 Mnov3674 Mnov4157 Mnov3578 Mnov3523 Mnov4311 
+                 Mnov3820 Mnov4416 Mnov4103 Mnov3845 Mnov4139 Mnov3545 Mnov4010 Mnov3836 
+                 Mnov3614 Mnov4347 Mnov3924 Mnov4228 Mnov4125 Mnov4171 Mnov4267 Mnov3856 
+                 Mnov3642 Mnov3938 Mnov3630 Mnov3738 Mnov3631 Mnov3584 Mnov3930 Mnov3958 
+                 Mnov4201 Mnov4131 Mnov4195 Mnov3932 Mnov3968 Mnov3985 Mnov4178 Mnov3488 
+                 Mnov4402 Mnov4061 Mnov4142 Mnov3520 Mnov4355 Mnov3403 Mnov3864 Mnov3926 
+                 Mnov3483 Mnov4303 Mnov3790 Mnov3647 Mnov3412 Mnov4279 Mnov4106 Mnov3943 
+                 Mnov3415 Mnov3683 Mnov3563 Mnov3929 Mnov3478 Mnov4143 Mnov3668 Mnov4308 
+                 Mnov4278 Mnov4366 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 South                        1       500
+  2 North                        1      1086
+    Total of all populations     1      1586
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.3061  0.2269  0.1586  0.3084      25.40000
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.06380  0.07550  0.08255  0.09000  0.10560  0.08385  0.08430
+    1  Theta_2         0.00420  0.00710  0.00895  0.01080  0.01470  0.00935  0.00938
+    1  M_2->1             1.50    29.50    45.42    64.17    98.67    49.75    51.61
+    1  M_1->2             0.00     0.00     9.25    30.33   113.00    30.42    40.21
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0010000000  0.2914599180     0.0003140476
+0.0020000001  0.3238807917     0.0015753229
+0.0030000001  0.2966505587     0.0029335667
+0.0040000002  0.2543292344     0.0045687500
+0.0050000002  0.2125499099     0.0065684887
+0.0060000003  0.1659882963     0.0084228739
+0.0070000003  0.1379463673     0.0104850950
+0.0080000004  0.1177542284     0.0133556668
+0.0090000004  0.1066606417     0.0165204220
+0.0100000005  0.0982220173     0.0196882561
+0.0110000005  0.0900868773     0.0223801397
+0.0120000006  0.0789268538     0.0248938221
+0.0130000006  0.0685235858     0.0263897218
+0.0140000007  0.0590909272     0.0283189751
+0.0150000007  0.0513885766     0.0300970916
+0.0160000008  0.0424045920     0.0314230174
+0.0170000008  0.0352295302     0.0325481333
+0.0180000009  0.0297193229     0.0338087864
+0.0190000009  0.0252200738     0.0347122289
+0.0200000009  0.0229758918     0.0352445431
+0.0210000010  0.0212081838     0.0355395377
+0.0220000010  0.0197075270     0.0364723168
+0.0230000011  0.0192494057     0.0366668031
+0.0240000011  0.0194012001     0.0368110202
+0.0250000012  0.0202923007     0.0374716185
+0.0260000012  0.0206573810     0.0369191281
+0.0270000013  0.0223237276     0.0363736562
+0.0280000013  0.0245765410     0.0385062881
+0.0290000014  0.0263817608     0.0381193161
+0.0300000014  0.0271199886     0.0349768773
+0.0310000015  0.0858635902     0.0344751291
+0.0320000015  0.0318821371     0.0338007808
+0.0330000016  0.0375155471     0.0311001409
+0.0340000016  0.0368422419     0.0301624779
+0.0350000017  0.0439065695     0.0286454689
+0.0360000017  0.0507349670     0.0236680862
+0.0370000018  0.0418074802     0.0222584382
+0.0380000018  0.0377358869     0.0180450752
+
+Locus: 1   Parameter: Theta_2
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0010000000  0.0110062100     0.0001003278
+0.0020000001  0.0080508320     0.0007427851
+0.0030000001  0.0097513422     0.0017655930
+0.0040000002  0.0108336266     0.0029965804
+0.0050000002  0.0113059198     0.0045470758
+0.0060000003  0.0122570321     0.0064711389
+0.0070000003  0.0126101114     0.0088064801
+0.0080000004  0.0143056987     0.0117768506
+0.0090000004  0.0162024796     0.0151785947
+0.0100000005  0.0170070268     0.0179743264
+0.0110000005  0.0179032162     0.0208946858
+0.0120000006  0.0179376788     0.0230381079
+0.0130000006  0.0176090412     0.0249517970
+0.0140000007  0.0166337676     0.0263706315
+0.0150000007  0.0151807992     0.0283179823
+0.0160000008  0.0139110945     0.0294515546
+0.0170000008  0.0125386035     0.0305383578
+0.0180000009  0.0116224298     0.0313996598
+0.0190000009  0.0108702797     0.0320534036
+0.0200000009  0.0104945991     0.0330898799
+0.0210000010  0.0103648603     0.0335555598
+0.0220000010  0.0104035530     0.0340703055
+0.0230000011  0.0105418619     0.0342584029
+0.0240000011  0.0109148556     0.0343795270
+0.0250000012  0.0112656904     0.0346124731
+0.0260000012  0.0117527181     0.0344832577
+0.0270000013  0.0121264039     0.0344112888
+0.0280000013  0.0127928834     0.0346564874
+0.0290000014  0.0137923788     0.0345686898
+0.0300000014  0.0146480715     0.0343794599
+0.0310000015  0.0157000646     0.0354282074
+0.0320000015  0.0158944596     0.0361414291
+0.0330000016  0.0158819873     0.0340794288
+0.0340000016  0.0163781624     0.0347867012
+0.0350000017  0.0171792805     0.0363348983
+0.0360000017  0.0169294421     0.0360740498
+0.0370000018  0.0177064240     0.0326323882
+0.0380000018  0.0138607221     0.0253184251
+0.0390000019  0.0104220090     0.0166947879
+0.0400000019  0.0046172757     0.0088711865
+0.0410000019  0.0030928361     0.0042001111
+
+Locus: 1   Parameter: M_(2,1)
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0010000000  1366.8070068359     0.0319488831
+0.0020000001  712.7590332031     0.0319488831
+0.0030000001  525.6024780273     0.0319488831
+0.0040000002  533.4046630859     0.0319488831
+0.0050000002  569.2551269531     0.0319488831
+0.0060000003  611.2325439453     0.0319488831
+0.0070000003  639.6258544922     0.0319488831
+0.0080000004  633.6820068359     0.0319488831
+0.0090000004  576.8984375000     0.0319488831
+0.0100000005  520.1760253906     0.0319488831
+0.0110000005  534.2717895508     0.0319488831
+0.0120000006  572.0475463867     0.0319488831
+0.0130000006  620.3302001953     0.0319488831
+0.0140000007  653.7598266602     0.0319488831
+0.0150000007  761.2634277344     0.0319488831
+0.0160000008  804.1571044922     0.0319488831
+0.0170000008  898.3359375000     0.0319488831
+0.0180000009  977.7327880859     0.0319488831
+0.0190000009  1165.7440185547     0.0319488831
+0.0200000009  1117.5241699219     0.0319488831
+0.0210000010  1143.3745117188     0.0319488831
+0.0220000010  1270.8227539062     0.0319488831
+0.0230000011  1378.9749755859     0.0319488831
+0.0240000011  1189.2038574219     0.0319488831
+0.0250000012  1693.1033935547     0.0319488831
+0.0260000012  1366.7567138672     0.0319488831
+0.0270000013  3822.9348144531     0.0319488831
+0.0280000013  1187.5568847656     0.0319488831
+0.0290000014  1117.8503417969     0.0300319493
+
+Locus: 1   Parameter: M_(1,2)
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0010000000  10998.0751953125     0.0349895023
+0.0020000001  3921.7011718750     0.0349895023
+0.0030000001  2810.2077636719     0.0349895023
+0.0040000002  2116.5192871094     0.0349895023
+0.0050000002  2439.8845214844     0.0349895023
+0.0060000003  2077.0244140625     0.0349895023
+0.0070000003  2762.4680175781     0.0349895023
+0.0080000004  1726.2302246094     0.0349895023
+0.0090000004  1529.6535644531     0.0349895023
+0.0100000005  1774.1564941406     0.0349895023
+0.0110000005  1191.1202392578     0.0349895023
+0.0120000006  1286.7998046875     0.0349895023
+0.0130000006  1166.0465087891     0.0349895023
+0.0140000007  1255.2424316406     0.0349895023
+0.0150000007  1217.3729248047     0.0349895023
+0.0160000008  997.8025512695     0.0349895023
+0.0170000008  1174.4101562500     0.0349895023
+0.0180000009  970.2615966797     0.0349895023
+0.0190000009  1142.8563232422     0.0349895023
+0.0200000009  1155.1370849609     0.0349895023
+0.0210000010  1111.4990234375     0.0349895023
+0.0220000010  1162.6602783203     0.0349895023
+0.0230000011  1799.9837646484     0.0349895023
+0.0240000011  1700.7954101562     0.0342897102
+0.0250000012  1485.9237060547     0.0349895023
+0.0260000012  1144.9753417969     0.0311406571
+0.0270000013  2647.8706054688     0.0293911826
+0.0280000013  3439.8325195312     0.0227431767
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00116    0.00000    0.00196    0.48115
+   2    2    0.00096    0.00000    0.00225    0.48549
+   2    1    0.00588    0.00350    0.00547    0.02910
+   1    2    0.00597    0.00450    0.00552    0.00425
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.02195    0.02150    0.00316    0.20045
+   2    2    0.02150    0.02150    0.00335    0.79955
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-5636.974943 (-2635.250268 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-1777.098532
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               40000465/40000465          1.00000
+Theta_2               40004229/40004229          1.00000
+M_2->1                39998581/39998581          1.00000
+M_1->2                40000724/40000724          1.00000
+Genealogies           47790302/639996001          0.07467
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.69877           1075402.16
+  Theta_2                0.91308            274555.57
+  M_2->1                 0.58323           1641666.12
+  M_1->2                 0.47221           2180120.79
+  Ln[Prob(D|P)]          0.99022             29652.03
+

@@ -1,0 +1,1603 @@
+Species	Megaptera novaeangliae			
+Number of data sets	1			
+				
+Data set no.	1			
+Locus	Mitochondrial control region			
+DNA sequence lengh (in base pairs)	1586			
+No. of DNA sequences	396			
+				
+Data source references:		Sample areas	Habitat	Links to source data files
+1	Jackson, J. A., Steel, D. J., Beerli, P., Congdon, B. C., Olavarria, C., Leslie, M. S., … Baker, C. S. (2014). Global diversity and oceanic divergence of humpback whales (\emph{Megaptera novaeangliae}). Proceedings of the Royal Society of London B Biological Sciences, 281(1786), 20133222. doi: 10.1098/rspb.2013.3222	South Atlantic Ocean	Winter breeding grounds	Dr. Jennifer Jackson, Personal communication 
+2	This study	western North Atlantic Ocean	Winter breeding ground	
+				
+Migrate data file name	Mnovaeanliae_1586mtDNA_396bp_20170902_Migrate_2pop.txt			
+Results figure(s)	4, S1 & S6			
+				
+Individual sample identifiers and data source				
+Migrate_infile_sequence_identifier	Migrate_sample_partition	Data_source	GenBank_Accession_number	Source_DNA_sequence_identifier
+Mnov1490	South	1		12C3_1
+Mnov1491	South	1		12C3_2
+Mnov1492	South	1		12C3_3
+Mnov1493	South	1		12C3_4
+Mnov1494	South	1		14C3_1
+Mnov1495	South	1		14C3_2
+Mnov1496	South	1		14C3_3
+Mnov1497	South	1		16C3_1
+Mnov1498	South	1		16C3_2
+Mnov1499	South	1		23C3_1
+Mnov1500	South	1		23C3_2
+Mnov1501	South	1		29C3_1
+Mnov1502	South	1		29C3_2
+Mnov1503	South	1		29C3_3
+Mnov1504	South	1		29C3_4
+Mnov1505	South	1		29C3_5
+Mnov1506	South	1		29C3_6
+Mnov1507	South	1		29C3_7
+Mnov1508	South	1		29C3_8
+Mnov1509	South	1		29C3_9
+Mnov1510	South	1		29C3_10
+Mnov1511	South	1		29C3_11
+Mnov1512	South	1		31C3_1
+Mnov1513	South	1		32C3_1
+Mnov1514	South	1		33C3_1
+Mnov1515	South	1		34C3_1
+Mnov1516	South	1		34C3_2
+Mnov1517	South	1		35C3_1
+Mnov1518	South	1		35C3_2
+Mnov1519	South	1		35C3_3
+Mnov1520	South	1		39C3_1
+Mnov1521	South	1		39C3_2
+Mnov1522	South	1		39C3_3
+Mnov1523	South	1		39C3_4
+Mnov1524	South	1		39C3_5
+Mnov1525	South	1		39C3_6
+Mnov1526	South	1		39C3_7
+Mnov1527	South	1		39C3_8
+Mnov1528	South	1		39C3_9
+Mnov1529	South	1		39C3_10
+Mnov1530	South	1		39C3_11
+Mnov1531	South	1		39C3_12
+Mnov1532	South	1		39C3_13
+Mnov1533	South	1		39C3_14
+Mnov1534	South	1		39C3_15
+Mnov1535	South	1		39C3_16
+Mnov1536	South	1		39C3_17
+Mnov1537	South	1		39C3_18
+Mnov1538	South	1		39C3_19
+Mnov1539	South	1		40C3_1
+Mnov1540	South	1		40C3_2
+Mnov1541	South	1		40C3_3
+Mnov1542	South	1		40C3_4
+Mnov1543	South	1		40C3_5
+Mnov1544	South	1		41C3_1
+Mnov1545	South	1		41C3_2
+Mnov1546	South	1		41C3_3
+Mnov1547	South	1		50C3_1
+Mnov1548	South	1		50C3_2
+Mnov1549	South	1		50C3_3
+Mnov1550	South	1		50C3_4
+Mnov1551	South	1		50C3_5
+Mnov1552	South	1		51C3_1
+Mnov1553	South	1		51C3_2
+Mnov1554	South	1		51C3_3
+Mnov1555	South	1		52C3_1
+Mnov1556	South	1		52C3_2
+Mnov1557	South	1		52C3_3
+Mnov1558	South	1		52C3_4
+Mnov1559	South	1		53C3_1
+Mnov1560	South	1		53C3_2
+Mnov1561	South	1		53C3_3
+Mnov1562	South	1		53C3_4
+Mnov1563	South	1		53C3_5
+Mnov1564	South	1		53C3_6
+Mnov1565	South	1		54C3_1
+Mnov1566	South	1		54C3_2
+Mnov1567	South	1		54C3_3
+Mnov1568	South	1		56C3_1
+Mnov1569	South	1		56C3_2
+Mnov1570	South	1		58C3_1
+Mnov1571	South	1		59C3_1
+Mnov1572	South	1		59C3_2
+Mnov1573	South	1		59C3_3
+Mnov1574	South	1		59C3_4
+Mnov1575	South	1		59C3_5
+Mnov1576	South	1		59C3_6
+Mnov1577	South	1		59C3_7
+Mnov1578	South	1		59C3_8
+Mnov1579	South	1		59C3_9
+Mnov1580	South	1		59C3_10
+Mnov1581	South	1		59C3_11
+Mnov1582	South	1		59C3_12
+Mnov1583	South	1		61C3_1
+Mnov1584	South	1		61C3_2
+Mnov1585	South	1		61C3_3
+Mnov1586	South	1		61C3_4
+Mnov1587	South	1		61C3_5
+Mnov1588	South	1		61C3_6
+Mnov1589	South	1		61C3_7
+Mnov1590	South	1		61C3_8
+Mnov1591	South	1		61C3_9
+Mnov1592	South	1		61C3_10
+Mnov1593	South	1		61C3_11
+Mnov1594	South	1		63B1_1
+Mnov1595	South	1		63B1_2
+Mnov1596	South	1		63B1_3
+Mnov1597	South	1		63C3_1
+Mnov1598	South	1		64B1_1
+Mnov1599	South	1		64B1_2
+Mnov1600	South	1		64B1_3
+Mnov1601	South	1		64B1_4
+Mnov1602	South	1		64B1_5
+Mnov1603	South	1		64B1_6
+Mnov1604	South	1		64B1_7
+Mnov1605	South	1		64B1_8
+Mnov1606	South	1		64B1_9
+Mnov1607	South	1		64B1_10
+Mnov1608	South	1		64B1_11
+Mnov1609	South	1		64B1_12
+Mnov1610	South	1		64B1_13
+Mnov1611	South	1		64B1_14
+Mnov1612	South	1		64B1_15
+Mnov1613	South	1		64B1_16
+Mnov1614	South	1		64B1_17
+Mnov1615	South	1		64B1_18
+Mnov1616	South	1		64B1_19
+Mnov1617	South	1		65C3_1
+Mnov1618	South	1		67B1_1
+Mnov1619	South	1		67B1_2
+Mnov1620	South	1		67B1_3
+Mnov1621	South	1		67B1_4
+Mnov1622	South	1		67B1_5
+Mnov1623	South	1		67C3_1
+Mnov1624	South	1		67C3_2
+Mnov1625	South	1		67C3_3
+Mnov1626	South	1		69B1_1
+Mnov1627	South	1		69B1_2
+Mnov1628	South	1		69B1_3
+Mnov1629	South	1		69B1_4
+Mnov1630	South	1		70B1_1
+Mnov1631	South	1		70B1_2
+Mnov1632	South	1		71B1_1
+Mnov1633	South	1		71C3_1
+Mnov1634	South	1		71C3_2
+Mnov1635	South	1		71C3_3
+Mnov1636	South	1		71C3_4
+Mnov1637	South	1		71C3_5
+Mnov1638	South	1		71C3_6
+Mnov1639	South	1		71C3_7
+Mnov1640	South	1		71C3_8
+Mnov1641	South	1		72B1_1
+Mnov1642	South	1		72B1_2
+Mnov1643	South	1		72B1_3
+Mnov1644	South	1		72B1_4
+Mnov1645	South	1		72B1_5
+Mnov1646	South	1		72B1_6
+Mnov1647	South	1		72B1_7
+Mnov1648	South	1		72B1_8
+Mnov1649	South	1		72B1_9
+Mnov1650	South	1		72C3_1
+Mnov1651	South	1		72C3_2
+Mnov1652	South	1		72C3_3
+Mnov1653	South	1		72C3_4
+Mnov1654	South	1		73B1_1
+Mnov1655	South	1		73B1_2
+Mnov1656	South	1		73B1_3
+Mnov1657	South	1		73B1_4
+Mnov1658	South	1		73B1_5
+Mnov1659	South	1		73B1_6
+Mnov1660	South	1		73B1_7
+Mnov1661	South	1		74B1_1
+Mnov1662	South	1		75B1_1
+Mnov1663	South	1		76B1_1
+Mnov1664	South	1		77B1_1
+Mnov1665	South	1		77B1_2
+Mnov1666	South	1		77B1_3
+Mnov1667	South	1		77B1_4
+Mnov1668	South	1		77B1_5
+Mnov1669	South	1		77B1_6
+Mnov1670	South	1		77B1_7
+Mnov1671	South	1		77B1_8
+Mnov1672	South	1		77C3_1
+Mnov1673	South	1		77C3_2
+Mnov1674	South	1		77C3_3
+Mnov1675	South	1		77C3_4
+Mnov1676	South	1		78B1_1
+Mnov1677	South	1		78B1_2
+Mnov1678	South	1		78C3_1
+Mnov1679	South	1		79B1_1
+Mnov1680	South	1		79B1_2
+Mnov1681	South	1		79C3_1
+Mnov1682	South	1		81B1_1
+Mnov1683	South	1		81B1_2
+Mnov1684	South	1		82B1_1
+Mnov1685	South	1		82B1_2
+Mnov1686	South	1		82B1_3
+Mnov1687	South	1		82B1_4
+Mnov1688	South	1		83B1_1
+Mnov1689	South	1		85B1_1
+Mnov1690	South	1		86B1_1
+Mnov1691	South	1		87B1_1
+Mnov1692	South	1		87C3_1
+Mnov1693	South	1		87C3_2
+Mnov1694	South	1		87C3_3
+Mnov1695	South	1		87C3_4
+Mnov1696	South	1		87C3_5
+Mnov1697	South	1		87C3_6
+Mnov1698	South	1		87C3_7
+Mnov1699	South	1		87C3_8
+Mnov1700	South	1		87C3_9
+Mnov1701	South	1		87C3_10
+Mnov1702	South	1		87C3_11
+Mnov1703	South	1		88B1_1
+Mnov1704	South	1		89B1_1
+Mnov1705	South	1		89B1_2
+Mnov1706	South	1		91B1_1
+Mnov1707	South	1		BR98_003_1
+Mnov1708	South	1		SP1_1
+Mnov1709	South	1		SP1_2
+Mnov1710	South	1		SP1_3
+Mnov1711	South	1		SP1_4
+Mnov1712	South	1		SP1_5
+Mnov1713	South	1		SP1_6
+Mnov1714	South	1		SP1_7
+Mnov1715	South	1		SP1_8
+Mnov1716	South	1		SP1_9
+Mnov1717	South	1		SP1_10
+Mnov1718	South	1		SP1_11
+Mnov1719	South	1		SP1_12
+Mnov1720	South	1		SP1_13
+Mnov1721	South	1		SP1_14
+Mnov1722	South	1		SP1_15
+Mnov1723	South	1		SP1_16
+Mnov1724	South	1		SP1_17
+Mnov1725	South	1		SP1_18
+Mnov1726	South	1		SP1_19
+Mnov1727	South	1		SP1_20
+Mnov1728	South	1		SP1_21
+Mnov1729	South	1		SP1_22
+Mnov1730	South	1		SP1_23
+Mnov1731	South	1		SP1_24
+Mnov1732	South	1		SP1_25
+Mnov1733	South	1		SP1_26
+Mnov1734	South	1		SP1_27
+Mnov1735	South	1		SP1_28
+Mnov1736	South	1		SP1_29
+Mnov1737	South	1		SP1_30
+Mnov1738	South	1		SP1_31
+Mnov1739	South	1		SP1_32
+Mnov1740	South	1		SP1_33
+Mnov1741	South	1		SP1_34
+Mnov1742	South	1		SP10_1
+Mnov1743	South	1		SP10_2
+Mnov1744	South	1		SP10_3
+Mnov1745	South	1		SP10_4
+Mnov1746	South	1		SP102_1
+Mnov1747	South	1		SP102_2
+Mnov1748	South	1		SP107_1
+Mnov1749	South	1		SP107_2
+Mnov1750	South	1		SP107_3
+Mnov1751	South	1		SP107_4
+Mnov1752	South	1		SP107_5
+Mnov1753	South	1		SP107_6
+Mnov1754	South	1		SP107_7
+Mnov1755	South	1		SP107_8
+Mnov1756	South	1		SP107_9
+Mnov1757	South	1		SP108_1
+Mnov1758	South	1		SP108_2
+Mnov1759	South	1		SP108_3
+Mnov1760	South	1		SP108_4
+Mnov1761	South	1		SP108_5
+Mnov1762	South	1		SP108_6
+Mnov1763	South	1		SP108_7
+Mnov1764	South	1		SP108_8
+Mnov1765	South	1		SP108_9
+Mnov1766	South	1		SP108_10
+Mnov1767	South	1		SP108_11
+Mnov1768	South	1		SP108_12
+Mnov1769	South	1		SP108_13
+Mnov1770	South	1		SP108_14
+Mnov1771	South	1		SP108_15
+Mnov1772	South	1		SP108_16
+Mnov1773	South	1		SP108_17
+Mnov1774	South	1		SP108_18
+Mnov1775	South	1		SP108_19
+Mnov1776	South	1		SP108_20
+Mnov1777	South	1		SP108_21
+Mnov1778	South	1		SP108_22
+Mnov1779	South	1		SP108_23
+Mnov1780	South	1		SP108_24
+Mnov1781	South	1		SP108_25
+Mnov1782	South	1		SP108_26
+Mnov1783	South	1		SP108_27
+Mnov1784	South	1		SP108_28
+Mnov1785	South	1		SP108_29
+Mnov1786	South	1		SP108_30
+Mnov1787	South	1		SP108_31
+Mnov1788	South	1		SP108_32
+Mnov1789	South	1		SP108_33
+Mnov1790	South	1		SP113_1
+Mnov1791	South	1		SP113_2
+Mnov1792	South	1		SP113_3
+Mnov1793	South	1		SP113_4
+Mnov1794	South	1		SP113_5
+Mnov1795	South	1		SP113_6
+Mnov1796	South	1		SP113_7
+Mnov1797	South	1		SP113_8
+Mnov1798	South	1		SP113_9
+Mnov1799	South	1		SP13_1
+Mnov1800	South	1		SP13_2
+Mnov1801	South	1		SP13_3
+Mnov1802	South	1		SP13_4
+Mnov1803	South	1		SP13_5
+Mnov1804	South	1		SP13_6
+Mnov1805	South	1		SP13_7
+Mnov1806	South	1		SP13_8
+Mnov1807	South	1		SP13_9
+Mnov1808	South	1		SP13_10
+Mnov1809	South	1		SP13_11
+Mnov1810	South	1		SP13_12
+Mnov1811	South	1		SP14_1
+Mnov1812	South	1		SP14_2
+Mnov1813	South	1		SP14_3
+Mnov1814	South	1		SP14_4
+Mnov1815	South	1		SP14_5
+Mnov1816	South	1		SP14_6
+Mnov1817	South	1		SP14_7
+Mnov1818	South	1		SP14_8
+Mnov1819	South	1		SP14_9
+Mnov1820	South	1		SP14_10
+Mnov1821	South	1		SP14_11
+Mnov1822	South	1		SP14_12
+Mnov1823	South	1		SP14_13
+Mnov1824	South	1		SP14_14
+Mnov1825	South	1		SP14_15
+Mnov1826	South	1		SP14_16
+Mnov1827	South	1		SP14_17
+Mnov1828	South	1		SP14_18
+Mnov1829	South	1		SP19_1
+Mnov1830	South	1		SP23_1
+Mnov1831	South	1		SP23_2
+Mnov1832	South	1		SP23_3
+Mnov1833	South	1		SP24_1
+Mnov1834	South	1		SP25_1
+Mnov1835	South	1		SP25_2
+Mnov1836	South	1		SP25_3
+Mnov1837	South	1		SP25_4
+Mnov1838	South	1		SP25_5
+Mnov1839	South	1		SP25_6
+Mnov1840	South	1		SP25_7
+Mnov1841	South	1		SP25_8
+Mnov1842	South	1		SP25_9
+Mnov1843	South	1		SP25_10
+Mnov1844	South	1		SP25_11
+Mnov1845	South	1		SP25_12
+Mnov1846	South	1		SP25_13
+Mnov1847	South	1		SP27_1
+Mnov1848	South	1		SP27_2
+Mnov1849	South	1		SP27_3
+Mnov1850	South	1		SP29_1
+Mnov1851	South	1		SP29_2
+Mnov1852	South	1		SP29_3
+Mnov1853	South	1		SP29_4
+Mnov1854	South	1		SP29_5
+Mnov1855	South	1		SP3_1
+Mnov1856	South	1		SP35_1
+Mnov1857	South	1		SP35_2
+Mnov1858	South	1		SP35_3
+Mnov1859	South	1		SP35_4
+Mnov1860	South	1		SP35_5
+Mnov1861	South	1		SP35_6
+Mnov1862	South	1		SP35_7
+Mnov1863	South	1		SP35_8
+Mnov1864	South	1		SP35_9
+Mnov1865	South	1		SP38_1
+Mnov1866	South	1		SP38_2
+Mnov1867	South	1		SP38_3
+Mnov1868	South	1		SP38_4
+Mnov1869	South	1		SP38_5
+Mnov1870	South	1		SP38_6
+Mnov1871	South	1		SP38_7
+Mnov1872	South	1		SP38_8
+Mnov1873	South	1		SP38_9
+Mnov1874	South	1		SP38_10
+Mnov1875	South	1		SP38_11
+Mnov1876	South	1		SP38_12
+Mnov1877	South	1		SP38_13
+Mnov1878	South	1		SP38_14
+Mnov1879	South	1		SP38_15
+Mnov1880	South	1		SP38_16
+Mnov1881	South	1		SP38_17
+Mnov1882	South	1		SP38_18
+Mnov1883	South	1		SP4_1
+Mnov1884	South	1		SP4_2
+Mnov1885	South	1		SP4_3
+Mnov1886	South	1		SP41_1
+Mnov1887	South	1		SP42_1
+Mnov1888	South	1		SP42_2
+Mnov1889	South	1		SP42_3
+Mnov1890	South	1		SP42_4
+Mnov1891	South	1		SP42_5
+Mnov1892	South	1		SP42_6
+Mnov1893	South	1		SP42_7
+Mnov1894	South	1		SP42_8
+Mnov1895	South	1		SP45_1
+Mnov1896	South	1		SP45_2
+Mnov1897	South	1		SP45_3
+Mnov1898	South	1		SP45_4
+Mnov1899	South	1		SP45_5
+Mnov1900	South	1		SP45_6
+Mnov1901	South	1		SP54_1
+Mnov1902	South	1		SP54_2
+Mnov1903	South	1		SP54_3
+Mnov1904	South	1		SP55_1
+Mnov1905	South	1		SP57_1
+Mnov1906	South	1		SP57_2
+Mnov1907	South	1		SP57_3
+Mnov1908	South	1		SP57_4
+Mnov1909	South	1		SP57_5
+Mnov1910	South	1		SP57_6
+Mnov1911	South	1		SP57_7
+Mnov1912	South	1		SP57_8
+Mnov1913	South	1		SP57_9
+Mnov1914	South	1		SP57_10
+Mnov1915	South	1		SP57_11
+Mnov1916	South	1		SP59_1
+Mnov1917	South	1		SP59_2
+Mnov1918	South	1		SP59_3
+Mnov1919	South	1		SP59_4
+Mnov1920	South	1		SP59_5
+Mnov1921	South	1		SP62_1
+Mnov1922	South	1		SP62_2
+Mnov1923	South	1		SP62_3
+Mnov1924	South	1		SP62_4
+Mnov1925	South	1		SP67_1
+Mnov1926	South	1		SP71_1
+Mnov1927	South	1		SP71_2
+Mnov1928	South	1		SP71_3
+Mnov1929	South	1		SP71_4
+Mnov1930	South	1		SP71_5
+Mnov1931	South	1		SP71_6
+Mnov1932	South	1		SP71_7
+Mnov1933	South	1		SP71_8
+Mnov1934	South	1		SP71_9
+Mnov1935	South	1		SP71_10
+Mnov1936	South	1		SP71_11
+Mnov1937	South	1		SP71_12
+Mnov1938	South	1		SP71_13
+Mnov1939	South	1		SP71_14
+Mnov1940	South	1		SP71_15
+Mnov1941	South	1		SP71_16
+Mnov1942	South	1		SP71_17
+Mnov1943	South	1		SP71_18
+Mnov1944	South	1		SP71_19
+Mnov1945	South	1		SP71_20
+Mnov1946	South	1		SP71_21
+Mnov1947	South	1		SP71_22
+Mnov1948	South	1		SP71_23
+Mnov1949	South	1		SP71_24
+Mnov1950	South	1		SP75_1
+Mnov1951	South	1		SP75_2
+Mnov1952	South	1		SP75_3
+Mnov1953	South	1		SP75_4
+Mnov1954	South	1		SP75_5
+Mnov1955	South	1		SP75_6
+Mnov1956	South	1		SP75_7
+Mnov1957	South	1		SP75_8
+Mnov1958	South	1		SP75_9
+Mnov1959	South	1		SP75_10
+Mnov1960	South	1		SP76_1
+Mnov1961	South	1		SP76_2
+Mnov1962	South	1		SP76_3
+Mnov1963	South	1		SP79_1
+Mnov1964	South	1		SP80_1
+Mnov1965	South	1		SP81_1
+Mnov1966	South	1		SP81_2
+Mnov1967	South	1		SP81_3
+Mnov1968	South	1		SP83_1
+Mnov1969	South	1		SP84_1
+Mnov1970	South	1		SP91_1
+Mnov1971	South	1		SP91_2
+Mnov1972	South	1		SP91_3
+Mnov1973	South	1		SP91_4
+Mnov1974	South	1		SP91_5
+Mnov1975	South	1		SP93_1
+Mnov1976	South	1		SP94_1
+Mnov1977	South	1		SP94_2
+Mnov1978	South	1		SP94_3
+Mnov1979	South	1		SP94_4
+Mnov1980	South	1		SP94_5
+Mnov1981	South	1		SP94_6
+Mnov1982	South	1		SP94_7
+Mnov1983	South	1		SP94_8
+Mnov1984	South	1		SP94_9
+Mnov1985	South	1		SP95_1
+Mnov1986	South	1		SP95_2
+Mnov1987	South	1		SP95_3
+Mnov1988	South	1		SP95_4
+Mnov1989	South	1		SP95_5
+Mnov3402	North	2		
+Mnov3403	North	2		
+Mnov3404	North	2		
+Mnov3405	North	2		
+Mnov3406	North	2		
+Mnov3407	North	2		
+Mnov3408	North	2		
+Mnov3409	North	2		
+Mnov3410	North	2		
+Mnov3411	North	2		
+Mnov3412	North	2		
+Mnov3413	North	2		
+Mnov3414	North	2		
+Mnov3415	North	2		
+Mnov3416	North	2		
+Mnov3417	North	2		
+Mnov3418	North	2		
+Mnov3419	North	2		
+Mnov3420	North	2		
+Mnov3421	North	2		
+Mnov3422	North	2		
+Mnov3423	North	2		
+Mnov3424	North	2		
+Mnov3425	North	2		
+Mnov3426	North	2		
+Mnov3427	North	2		
+Mnov3428	North	2		
+Mnov3429	North	2		
+Mnov3430	North	2		
+Mnov3431	North	2		
+Mnov3432	North	2		
+Mnov3433	North	2		
+Mnov3434	North	2		
+Mnov3435	North	2		
+Mnov3436	North	2		
+Mnov3437	North	2		
+Mnov3438	North	2		
+Mnov3439	North	2		
+Mnov3440	North	2		
+Mnov3441	North	2		
+Mnov3442	North	2		
+Mnov3443	North	2		
+Mnov3444	North	2		
+Mnov3445	North	2		
+Mnov3446	North	2		
+Mnov3447	North	2		
+Mnov3448	North	2		
+Mnov3449	North	2		
+Mnov3450	North	2		
+Mnov3451	North	2		
+Mnov3452	North	2		
+Mnov3453	North	2		
+Mnov3454	North	2		
+Mnov3455	North	2		
+Mnov3456	North	2		
+Mnov3457	North	2		
+Mnov3458	North	2		
+Mnov3459	North	2		
+Mnov3460	North	2		
+Mnov3461	North	2		
+Mnov3462	North	2		
+Mnov3463	North	2		
+Mnov3464	North	2		
+Mnov3465	North	2		
+Mnov3466	North	2		
+Mnov3467	North	2		
+Mnov3468	North	2		
+Mnov3469	North	2		
+Mnov3470	North	2		
+Mnov3471	North	2		
+Mnov3472	North	2		
+Mnov3473	North	2		
+Mnov3474	North	2		
+Mnov3475	North	2		
+Mnov3476	North	2		
+Mnov3477	North	2		
+Mnov3478	North	2		
+Mnov3479	North	2		
+Mnov3480	North	2		
+Mnov3481	North	2		
+Mnov3482	North	2		
+Mnov3483	North	2		
+Mnov3484	North	2		
+Mnov3485	North	2		
+Mnov3486	North	2		
+Mnov3487	North	2		
+Mnov3488	North	2		
+Mnov3489	North	2		
+Mnov3490	North	2		
+Mnov3491	North	2		
+Mnov3492	North	2		
+Mnov3493	North	2		
+Mnov3494	North	2		
+Mnov3495	North	2		
+Mnov3496	North	2		
+Mnov3497	North	2		
+Mnov3498	North	2		
+Mnov3499	North	2		
+Mnov3500	North	2		
+Mnov3501	North	2		
+Mnov3502	North	2		
+Mnov3503	North	2		
+Mnov3504	North	2		
+Mnov3505	North	2		
+Mnov3506	North	2		
+Mnov3507	North	2		
+Mnov3508	North	2		
+Mnov3509	North	2		
+Mnov3510	North	2		
+Mnov3511	North	2		
+Mnov3512	North	2		
+Mnov3513	North	2		
+Mnov3514	North	2		
+Mnov3515	North	2		
+Mnov3516	North	2		
+Mnov3517	North	2		
+Mnov3518	North	2		
+Mnov3519	North	2		
+Mnov3520	North	2		
+Mnov3521	North	2		
+Mnov3522	North	2		
+Mnov3523	North	2		
+Mnov3524	North	2		
+Mnov3525	North	2		
+Mnov3526	North	2		
+Mnov3527	North	2		
+Mnov3528	North	2		
+Mnov3529	North	2		
+Mnov3530	North	2		
+Mnov3531	North	2		
+Mnov3532	North	2		
+Mnov3533	North	2		
+Mnov3534	North	2		
+Mnov3535	North	2		
+Mnov3536	North	2		
+Mnov3537	North	2		
+Mnov3538	North	2		
+Mnov3539	North	2		
+Mnov3540	North	2		
+Mnov3541	North	2		
+Mnov3542	North	2		
+Mnov3543	North	2		
+Mnov3544	North	2		
+Mnov3545	North	2		
+Mnov3546	North	2		
+Mnov3547	North	2		
+Mnov3548	North	2		
+Mnov3549	North	2		
+Mnov3550	North	2		
+Mnov3551	North	2		
+Mnov3552	North	2		
+Mnov3553	North	2		
+Mnov3554	North	2		
+Mnov3555	North	2		
+Mnov3556	North	2		
+Mnov3557	North	2		
+Mnov3558	North	2		
+Mnov3559	North	2		
+Mnov3560	North	2		
+Mnov3561	North	2		
+Mnov3562	North	2		
+Mnov3563	North	2		
+Mnov3564	North	2		
+Mnov3565	North	2		
+Mnov3566	North	2		
+Mnov3567	North	2		
+Mnov3568	North	2		
+Mnov3569	North	2		
+Mnov3570	North	2		
+Mnov3571	North	2		
+Mnov3572	North	2		
+Mnov3573	North	2		
+Mnov3574	North	2		
+Mnov3575	North	2		
+Mnov3576	North	2		
+Mnov3577	North	2		
+Mnov3578	North	2		
+Mnov3579	North	2		
+Mnov3580	North	2		
+Mnov3581	North	2		
+Mnov3582	North	2		
+Mnov3583	North	2		
+Mnov3584	North	2		
+Mnov3585	North	2		
+Mnov3586	North	2		
+Mnov3587	North	2		
+Mnov3588	North	2		
+Mnov3589	North	2		
+Mnov3590	North	2		
+Mnov3591	North	2		
+Mnov3592	North	2		
+Mnov3593	North	2		
+Mnov3594	North	2		
+Mnov3595	North	2		
+Mnov3596	North	2		
+Mnov3597	North	2		
+Mnov3598	North	2		
+Mnov3599	North	2		
+Mnov3600	North	2		
+Mnov3601	North	2		
+Mnov3602	North	2		
+Mnov3603	North	2		
+Mnov3604	North	2		
+Mnov3605	North	2		
+Mnov3606	North	2		
+Mnov3607	North	2		
+Mnov3608	North	2		
+Mnov3609	North	2		
+Mnov3610	North	2		
+Mnov3611	North	2		
+Mnov3612	North	2		
+Mnov3613	North	2		
+Mnov3614	North	2		
+Mnov3615	North	2		
+Mnov3616	North	2		
+Mnov3617	North	2		
+Mnov3618	North	2		
+Mnov3619	North	2		
+Mnov3620	North	2		
+Mnov3621	North	2		
+Mnov3622	North	2		
+Mnov3623	North	2		
+Mnov3624	North	2		
+Mnov3625	North	2		
+Mnov3626	North	2		
+Mnov3627	North	2		
+Mnov3628	North	2		
+Mnov3629	North	2		
+Mnov3630	North	2		
+Mnov3631	North	2		
+Mnov3632	North	2		
+Mnov3633	North	2		
+Mnov3634	North	2		
+Mnov3635	North	2		
+Mnov3636	North	2		
+Mnov3637	North	2		
+Mnov3638	North	2		
+Mnov3639	North	2		
+Mnov3640	North	2		
+Mnov3641	North	2		
+Mnov3642	North	2		
+Mnov3643	North	2		
+Mnov3644	North	2		
+Mnov3645	North	2		
+Mnov3646	North	2		
+Mnov3647	North	2		
+Mnov3648	North	2		
+Mnov3649	North	2		
+Mnov3650	North	2		
+Mnov3651	North	2		
+Mnov3652	North	2		
+Mnov3653	North	2		
+Mnov3654	North	2		
+Mnov3655	North	2		
+Mnov3656	North	2		
+Mnov3657	North	2		
+Mnov3658	North	2		
+Mnov3659	North	2		
+Mnov3660	North	2		
+Mnov3661	North	2		
+Mnov3662	North	2		
+Mnov3663	North	2		
+Mnov3664	North	2		
+Mnov3665	North	2		
+Mnov3666	North	2		
+Mnov3667	North	2		
+Mnov3668	North	2		
+Mnov3669	North	2		
+Mnov3670	North	2		
+Mnov3671	North	2		
+Mnov3672	North	2		
+Mnov3673	North	2		
+Mnov3674	North	2		
+Mnov3675	North	2		
+Mnov3676	North	2		
+Mnov3677	North	2		
+Mnov3678	North	2		
+Mnov3679	North	2		
+Mnov3680	North	2		
+Mnov3681	North	2		
+Mnov3682	North	2		
+Mnov3683	North	2		
+Mnov3684	North	2		
+Mnov3685	North	2		
+Mnov3686	North	2		
+Mnov3687	North	2		
+Mnov3688	North	2		
+Mnov3689	North	2		
+Mnov3690	North	2		
+Mnov3691	North	2		
+Mnov3692	North	2		
+Mnov3693	North	2		
+Mnov3694	North	2		
+Mnov3695	North	2		
+Mnov3696	North	2		
+Mnov3697	North	2		
+Mnov3698	North	2		
+Mnov3699	North	2		
+Mnov3700	North	2		
+Mnov3701	North	2		
+Mnov3702	North	2		
+Mnov3703	North	2		
+Mnov3704	North	2		
+Mnov3705	North	2		
+Mnov3706	North	2		
+Mnov3707	North	2		
+Mnov3708	North	2		
+Mnov3709	North	2		
+Mnov3710	North	2		
+Mnov3711	North	2		
+Mnov3712	North	2		
+Mnov3713	North	2		
+Mnov3714	North	2		
+Mnov3715	North	2		
+Mnov3716	North	2		
+Mnov3717	North	2		
+Mnov3718	North	2		
+Mnov3719	North	2		
+Mnov3720	North	2		
+Mnov3721	North	2		
+Mnov3722	North	2		
+Mnov3723	North	2		
+Mnov3724	North	2		
+Mnov3725	North	2		
+Mnov3726	North	2		
+Mnov3727	North	2		
+Mnov3728	North	2		
+Mnov3729	North	2		
+Mnov3730	North	2		
+Mnov3731	North	2		
+Mnov3732	North	2		
+Mnov3733	North	2		
+Mnov3734	North	2		
+Mnov3735	North	2		
+Mnov3736	North	2		
+Mnov3737	North	2		
+Mnov3738	North	2		
+Mnov3739	North	2		
+Mnov3740	North	2		
+Mnov3741	North	2		
+Mnov3742	North	2		
+Mnov3743	North	2		
+Mnov3744	North	2		
+Mnov3745	North	2		
+Mnov3746	North	2		
+Mnov3747	North	2		
+Mnov3748	North	2		
+Mnov3749	North	2		
+Mnov3750	North	2		
+Mnov3751	North	2		
+Mnov3752	North	2		
+Mnov3753	North	2		
+Mnov3754	North	2		
+Mnov3755	North	2		
+Mnov3756	North	2		
+Mnov3757	North	2		
+Mnov3758	North	2		
+Mnov3759	North	2		
+Mnov3760	North	2		
+Mnov3761	North	2		
+Mnov3762	North	2		
+Mnov3763	North	2		
+Mnov3764	North	2		
+Mnov3765	North	2		
+Mnov3766	North	2		
+Mnov3767	North	2		
+Mnov3768	North	2		
+Mnov3769	North	2		
+Mnov3770	North	2		
+Mnov3771	North	2		
+Mnov3772	North	2		
+Mnov3773	North	2		
+Mnov3774	North	2		
+Mnov3775	North	2		
+Mnov3776	North	2		
+Mnov3777	North	2		
+Mnov3778	North	2		
+Mnov3779	North	2		
+Mnov3780	North	2		
+Mnov3781	North	2		
+Mnov3782	North	2		
+Mnov3783	North	2		
+Mnov3784	North	2		
+Mnov3785	North	2		
+Mnov3786	North	2		
+Mnov3787	North	2		
+Mnov3788	North	2		
+Mnov3789	North	2		
+Mnov3790	North	2		
+Mnov3791	North	2		
+Mnov3792	North	2		
+Mnov3793	North	2		
+Mnov3794	North	2		
+Mnov3795	North	2		
+Mnov3796	North	2		
+Mnov3797	North	2		
+Mnov3798	North	2		
+Mnov3799	North	2		
+Mnov3800	North	2		
+Mnov3801	North	2		
+Mnov3802	North	2		
+Mnov3803	North	2		
+Mnov3804	North	2		
+Mnov3805	North	2		
+Mnov3806	North	2		
+Mnov3807	North	2		
+Mnov3808	North	2		
+Mnov3809	North	2		
+Mnov3810	North	2		
+Mnov3811	North	2		
+Mnov3812	North	2		
+Mnov3813	North	2		
+Mnov3814	North	2		
+Mnov3815	North	2		
+Mnov3816	North	2		
+Mnov3817	North	2		
+Mnov3818	North	2		
+Mnov3819	North	2		
+Mnov3820	North	2		
+Mnov3821	North	2		
+Mnov3822	North	2		
+Mnov3823	North	2		
+Mnov3824	North	2		
+Mnov3825	North	2		
+Mnov3826	North	2		
+Mnov3827	North	2		
+Mnov3828	North	2		
+Mnov3829	North	2		
+Mnov3830	North	2		
+Mnov3831	North	2		
+Mnov3832	North	2		
+Mnov3833	North	2		
+Mnov3834	North	2		
+Mnov3835	North	2		
+Mnov3836	North	2		
+Mnov3837	North	2		
+Mnov3838	North	2		
+Mnov3839	North	2		
+Mnov3840	North	2		
+Mnov3841	North	2		
+Mnov3842	North	2		
+Mnov3843	North	2		
+Mnov3844	North	2		
+Mnov3845	North	2		
+Mnov3846	North	2		
+Mnov3847	North	2		
+Mnov3848	North	2		
+Mnov3849	North	2		
+Mnov3850	North	2		
+Mnov3851	North	2		
+Mnov3852	North	2		
+Mnov3853	North	2		
+Mnov3854	North	2		
+Mnov3855	North	2		
+Mnov3856	North	2		
+Mnov3857	North	2		
+Mnov3858	North	2		
+Mnov3859	North	2		
+Mnov3860	North	2		
+Mnov3861	North	2		
+Mnov3862	North	2		
+Mnov3863	North	2		
+Mnov3864	North	2		
+Mnov3865	North	2		
+Mnov3866	North	2		
+Mnov3867	North	2		
+Mnov3868	North	2		
+Mnov3869	North	2		
+Mnov3870	North	2		
+Mnov3871	North	2		
+Mnov3872	North	2		
+Mnov3873	North	2		
+Mnov3874	North	2		
+Mnov3875	North	2		
+Mnov3876	North	2		
+Mnov3877	North	2		
+Mnov3878	North	2		
+Mnov3879	North	2		
+Mnov3880	North	2		
+Mnov3881	North	2		
+Mnov3882	North	2		
+Mnov3883	North	2		
+Mnov3884	North	2		
+Mnov3885	North	2		
+Mnov3886	North	2		
+Mnov3887	North	2		
+Mnov3888	North	2		
+Mnov3889	North	2		
+Mnov3890	North	2		
+Mnov3891	North	2		
+Mnov3892	North	2		
+Mnov3893	North	2		
+Mnov3894	North	2		
+Mnov3895	North	2		
+Mnov3896	North	2		
+Mnov3897	North	2		
+Mnov3898	North	2		
+Mnov3899	North	2		
+Mnov3900	North	2		
+Mnov3901	North	2		
+Mnov3902	North	2		
+Mnov3903	North	2		
+Mnov3904	North	2		
+Mnov3905	North	2		
+Mnov3906	North	2		
+Mnov3907	North	2		
+Mnov3908	North	2		
+Mnov3909	North	2		
+Mnov3910	North	2		
+Mnov3911	North	2		
+Mnov3912	North	2		
+Mnov3913	North	2		
+Mnov3914	North	2		
+Mnov3915	North	2		
+Mnov3916	North	2		
+Mnov3917	North	2		
+Mnov3918	North	2		
+Mnov3919	North	2		
+Mnov3920	North	2		
+Mnov3921	North	2		
+Mnov3922	North	2		
+Mnov3923	North	2		
+Mnov3924	North	2		
+Mnov3925	North	2		
+Mnov3926	North	2		
+Mnov3927	North	2		
+Mnov3928	North	2		
+Mnov3929	North	2		
+Mnov3930	North	2		
+Mnov3931	North	2		
+Mnov3932	North	2		
+Mnov3933	North	2		
+Mnov3934	North	2		
+Mnov3935	North	2		
+Mnov3936	North	2		
+Mnov3937	North	2		
+Mnov3938	North	2		
+Mnov3939	North	2		
+Mnov3940	North	2		
+Mnov3941	North	2		
+Mnov3942	North	2		
+Mnov3943	North	2		
+Mnov3944	North	2		
+Mnov3945	North	2		
+Mnov3946	North	2		
+Mnov3947	North	2		
+Mnov3948	North	2		
+Mnov3949	North	2		
+Mnov3950	North	2		
+Mnov3951	North	2		
+Mnov3952	North	2		
+Mnov3953	North	2		
+Mnov3954	North	2		
+Mnov3955	North	2		
+Mnov3956	North	2		
+Mnov3957	North	2		
+Mnov3958	North	2		
+Mnov3959	North	2		
+Mnov3960	North	2		
+Mnov3961	North	2		
+Mnov3962	North	2		
+Mnov3963	North	2		
+Mnov3964	North	2		
+Mnov3965	North	2		
+Mnov3966	North	2		
+Mnov3967	North	2		
+Mnov3968	North	2		
+Mnov3969	North	2		
+Mnov3970	North	2		
+Mnov3971	North	2		
+Mnov3972	North	2		
+Mnov3973	North	2		
+Mnov3974	North	2		
+Mnov3975	North	2		
+Mnov3976	North	2		
+Mnov3977	North	2		
+Mnov3978	North	2		
+Mnov3979	North	2		
+Mnov3980	North	2		
+Mnov3981	North	2		
+Mnov3982	North	2		
+Mnov3983	North	2		
+Mnov3984	North	2		
+Mnov3985	North	2		
+Mnov3986	North	2		
+Mnov3987	North	2		
+Mnov3988	North	2		
+Mnov3989	North	2		
+Mnov3990	North	2		
+Mnov3991	North	2		
+Mnov3992	North	2		
+Mnov3993	North	2		
+Mnov3994	North	2		
+Mnov3995	North	2		
+Mnov3996	North	2		
+Mnov3997	North	2		
+Mnov3998	North	2		
+Mnov3999	North	2		
+Mnov4000	North	2		
+Mnov4001	North	2		
+Mnov4002	North	2		
+Mnov4003	North	2		
+Mnov4004	North	2		
+Mnov4005	North	2		
+Mnov4006	North	2		
+Mnov4007	North	2		
+Mnov4008	North	2		
+Mnov4009	North	2		
+Mnov4010	North	2		
+Mnov4011	North	2		
+Mnov4012	North	2		
+Mnov4013	North	2		
+Mnov4014	North	2		
+Mnov4015	North	2		
+Mnov4016	North	2		
+Mnov4017	North	2		
+Mnov4018	North	2		
+Mnov4019	North	2		
+Mnov4020	North	2		
+Mnov4021	North	2		
+Mnov4022	North	2		
+Mnov4023	North	2		
+Mnov4024	North	2		
+Mnov4025	North	2		
+Mnov4026	North	2		
+Mnov4027	North	2		
+Mnov4028	North	2		
+Mnov4029	North	2		
+Mnov4030	North	2		
+Mnov4031	North	2		
+Mnov4032	North	2		
+Mnov4033	North	2		
+Mnov4034	North	2		
+Mnov4035	North	2		
+Mnov4036	North	2		
+Mnov4037	North	2		
+Mnov4038	North	2		
+Mnov4039	North	2		
+Mnov4040	North	2		
+Mnov4041	North	2		
+Mnov4042	North	2		
+Mnov4043	North	2		
+Mnov4044	North	2		
+Mnov4045	North	2		
+Mnov4046	North	2		
+Mnov4047	North	2		
+Mnov4048	North	2		
+Mnov4049	North	2		
+Mnov4050	North	2		
+Mnov4051	North	2		
+Mnov4052	North	2		
+Mnov4053	North	2		
+Mnov4054	North	2		
+Mnov4055	North	2		
+Mnov4056	North	2		
+Mnov4057	North	2		
+Mnov4058	North	2		
+Mnov4059	North	2		
+Mnov4060	North	2		
+Mnov4061	North	2		
+Mnov4062	North	2		
+Mnov4063	North	2		
+Mnov4064	North	2		
+Mnov4065	North	2		
+Mnov4066	North	2		
+Mnov4067	North	2		
+Mnov4068	North	2		
+Mnov4069	North	2		
+Mnov4070	North	2		
+Mnov4071	North	2		
+Mnov4072	North	2		
+Mnov4073	North	2		
+Mnov4074	North	2		
+Mnov4075	North	2		
+Mnov4076	North	2		
+Mnov4077	North	2		
+Mnov4078	North	2		
+Mnov4079	North	2		
+Mnov4080	North	2		
+Mnov4081	North	2		
+Mnov4082	North	2		
+Mnov4083	North	2		
+Mnov4084	North	2		
+Mnov4085	North	2		
+Mnov4086	North	2		
+Mnov4087	North	2		
+Mnov4088	North	2		
+Mnov4089	North	2		
+Mnov4090	North	2		
+Mnov4091	North	2		
+Mnov4092	North	2		
+Mnov4093	North	2		
+Mnov4094	North	2		
+Mnov4095	North	2		
+Mnov4096	North	2		
+Mnov4097	North	2		
+Mnov4098	North	2		
+Mnov4099	North	2		
+Mnov4100	North	2		
+Mnov4101	North	2		
+Mnov4102	North	2		
+Mnov4103	North	2		
+Mnov4104	North	2		
+Mnov4105	North	2		
+Mnov4106	North	2		
+Mnov4107	North	2		
+Mnov4108	North	2		
+Mnov4109	North	2		
+Mnov4110	North	2		
+Mnov4111	North	2		
+Mnov4112	North	2		
+Mnov4113	North	2		
+Mnov4114	North	2		
+Mnov4115	North	2		
+Mnov4116	North	2		
+Mnov4117	North	2		
+Mnov4118	North	2		
+Mnov4119	North	2		
+Mnov4120	North	2		
+Mnov4121	North	2		
+Mnov4122	North	2		
+Mnov4123	North	2		
+Mnov4124	North	2		
+Mnov4125	North	2		
+Mnov4126	North	2		
+Mnov4127	North	2		
+Mnov4128	North	2		
+Mnov4129	North	2		
+Mnov4130	North	2		
+Mnov4131	North	2		
+Mnov4132	North	2		
+Mnov4133	North	2		
+Mnov4134	North	2		
+Mnov4135	North	2		
+Mnov4136	North	2		
+Mnov4137	North	2		
+Mnov4138	North	2		
+Mnov4139	North	2		
+Mnov4140	North	2		
+Mnov4141	North	2		
+Mnov4142	North	2		
+Mnov4143	North	2		
+Mnov4144	North	2		
+Mnov4145	North	2		
+Mnov4146	North	2		
+Mnov4147	North	2		
+Mnov4148	North	2		
+Mnov4149	North	2		
+Mnov4150	North	2		
+Mnov4151	North	2		
+Mnov4152	North	2		
+Mnov4153	North	2		
+Mnov4154	North	2		
+Mnov4155	North	2		
+Mnov4156	North	2		
+Mnov4157	North	2		
+Mnov4158	North	2		
+Mnov4159	North	2		
+Mnov4160	North	2		
+Mnov4161	North	2		
+Mnov4162	North	2		
+Mnov4163	North	2		
+Mnov4164	North	2		
+Mnov4165	North	2		
+Mnov4166	North	2		
+Mnov4167	North	2		
+Mnov4168	North	2		
+Mnov4169	North	2		
+Mnov4170	North	2		
+Mnov4171	North	2		
+Mnov4172	North	2		
+Mnov4173	North	2		
+Mnov4174	North	2		
+Mnov4175	North	2		
+Mnov4176	North	2		
+Mnov4177	North	2		
+Mnov4178	North	2		
+Mnov4179	North	2		
+Mnov4180	North	2		
+Mnov4181	North	2		
+Mnov4182	North	2		
+Mnov4183	North	2		
+Mnov4184	North	2		
+Mnov4185	North	2		
+Mnov4186	North	2		
+Mnov4187	North	2		
+Mnov4188	North	2		
+Mnov4189	North	2		
+Mnov4190	North	2		
+Mnov4191	North	2		
+Mnov4192	North	2		
+Mnov4193	North	2		
+Mnov4194	North	2		
+Mnov4195	North	2		
+Mnov4196	North	2		
+Mnov4197	North	2		
+Mnov4198	North	2		
+Mnov4199	North	2		
+Mnov4200	North	2		
+Mnov4201	North	2		
+Mnov4202	North	2		
+Mnov4203	North	2		
+Mnov4204	North	2		
+Mnov4205	North	2		
+Mnov4206	North	2		
+Mnov4207	North	2		
+Mnov4208	North	2		
+Mnov4209	North	2		
+Mnov4210	North	2		
+Mnov4211	North	2		
+Mnov4212	North	2		
+Mnov4213	North	2		
+Mnov4214	North	2		
+Mnov4215	North	2		
+Mnov4216	North	2		
+Mnov4217	North	2		
+Mnov4218	North	2		
+Mnov4219	North	2		
+Mnov4220	North	2		
+Mnov4221	North	2		
+Mnov4222	North	2		
+Mnov4223	North	2		
+Mnov4224	North	2		
+Mnov4225	North	2		
+Mnov4226	North	2		
+Mnov4227	North	2		
+Mnov4228	North	2		
+Mnov4229	North	2		
+Mnov4230	North	2		
+Mnov4231	North	2		
+Mnov4232	North	2		
+Mnov4233	North	2		
+Mnov4234	North	2		
+Mnov4235	North	2		
+Mnov4236	North	2		
+Mnov4237	North	2		
+Mnov4238	North	2		
+Mnov4239	North	2		
+Mnov4240	North	2		
+Mnov4241	North	2		
+Mnov4242	North	2		
+Mnov4243	North	2		
+Mnov4244	North	2		
+Mnov4245	North	2		
+Mnov4246	North	2		
+Mnov4247	North	2		
+Mnov4248	North	2		
+Mnov4249	North	2		
+Mnov4250	North	2		
+Mnov4251	North	2		
+Mnov4252	North	2		
+Mnov4253	North	2		
+Mnov4254	North	2		
+Mnov4255	North	2		
+Mnov4256	North	2		
+Mnov4257	North	2		
+Mnov4258	North	2		
+Mnov4259	North	2		
+Mnov4260	North	2		
+Mnov4261	North	2		
+Mnov4262	North	2		
+Mnov4263	North	2		
+Mnov4264	North	2		
+Mnov4265	North	2		
+Mnov4266	North	2		
+Mnov4267	North	2		
+Mnov4268	North	2		
+Mnov4269	North	2		
+Mnov4270	North	2		
+Mnov4271	North	2		
+Mnov4272	North	2		
+Mnov4273	North	2		
+Mnov4274	North	2		
+Mnov4275	North	2		
+Mnov4276	North	2		
+Mnov4277	North	2		
+Mnov4278	North	2		
+Mnov4279	North	2		
+Mnov4280	North	2		
+Mnov4281	North	2		
+Mnov4282	North	2		
+Mnov4283	North	2		
+Mnov4284	North	2		
+Mnov4285	North	2		
+Mnov4286	North	2		
+Mnov4287	North	2		
+Mnov4288	North	2		
+Mnov4289	North	2		
+Mnov4290	North	2		
+Mnov4291	North	2		
+Mnov4292	North	2		
+Mnov4293	North	2		
+Mnov4294	North	2		
+Mnov4295	North	2		
+Mnov4296	North	2		
+Mnov4297	North	2		
+Mnov4298	North	2		
+Mnov4299	North	2		
+Mnov4300	North	2		
+Mnov4301	North	2		
+Mnov4302	North	2		
+Mnov4303	North	2		
+Mnov4304	North	2		
+Mnov4305	North	2		
+Mnov4306	North	2		
+Mnov4307	North	2		
+Mnov4308	North	2		
+Mnov4309	North	2		
+Mnov4310	North	2		
+Mnov4311	North	2		
+Mnov4312	North	2		
+Mnov4313	North	2		
+Mnov4314	North	2		
+Mnov4315	North	2		
+Mnov4316	North	2		
+Mnov4317	North	2		
+Mnov4318	North	2		
+Mnov4319	North	2		
+Mnov4320	North	2		
+Mnov4321	North	2		
+Mnov4322	North	2		
+Mnov4323	North	2		
+Mnov4324	North	2		
+Mnov4325	North	2		
+Mnov4326	North	2		
+Mnov4327	North	2		
+Mnov4328	North	2		
+Mnov4329	North	2		
+Mnov4330	North	2		
+Mnov4331	North	2		
+Mnov4332	North	2		
+Mnov4333	North	2		
+Mnov4334	North	2		
+Mnov4335	North	2		
+Mnov4336	North	2		
+Mnov4337	North	2		
+Mnov4338	North	2		
+Mnov4339	North	2		
+Mnov4340	North	2		
+Mnov4341	North	2		
+Mnov4342	North	2		
+Mnov4343	North	2		
+Mnov4344	North	2		
+Mnov4345	North	2		
+Mnov4346	North	2		
+Mnov4347	North	2		
+Mnov4348	North	2		
+Mnov4349	North	2		
+Mnov4350	North	2		
+Mnov4351	North	2		
+Mnov4352	North	2		
+Mnov4353	North	2		
+Mnov4354	North	2		
+Mnov4355	North	2		
+Mnov4356	North	2		
+Mnov4357	North	2		
+Mnov4358	North	2		
+Mnov4359	North	2		
+Mnov4360	North	2		
+Mnov4361	North	2		
+Mnov4362	North	2		
+Mnov4363	North	2		
+Mnov4364	North	2		
+Mnov4365	North	2		
+Mnov4366	North	2		
+Mnov4367	North	2		
+Mnov4368	North	2		
+Mnov4369	North	2		
+Mnov4370	North	2		
+Mnov4371	North	2		
+Mnov4372	North	2		
+Mnov4373	North	2		
+Mnov4374	North	2		
+Mnov4375	North	2		
+Mnov4376	North	2		
+Mnov4377	North	2		
+Mnov4378	North	2		
+Mnov4379	North	2		
+Mnov4380	North	2		
+Mnov4381	North	2		
+Mnov4382	North	2		
+Mnov4383	North	2		
+Mnov4384	North	2		
+Mnov4385	North	2		
+Mnov4386	North	2		
+Mnov4387	North	2		
+Mnov4388	North	2		
+Mnov4389	North	2		
+Mnov4390	North	2		
+Mnov4391	North	2		
+Mnov4392	North	2		
+Mnov4393	North	2		
+Mnov4394	North	2		
+Mnov4395	North	2		
+Mnov4396	North	2		
+Mnov4397	North	2		
+Mnov4398	North	2		
+Mnov4399	North	2		
+Mnov4400	North	2		
+Mnov4401	North	2		
+Mnov4402	North	2		
+Mnov4403	North	2		
+Mnov4404	North	2		
+Mnov4405	North	2		
+Mnov4406	North	2		
+Mnov4407	North	2		
+Mnov4408	North	2		
+Mnov4409	North	2		
+Mnov4410	North	2		
+Mnov4411	North	2		
+Mnov4412	North	2		
+Mnov4413	North	2		
+Mnov4414	North	2		
+Mnov4415	North	2		
+Mnov4416	North	2		
+Mnov4417	North	2		
+Mnov4418	North	2		
+Mnov4419	North	2		
+Mnov4420	North	2		
+Mnov4421	North	2		
+Mnov4422	North	2		
+Mnov4423	North	2		
+Mnov4424	North	2		
+Mnov4425	North	2		
+Mnov4426	North	2		
+Mnov4427	North	2		
+Mnov4428	North	2		
+Mnov4429	North	2		
+Mnov4430	North	2		
+Mnov4431	North	2		
+Mnov4432	North	2		
+Mnov4433	North	2		
+Mnov4434	North	2		
+Mnov4435	North	2		
+Mnov4436	North	2		
+Mnov4437	North	2		
+Mnov4438	North	2		
+Mnov4439	North	2		
+Mnov4440	North	2		
+Mnov4441	North	2		
+Mnov4442	North	2		
+Mnov4443	North	2		
+Mnov4444	North	2		
+Mnov4445	North	2		
+Mnov4446	North	2		
+Mnov4447	North	2		
+Mnov4448	North	2		
+Mnov4449	North	2		
+Mnov4450	North	2		
+Mnov4451	North	2		
+Mnov4452	North	2		
+Mnov4453	North	2		
+Mnov4454	North	2		
+Mnov4455	North	2		
+Mnov4456	North	2		
+Mnov4457	North	2		
+Mnov4458	North	2		
+Mnov4459	North	2		
+Mnov4460	North	2		
+Mnov4461	North	2		
+Mnov4462	North	2		
+Mnov4463	North	2		
+Mnov4464	North	2		
+Mnov4465	North	2		
+Mnov4466	North	2		
+Mnov4467	North	2		
+Mnov4468	North	2		
+Mnov4469	North	2		
+Mnov4470	North	2		
+Mnov4471	North	2		
+Mnov4472	North	2		
+Mnov4473	North	2		
+Mnov4474	North	2		
+Mnov4475	North	2		
+Mnov4476	North	2		
+Mnov4477	North	2		
+Mnov4478	North	2		
+Mnov4479	North	2		
+Mnov4480	North	2		
+Mnov4481	North	2		
+Mnov4482	North	2		
+Mnov4483	North	2		
+Mnov4484	North	2		
+Mnov4485	North	2		
+Mnov4486	North	2		
+Mnov4487	North	2		

@@ -1,0 +1,773 @@
+Species	Eubalaena spp. (Eaus: E. australis; Egla: E. glacialis)			
+Number of data sets	1			
+				
+Data set no.	1			
+Locus	Mitochondrial control region			
+DNA sequence lengh (in base pairs)	391			
+No. of DNA sequences	341			
+				
+Data source references:		Sample areas	Habitat	Links to source data files
+1	This study	South Atlantic	Winter breeding area	
+2	Valenzuela, L. O., Sironi, M., Rowntree, V. J., & Seger, J. (2009). Isotopic and genetic evidence for culturally inherited site fidelity to feeding grounds in southern right whales (Eubalaena australis). Molecular Ecology, 18(5), 782–791. doi: 10.1111/j.1365-294X.2008.04069.x	Argentina	Winter breeding area	GenBank
+3	Malik, S., Brown, M. W., Kraus, S. D., Knowlton, A. R., Hamilton, P. K., & White, B. N. (1999). Assessment of mitochondrial DNA structuring and nursery use in the North right whale (Eubalaena glacialis). Canadian Journal of Zoology, 77(8), 1217–1222. doi: 10.1139/z99-073	eastern US & Canadian sea border	Summer nursing & feeding area	GenBank
+				
+Migrate data file name	Eubalaena_750mtDNA_381bp_20170827_Migrate_2pop.txt			
+Results figure(s)	3, 4, 5, 6, 7, S1,  S3, S5 & S6			
+				
+Individual sample identifiers and data source				
+Migrate_infile_sequence_identifier	Migrate_sample_partition	Data_source	GenBank_Accession_number	Source_DNA_sequence_identifier
+Eaus0001	South	1		
+Eaus0002	South	1		
+Eaus0003	South	1		
+Eaus0004	South	1		
+Eaus0005	South	1		
+Eaus0006	South	1		
+Eaus0007	South	1		
+Eaus0008	South	1		
+Eaus0009	South	1		
+Eaus0010	South	1		
+Eaus0011	South	1		
+Eaus0012	South	1		
+Eaus0013	South	1		
+Eaus0014	South	1		
+Eaus0015	South	1		
+Eaus0016	South	1		
+Eaus0017	South	1		
+Eaus0018	South	1		
+Eaus0019	South	1		
+Eaus0020	South	1		
+Eaus0021	South	1		
+Eaus0022	South	1		
+Eaus0023	South	1		
+Eaus0024	South	1		
+Eaus0025	South	1		
+Eaus0026	South	1		
+Eaus0027	South	1		
+Eaus0028	South	1		
+Eaus0029	South	1		
+Eaus0030	South	1		
+Eaus0031	South	1		
+Eaus0032	South	1		
+Eaus0033	South	1		
+Eaus0034	South	1		
+Eaus0035	South	1		
+Eaus0036	South	1		
+Eaus0037	South	1		
+Eaus0038	South	1		
+Eaus0039	South	1		
+Eaus0040	South	1		
+Eaus0041	South	1		
+Eaus0042	South	1		
+Eaus0043	South	1		
+Eaus0044	South	1		
+Eaus0045	South	1		
+Eaus0046	South	1		
+Eaus0047	South	1		
+Eaus0048	South	1		
+Eaus0049	South	1		
+Eaus0050	South	1		
+Eaus0051	South	1		
+Eaus0052	South	1		
+Eaus0053	South	1		
+Eaus0054	South	1		
+Eaus0055	South	1		
+Eaus0056	South	1		
+Eaus0057	South	1		
+Eaus0058	South	1		
+Eaus0059	South	1		
+Eaus0060	South	1		
+Eaus0061	South	1		
+Eaus0062	South	1		
+Eaus0063	South	1		
+Eaus0064	South	1		
+Eaus0065	South	1		
+Eaus0066	South	1		
+Eaus0067	South	1		
+Eaus0068	South	1		
+Eaus0069	South	1		
+Eaus0070	South	1		
+Eaus0071	South	1		
+Eaus0072	South	1		
+Eaus0073	South	1		
+Eaus0074	South	1		
+Eaus0075	South	1		
+Eaus0076	South	1		
+Eaus0077	South	1		
+Eaus0078	South	1		
+Eaus0079	South	1		
+Eaus0080	South	1		
+Eaus0081	South	1		
+Eaus0082	South	1		
+Eaus0083	South	1		
+Eaus0084	South	1		
+Eaus0085	South	1		
+Eaus0086	South	1		
+Eaus0087	South	1		
+Eaus0088	South	1		
+Eaus0089	South	1		
+Eaus0090	South	1		
+Eaus0091	South	1		
+Eaus0092	South	1		
+Eaus0093	South	1		
+Eaus0094	South	1		
+Eaus0095	South	1		
+Eaus0096	South	1		
+Eaus0097	South	1		
+Eaus0098	South	1		
+Eaus0099	South	1		
+Eaus0100	South	1		
+Eaus0101	South	1		
+Eaus0102	South	1		
+Eaus0103	South	1		
+Eaus0104	South	1		
+Eaus0105	South	1		
+Eaus0106	South	1		
+Eaus0107	South	1		
+Eaus0108	South	1		
+Eaus0109	South	1		
+Eaus0110	South	1		
+Eaus0111	South	1		
+Eaus0112	South	1		
+Eaus0113	South	1		
+Eaus0114	South	1		
+Eaus0115	South	1		
+Eaus0116	South	1		
+Eaus0117	South	1		
+Eaus0118	South	1		
+Eaus0119	South	1		
+Eaus0120	South	1		
+Eaus0121	South	1		
+Eaus0122	South	1		
+Eaus0123	South	1		
+Eaus0124	South	1		
+Eaus0125	South	1		
+Eaus0126	South	1		
+Eaus0127	South	1		
+Eaus0128	South	1		
+Eaus0129	South	1		
+Eaus0130	South	1		
+Eaus0131	South	1		
+Eaus0132	South	1		
+Eaus0133	South	1		
+Eaus0134	South	1		
+Eaus0135	South	1		
+Eaus0136	South	1		
+Eaus0137	South	1		
+Eaus0138	South	1		
+Eaus0139	South	1		
+Eaus0140	South	1		
+Eaus0141	South	1		
+Eaus0142	South	1		
+Eaus0143	South	1		
+Eaus0144	South	1		
+Eaus0145	South	1		
+Eaus0146	South	1		
+Eaus0147	South	1		
+Eaus0148	South	1		
+Eaus0149	South	1		
+Eaus0150	South	1		
+Eaus0151	South	1		
+Eaus0152	South	1		
+Eaus0153	South	1		
+Eaus0154	South	1		
+Eaus0155	South	1		
+Eaus0156	South	1		
+Eaus0157	South	1		
+Eaus0158	South	1		
+Eaus0159	South	1		
+Eaus0160	South	1		
+Eaus0161	South	1		
+Eaus0162	South	1		
+Eaus0163	South	1		
+Eaus0164	South	1		
+Eaus0165	South	1		
+Eaus0166	South	1		
+Eaus0167	South	1		
+Eaus0168	South	1		
+Eaus0169	South	1		
+Eaus0170	South	1		
+Eaus0171	South	1		
+Eaus0172	South	1		
+Eaus0173	South	1		
+Eaus0174	South	1		
+Eaus0175	South	1		
+Eaus0176	South	1		
+Eaus0177	South	1		
+Eaus0178	South	1		
+Eaus0179	South	1		
+Eaus0180	South	1		
+Eaus0181	South	1		
+Eaus0182	South	1		
+Eaus0183	South	1		
+Eaus0184	South	1		
+Eaus0185	South	1		
+Eaus0186	South	1		
+Eaus0187	South	1		
+Eaus0188	South	1		
+Eaus0189	South	1		
+Eaus0190	South	1		
+Eaus0191	South	1		
+Eaus0192	South	1		
+Eaus0193	South	1		
+Eaus0194	South	1		
+Eaus0195	South	1		
+Eaus0196	South	1		
+Eaus0197	South	1		
+Eaus0198	South	1		
+Eaus0199	South	1		
+Eaus0200	South	1		
+Eaus0201	South	1		
+Eaus0202	South	1		
+Eaus0203	South	1		
+Eaus0204	South	1		
+Eaus0205	South	1		
+Eaus0206	South	1		
+Eaus0207	South	1		
+Eaus0208	South	1		
+Eaus0209	South	1		
+Eaus0210	South	1		
+Eaus0211	South	1		
+Eaus0212	South	1		
+Eaus0213	South	1		
+Eaus0214	South	1		
+Eaus0215	South	1		
+Eaus0216	South	1		
+Eaus0217	South	1		
+Eaus0218	South	1		
+Eaus0219	South	1		
+Eaus0220	South	1		
+Eaus0221	South	1		
+Eaus0222	South	1		
+Eaus0223	South	1		
+Eaus0224	South	1		
+Eaus0225	South	1		
+Eaus0226	South	1		
+Eaus0227	South	1		
+Eaus0228	South	1		
+Eaus0229	South	1		
+Eaus0230	South	1		
+Eaus0231	South	1		
+Eaus0232	South	1		
+Eaus0233	South	1		
+Eaus0234	South	1		
+Eaus0235	South	1		
+Eaus0236	South	1		
+Eaus0237	South	1		
+Eaus0238	South	1		
+Eaus0239	South	1		
+Eaus0240	South	1		
+Eaus0241	South	1		
+Eaus0242	South	1		
+Eaus0243	South	1		
+Eaus0244	South	1		
+Eaus0245	South	1		
+Eaus0246	South	1		
+Eaus0247	South	1		
+Eaus0248	South	1		
+Eaus0249	South	1		
+Eaus0250	South	1		
+Eaus0251	South	1		
+Eaus0252	South	1		
+Eaus0253	South	1		
+Eaus0254	South	1		
+Eaus0255	South	1		
+Eaus0256	South	1		
+Eaus0257	South	1		
+Eaus0258	South	1		
+Eaus0259	South	1		
+Eaus0260	South	1		
+Eaus0261	South	1		
+Eaus0262	South	1		
+Eaus0263	South	1		
+Eaus0264	South	1		
+Eaus0265	South	1		
+Eaus0266	South	1		
+Eaus0267	South	1		
+Eaus0268	South	1		
+Eaus0269	South	1		
+Eaus0270	South	1		
+Eaus0271	South	1		
+Eaus0272	South	1		
+Eaus0273	South	1		
+Eaus0274	South	1		
+Eaus0275	South	1		
+Eaus0276	South	1		
+Eaus0277	South	1		
+Eaus0278	South	1		
+Eaus0279	South	1		
+Eaus0280	South	1		
+Eaus0281	South	1		
+Eaus0282	South	1		
+Eaus0283	South	1		
+Eaus0284	South	1		
+Eaus0285	South	1		
+Eaus0286	South	1		
+Eaus0287	South	1		
+Eaus0288	South	1		
+Eaus0289	South	1		
+Eaus0290	South	1		
+Eaus0291	South	1		
+Eaus0292	South	1		
+Eaus0293	South	1		
+Eaus0294	South	1		
+Eaus0295	South	1		
+Eaus0296	South	1		
+Eaus0297	South	1		
+Eaus0298	South	1		
+Eaus0299	South	1		
+Eaus0300	South	1		
+Eaus0301	South	1		
+Eaus0302	South	1		
+Eaus0303	South	1		
+Eaus0304	South	1		
+Eaus0305	South	1		
+Eaus0306	South	1		
+Eaus0307	South	1		
+Eaus0308	South	1		
+Eaus0309	South	1		
+Eaus0310	South	1		
+Eaus0311	South	1		
+Eaus0312	South	1		
+Eaus0313	South	1		
+Eaus0314	South	1		
+Eaus0315	South	1		
+Eaus0316	South	1		
+Eaus0317	South	1		
+Eaus0318	South	1		
+Eaus0319	South	1		
+Eaus0320	South	1		
+Eaus0321	South	1		
+Eaus0322	South	1		
+Eaus0323	South	1		
+Eaus0324	South	1		
+Eaus0325	South	1		
+Eaus0326	South	1		
+Eaus0327	South	1		
+Eaus0328	South	1		
+Eaus0329	South	1		
+Eaus0330	South	1		
+Eaus0331	South	1		
+Eaus0332	South	1		
+Eaus0333	South	1		
+Eaus0334	South	1		
+Eaus0335	South	1		
+Eaus0336	South	1		
+Eaus0337	South	1		
+Eaus0338	South	1		
+Eaus0339	South	1		
+Eaus0340	South	1		
+Eaus0341	South	1		
+Eaus0342	South	1		
+Eaus0343	South	1		
+Eaus0344	South	1		
+Eaus0345	South	1		
+Eaus0346	South	1		
+Eaus0347	South	1		
+Eaus0348	South	1		
+Eaus0349	South	1		
+Eaus0350	South	1		
+Eaus0988	South	2	EU290462	
+Eaus0989	South	2	EU290463	
+Eaus0990	South	2	EU290464	
+Eaus0991	South	2	EU290465	
+Eaus0992	South	2	EU290466	
+Eaus0993	South	2	EU290467	
+Eaus0994	South	2	EU290468	
+Eaus0995	South	2	EU290469	
+Eaus0996	South	2	EU290470	
+Eaus0997	South	2	EU290471	
+Eaus0998	South	2	EU290472	
+Eaus0999	South	2	EU290473	
+Eaus1000	South	2	EU290474	
+Eaus1001	South	2	EU290475	
+Eaus1002	South	2	EU290476	
+Eaus1003	South	2	EU290477	
+Eaus1004	South	2	EU290478	
+Eaus1005	South	2	EU290479	
+Eaus1006	South	2	EU290480	
+Eaus1007	South	2	EU290481	
+Eaus1008	South	2	EU290482	
+Eaus1009	South	2	EU290483	
+Eaus1010	South	2	EU290484	
+Eaus1011	South	2	EU290485	
+Eaus1012	South	2	EU290486	
+Eaus1013	South	2	EU290487	
+Eaus1014	South	2	EU290488	
+Eaus1015	South	2	EU290489	
+Eaus1016	South	2	EU290490	
+Eaus1017	South	2	EU290491	
+Eaus1018	South	2	EU290492	
+Eaus1019	South	2	EU290493	
+Eaus1020	South	2	EU290494	
+Eaus1021	South	2	EU290495	
+Eaus1022	South	2	EU290496	
+Eaus1023	South	2	EU290497	
+Eaus1024	South	2	EU290498	
+Eaus1025	South	2	EU290499	
+Eaus1026	South	2	EU290500	
+Eaus1027	South	2	EU290501	
+Eaus1028	South	2	EU290502	
+Eaus1029	South	2	EU290503	
+Eaus1030	South	2	EU290504	
+Eaus1031	South	2	EU290505	
+Eaus1032	South	2	EU290506	
+Eaus1033	South	2	EU290507	
+Eaus1034	South	2	EU290508	
+Eaus1035	South	2	EU290509	
+Eaus1036	South	2	EU290510	
+Eaus1037	South	2	EU290511	
+Eaus1038	South	2	EU290512	
+Eaus1039	South	2	EU290513	
+Eaus1040	South	2	EU290514	
+Eaus1041	South	2	EU290515	
+Eaus1042	South	2	EU290516	
+Eaus1043	South	2	EU290517	
+Eaus1044	South	2	EU290518	
+Eaus1045	South	2	EU290519	
+Eaus1046	South	2	EU290520	
+Eaus1047	South	2	EU290521	
+Eaus1048	South	2	EU290522	
+Eaus1049	South	2	EU290523	
+Eaus1050	South	2	EU290524	
+Eaus1051	South	2	EU290525	
+Eaus1052	South	2	EU290526	
+Eaus1053	South	2	EU290527	
+Eaus1054	South	2	EU290528	
+Eaus1055	South	2	EU290529	
+Eaus1056	South	2	EU290530	
+Eaus1057	South	2	EU290531	
+Eaus1058	South	2	EU290532	
+Eaus1059	South	2	EU290533	
+Eaus1060	South	2	EU290534	
+Eaus1061	South	2	EU290535	
+Eaus1062	South	2	EU290536	
+Eaus1063	South	2	EU290537	
+Eaus1064	South	2	EU290538	
+Eaus1065	South	2	EU290539	
+Eaus1066	South	2	EU290540	
+Eaus1067	South	2	EU290541	
+Eaus1068	South	2	EU290542	
+Eaus1069	South	2	EU290543	
+Eaus1070	South	2	EU290544	
+Eaus1071	South	2	EU290545	
+Eaus1072	South	2	EU290546	
+Eaus1073	South	2	EU290547	
+Eaus1074	South	2	EU290548	
+Eaus1075	South	2	EU290549	
+Eaus1076	South	2	EU290550	
+Eaus1077	South	2	EU290551	
+Eaus1078	South	2	EU290552	
+Eaus1079	South	2	EU290553	
+Eaus1080	South	2	EU290554	
+Eaus1081	South	2	EU290555	
+Eaus1082	South	2	EU290556	
+Eaus1083	South	2	EU290557	
+Eaus1084	South	2	EU290558	
+Eaus1085	South	2	EU290559	
+Eaus1086	South	2	EU290560	
+Eaus1087	South	2	EU290561	
+Eaus1088	South	2	EU290562	
+Eaus1089	South	2	EU290563	
+Eaus1090	South	2	EU290564	
+Eaus1091	South	2	EU290565	
+Eaus1092	South	2	EU290566	
+Eaus1093	South	2	EU290567	
+Eaus1094	South	2	EU290568	
+Eaus1095	South	2	EU290569	
+Eaus1096	South	2	EU290570	
+Eaus1097	South	2	EU290571	
+Eaus1098	South	2	EU290572	
+Eaus1099	South	2	EU290573	
+Eaus1100	South	2	EU290574	
+Eaus1101	South	2	EU290575	
+Eaus1102	South	2	EU290576	
+Eaus1103	South	2	EU290577	
+Eaus1104	South	2	EU290578	
+Eaus1105	South	2	EU290579	
+Eaus1106	South	2	EU290580	
+Eaus1107	South	2	EU290581	
+Eaus1108	South	2	EU290582	
+Eaus1109	South	2	EU290583	
+Eaus1110	South	2	EU290584	
+Eaus1111	South	2	EU290585	
+Eaus1112	South	2	EU290586	
+Eaus1113	South	2	EU290587	
+Eaus1114	South	2	EU290588	
+Eaus1115	South	2	EU290589	
+Eaus1116	South	2	EU290590	
+Eaus1117	South	2	EU290591	
+Eaus1118	South	2	EU290592	
+Egla0001	North	3	AF395039	
+Egla0002	North	3	AF395039	
+Egla0003	North	3	AF395039	
+Egla0004	North	3	AF395039	
+Egla0005	North	3	AF395039	
+Egla0006	North	3	AF395039	
+Egla0007	North	3	AF395039	
+Egla0008	North	3	AF395039	
+Egla0009	North	3	AF395039	
+Egla0010	North	3	AF395039	
+Egla0011	North	3	AF395039	
+Egla0012	North	3	AF395039	
+Egla0013	North	3	AF395039	
+Egla0014	North	3	AF395039	
+Egla0015	North	3	AF395039	
+Egla0016	North	3	AF395039	
+Egla0017	North	3	AF395039	
+Egla0018	North	3	AF395039	
+Egla0019	North	3	AF395039	
+Egla0020	North	3	AF395039	
+Egla0021	North	3	AF395039	
+Egla0022	North	3	AF395039	
+Egla0023	North	3	AF395039	
+Egla0024	North	3	AF395039	
+Egla0025	North	3	AF395039	
+Egla0026	North	3	AF395039	
+Egla0027	North	3	AF395039	
+Egla0028	North	3	AF395039	
+Egla0029	North	3	AF395039	
+Egla0030	North	3	AF395039	
+Egla0031	North	3	AF395039	
+Egla0032	North	3	AF395039	
+Egla0033	North	3	AF395039	
+Egla0034	North	3	AF395039	
+Egla0035	North	3	AF395039	
+Egla0036	North	3	AF395039	
+Egla0037	North	3	AF395039	
+Egla0038	North	3	AF395039	
+Egla0039	North	3	AF395039	
+Egla0040	North	3	AF395039	
+Egla0041	North	3	AF395039	
+Egla0042	North	3	AF395039	
+Egla0043	North	3	AF395039	
+Egla0044	North	3	AF395039	
+Egla0045	North	3	AF395039	
+Egla0046	North	3	AF395039	
+Egla0047	North	3	AF395039	
+Egla0048	North	3	AF395039	
+Egla0049	North	3	AF395039	
+Egla0050	North	3	AF395039	
+Egla0051	North	3	AF395039	
+Egla0052	North	3	AF395039	
+Egla0053	North	3	AF395039	
+Egla0054	North	3	AF395039	
+Egla0055	North	3	AF395039	
+Egla0056	North	3	AF395039	
+Egla0057	North	3	AF395039	
+Egla0058	North	3	AF395039	
+Egla0059	North	3	AF395039	
+Egla0060	North	3	AF395039	
+Egla0061	North	3	AF395039	
+Egla0062	North	3	AF395039	
+Egla0063	North	3	AF395039	
+Egla0064	North	3	AF395039	
+Egla0065	North	3	AF395039	
+Egla0066	North	3	AF395039	
+Egla0067	North	3	AF395039	
+Egla0068	North	3	AF395039	
+Egla0069	North	3	AF395039	
+Egla0070	North	3	AF395039	
+Egla0071	North	3	AF395039	
+Egla0072	North	3	AF395039	
+Egla0073	North	3	AF395039	
+Egla0074	North	3	AF395039	
+Egla0075	North	3	AF395039	
+Egla0076	North	3	AF395040	
+Egla0077	North	3	AF395040	
+Egla0078	North	3	AF395040	
+Egla0079	North	3	AF395040	
+Egla0080	North	3	AF395040	
+Egla0081	North	3	AF395040	
+Egla0082	North	3	AF395040	
+Egla0083	North	3	AF395040	
+Egla0084	North	3	AF395040	
+Egla0085	North	3	AF395040	
+Egla0086	North	3	AF395040	
+Egla0087	North	3	AF395040	
+Egla0088	North	3	AF395040	
+Egla0089	North	3	AF395040	
+Egla0090	North	3	AF395040	
+Egla0091	North	3	AF395040	
+Egla0092	North	3	AF395040	
+Egla0093	North	3	AF395040	
+Egla0094	North	3	AF395040	
+Egla0095	North	3	AF395040	
+Egla0096	North	3	AF395040	
+Egla0097	North	3	AF395040	
+Egla0098	North	3	AF395040	
+Egla0099	North	3	AF395040	
+Egla0100	North	3	AF395040	
+Egla0101	North	3	AF395040	
+Egla0102	North	3	AF395040	
+Egla0103	North	3	AF395040	
+Egla0104	North	3	AF395040	
+Egla0105	North	3	AF395040	
+Egla0106	North	3	AF395040	
+Egla0107	North	3	AF395040	
+Egla0108	North	3	AF395040	
+Egla0109	North	3	AF395040	
+Egla0110	North	3	AF395040	
+Egla0111	North	3	AF395040	
+Egla0112	North	3	AF395040	
+Egla0113	North	3	AF395040	
+Egla0114	North	3	AF395040	
+Egla0115	North	3	AF395041	
+Egla0116	North	3	AF395041	
+Egla0117	North	3	AF395041	
+Egla0118	North	3	AF395041	
+Egla0119	North	3	AF395041	
+Egla0120	North	3	AF395041	
+Egla0121	North	3	AF395041	
+Egla0122	North	3	AF395041	
+Egla0123	North	3	AF395041	
+Egla0124	North	3	AF395041	
+Egla0125	North	3	AF395041	
+Egla0126	North	3	AF395041	
+Egla0127	North	3	AF395041	
+Egla0128	North	3	AF395041	
+Egla0129	North	3	AF395041	
+Egla0130	North	3	AF395041	
+Egla0131	North	3	AF395041	
+Egla0132	North	3	AF395041	
+Egla0133	North	3	AF395041	
+Egla0134	North	3	AF395041	
+Egla0135	North	3	AF395041	
+Egla0136	North	3	AF395041	
+Egla0137	North	3	AF395041	
+Egla0138	North	3	AF395041	
+Egla0139	North	3	AF395041	
+Egla0140	North	3	AF395041	
+Egla0141	North	3	AF395041	
+Egla0142	North	3	AF395041	
+Egla0143	North	3	AF395041	
+Egla0144	North	3	AF395041	
+Egla0145	North	3	AF395041	
+Egla0146	North	3	AF395041	
+Egla0147	North	3	AF395041	
+Egla0148	North	3	AF395041	
+Egla0149	North	3	AF395041	
+Egla0150	North	3	AF395042	
+Egla0151	North	3	AF395042	
+Egla0152	North	3	AF395042	
+Egla0153	North	3	AF395042	
+Egla0154	North	3	AF395042	
+Egla0155	North	3	AF395042	
+Egla0156	North	3	AF395042	
+Egla0157	North	3	AF395042	
+Egla0158	North	3	AF395042	
+Egla0159	North	3	AF395042	
+Egla0160	North	3	AF395042	
+Egla0161	North	3	AF395042	
+Egla0162	North	3	AF395042	
+Egla0163	North	3	AF395042	
+Egla0164	North	3	AF395042	
+Egla0165	North	3	AF395042	
+Egla0166	North	3	AF395042	
+Egla0167	North	3	AF395042	
+Egla0168	North	3	AF395042	
+Egla0169	North	3	AF395042	
+Egla0170	North	3	AF395042	
+Egla0171	North	3	AF395042	
+Egla0172	North	3	AF395042	
+Egla0173	North	3	AF395042	
+Egla0174	North	3	AF395042	
+Egla0175	North	3	AF395042	
+Egla0176	North	3	AF395042	
+Egla0177	North	3	AF395042	
+Egla0178	North	3	AF395042	
+Egla0179	North	3	AF395042	
+Egla0180	North	3	AF395042	
+Egla0181	North	3	AF395042	
+Egla0182	North	3	AF395042	
+Egla0183	North	3	AF395042	
+Egla0184	North	3	AF395042	
+Egla0185	North	3	AF395042	
+Egla0186	North	3	AF395042	
+Egla0187	North	3	AF395042	
+Egla0188	North	3	AF395042	
+Egla0189	North	3	AF395042	
+Egla0190	North	3	AF395042	
+Egla0191	North	3	AF395042	
+Egla0192	North	3	AF395042	
+Egla0193	North	3	AF395042	
+Egla0194	North	3	AF395042	
+Egla0195	North	3	AF395042	
+Egla0196	North	3	AF395042	
+Egla0197	North	3	AF395042	
+Egla0198	North	3	AF395042	
+Egla0199	North	3	AF395042	
+Egla0200	North	3	AF395042	
+Egla0201	North	3	AF395042	
+Egla0202	North	3	AF395042	
+Egla0203	North	3	AF395042	
+Egla0204	North	3	AF395042	
+Egla0205	North	3	AF395042	
+Egla0206	North	3	AF395042	
+Egla0207	North	3	AF395042	
+Egla0208	North	3	AF395042	
+Egla0209	North	3	AF395042	
+Egla0210	North	3	AF395042	
+Egla0211	North	3	AF395042	
+Egla0212	North	3	AF395042	
+Egla0213	North	3	AF395042	
+Egla0214	North	3	AF395042	
+Egla0215	North	3	AF395042	
+Egla0216	North	3	AF395042	
+Egla0217	North	3	AF395042	
+Egla0218	North	3	AF395042	
+Egla0219	North	3	AF395042	
+Egla0220	North	3	AF395042	
+Egla0221	North	3	AF395042	
+Egla0222	North	3	AF395042	
+Egla0223	North	3	AF395042	
+Egla0224	North	3	AF395042	
+Egla0225	North	3	AF395042	
+Egla0226	North	3	AF395042	
+Egla0227	North	3	AF395042	
+Egla0228	North	3	AF395042	
+Egla0229	North	3	AF395042	
+Egla0230	North	3	AF395042	
+Egla0231	North	3	AF395042	
+Egla0232	North	3	AF395042	
+Egla0233	North	3	AF395042	
+Egla0234	North	3	AF395042	
+Egla0235	North	3	AF395042	
+Egla0236	North	3	AF395042	
+Egla0237	North	3	AF395042	
+Egla0238	North	3	AF395042	
+Egla0239	North	3	AF395042	
+Egla0240	North	3	AF395042	
+Egla0241	North	3	AF395042	
+Egla0242	North	3	AF395042	
+Egla0243	North	3	AF395042	
+Egla0244	North	3	AF395042	
+Egla0245	North	3	AF395042	
+Egla0246	North	3	AF395042	
+Egla0247	North	3	AF395042	
+Egla0248	North	3	AF395042	
+Egla0249	North	3	AF395042	
+Egla0250	North	3	AF395042	
+Egla0251	North	3	AF395042	
+Egla0252	North	3	AF395042	
+Egla0253	North	3	AF395042	
+Egla0254	North	3	AF395042	
+Egla0255	North	3	AF395042	
+Egla0256	North	3	AF395042	
+Egla0257	North	3	AF395042	
+Egla0258	North	3	AF395042	
+Egla0259	North	3	AF395042	
+Egla0260	North	3	AF395042	
+Egla0261	North	3	AF395042	
+Egla0262	North	3	AF395042	
+Egla0263	North	3	AF395042	
+Egla0264	North	3	AF395042	
+Egla0265	North	3	AF395042	
+Egla0266	North	3	AF395042	
+Egla0267	North	3	AF395043	
+Egla0268	North	3	AF395043	
+Egla0269	North	3	AF395043	
+				
+				
+				
+				
+				

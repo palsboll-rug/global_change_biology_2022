@@ -1,0 +1,24 @@
+#example blueprint file
+#input setting
+popid: EubAus_10x # id of the population (no white space)
+nseq: 90 # number of sequences
+L: 2440372 # total number of observed nucleic sites, including polymorphic and monomorphic
+whether_folded: true # whether the SFS is folded (true or false)
+SFS: 	8972.954597	3509.425838	2234.114374	1706.864151	1257.289296	1046.042614	849.876283	702.224837	697.744909	597.924541	578.460992	464.910405	513.849231	406.691078	414.360257	371.496972	337.690203	331.430888	303.508562	332.359503	301.481213	277.853280	259.558865	287.809179	233.810529	227.675120	259.066631	244.902610	225.578272	246.762144	203.650505	187.862976	236.764025	238.604399	216.047212	206.100340	216.160202	185.822157	227.179659	223.086142	200.339680	215.367863	219.686051	249.701038	261.749599 # snp frequency spectrum: number of singleton, number of doubleton, etc. (separated by white space)
+#smallest_size_of_SFS_bin_used_for_estimation: 1 # default is 1; to ignore singletons, change this number to 2
+#largest_size_of_SFS_bin_used_for_estimation: 45 # default is nseq/2 for folded SFS
+pct_training: 0.67 # percentage of sites for training
+nrand: 22	44	66	88 # number of random break points for each try (separated by white space)
+project_dir: EubAus_10x # project directory
+stairway_plot_dir: stairway_plot_es # directory to the stairway plot files
+ninput: 200 # number of input files to be created for each estimation
+#output setting
+mu: 2.95e-8 # assumed mutation rate per site per generation
+year_per_generation: 27.57 # assumed generation time (in years)
+#plot setting
+plot_title: EubAus_10x # title of the plot
+xrange: 0.1,10000 # Time (1k year) range; format: xmin,xmax; "0,0" for default
+yrange: 0,0 # Ne (1k individual) range; format: xmin,xmax; "0,0" for default
+xspacing: 2 # X axis spacing
+yspacing: 2 # Y axis spacing
+fontsize: 12 # Font size

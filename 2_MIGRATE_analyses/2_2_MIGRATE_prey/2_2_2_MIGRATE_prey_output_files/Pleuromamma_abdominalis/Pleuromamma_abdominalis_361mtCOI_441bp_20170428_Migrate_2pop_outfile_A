@@ -1,0 +1,101 @@
+  ========================================================================
+   Dataset of Pleuromamma abdominalis from Clade 1 and 2 PLAB01 and PLAB02
+  ========================================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ========================================================================
+  Version 3.6.6
+
+  Program started at Mon Jun 26 04:53:08 2017
+                                                   
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+Migration rate      (M)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.100000   0.200000   0.020000 
+Migration rate      (M)      Uniform  0.000000  250.000000 500.000000 50.000000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 8420
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)               279852
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.12000
+   M values were generated from guessed values
+   M-matrix: 83.00 [all are the same]
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Pleuromamma abdominalis_361mtCOI_441bp_2017042
+   Output file (ASCII text): Pleuromamma abdominalis_361mtCO
+   Output file (PDF):        Pleuromamma abdominalis_361mtCO
+   Posterior distribution: Pleuromamma abdominalis_361mtCOI_
+   All values of Post.Dist:Pleuromamma abdominalis_361mtCOI_
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file Pleuromamma abdominalis_
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Pleuromamma abd
+
+Summary of data:
+Title: Dataset of Pleuromamma abdominalis from Clade 1 and 2
+Data file:  Pleuromamma abdominalis_361mtCOI_441bp_20170428_
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 North_Atla Pabd0014 Pabd0026 Pabd0032 Pabd0043 Pabd0066 Pabd0074 Pabd0078 Pabd0081 
+                 Pabd0083 Pabd0084 Pabd0085 Pabd0088 Pabd0089 Pabd0090 Pabd0093 Pabd0094 
+                 Pabd0096 Pabd0099 Pabd0100 Pabd0101 Pabd0103 Pabd0104 Pabd0105 Pabd0106 
+                 Pabd0107 Pabd0109 Pabd0112 Pabd0116 Pabd0119 Pabd0124 Pabd0129 Pabd0130 
+                 Pabd0001 Pabd0002 Pabd0003 Pabd0004 Pabd0005 Pabd0006 Pabd0007 Pabd0008 
+                 P

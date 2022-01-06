@@ -1,0 +1,98 @@
+Species	Centropages typicus			
+Number of data sets	1			
+				
+Data set no.	1			
+Locus	Mitochondrial cytochrome oxidase subunit I			
+DNA sequence lengh (in base pairs)	79			
+No. of DNA sequences	560			
+				
+Data source references:		Sample areas	Habitat	Links to source data files
+1	Castellani, C., Lindley, A. J., Wootton, M., Lee, C. M., & Kirby, R. R. (2012). Morphological and genetic variation in the North copepod, Centropages typicus. Journal of the Marine Biological Association of the United Kingdom, 92(1), 99-106. doi: 10.1017/S0025315411000932	Eastern Canadian sea border & Eastern North	NA	GenBank
+				
+Migrate data file name	Centropages_typicus_79mtCOI_560bp_20170426_Migrate_1pop.txt			
+Results figure(s)	4, 5, 6, S5			
+				
+Individual sample identifiers and data source				
+Migrate_infile_sequence_identifier	Migrate_sample_partition	Data_source	GenBank_Accession_number	Source_DNA_sequence_identifier
+Ctyp0038	North	1	GU132353	Haplotype 036
+Ctyp0039	North	1	GU132354	Haplotype 037
+Ctyp0040	North	1	GU132355	Haplotype 038
+Ctyp0041	North	1	GU132356	Haplotype 039
+Ctyp0042	North	1	GU132357	Haplotype 040
+Ctyp0043	North	1	GU132358	Haplotype 041
+Ctyp0044	North	1	GU132359	Haplotype 042
+Ctyp0045	North	1	GU132360	Haplotype 043
+Ctyp0046	North	1	GU132361	Haplotype 044
+Ctyp0047	North	1	GU132362	Haplotype 045
+Ctyp0048	North	1	GU132363	Haplotype 046
+Ctyp0049	North	1	GU132364	Haplotype 047
+Ctyp0050	North	1	GU132365	Haplotype 048
+Ctyp0051	North	1	GU132366	Haplotype 049
+Ctyp0052	North	1	GU132367	Haplotype 050
+Ctyp0053	North	1	GU132368	Haplotype 001
+Ctyp0054	North	1	GU132369	Haplotype 051
+Ctyp0055	North	1	GU132370	Haplotype 052
+Ctyp0056	North	1	GU132371	Haplotype 053
+Ctyp0057	North	1	GU132372	Haplotype 001
+Ctyp0058	North	1	GU132373	Haplotype 054
+Ctyp0059	North	1	GU132374	Haplotype 055
+Ctyp0060	North	1	GU132375	Haplotype 056
+Ctyp0061	North	1	GU132376	Haplotype 057
+Ctyp0062	North	1	GU132377	Haplotype 058
+Ctyp0063	North	1	GU132378	Haplotype 059
+Ctyp0064	North	1	GU132379	Haplotype 060
+Ctyp0065	North	1	GU132380	Haplotype 061
+Ctyp0066	North	1	GU132381	Haplotype 062
+Ctyp0067	North	1	GU132382	Haplotype 063
+Ctyp0068	North	1	GU132383	Haplotype 004
+Ctyp0069	North	1	GU132384	Haplotype 001
+Ctyp0070	North	1	GU132385	Haplotype 064
+Ctyp0071	North	1	GU132386	Haplotype 065
+Ctyp0072	North	1	GU132387	Haplotype 066
+Ctyp0073	North	1	GU132388	Haplotype 067
+Ctyp0074	North	1	GU132389	Haplotype 001
+Ctyp0075	North	1	GU132390	Haplotype 068
+Ctyp0076	North	1	GU132391	Haplotype 069
+Ctyp0077	North	1	GU132392	Haplotype 005
+Ctyp0078	North	1	GU132393	Haplotype 070
+Ctyp0079	North	1	GU132394	Haplotype 071
+Ctyp0080	North	1	GU132395	Haplotype 072
+Ctyp0081	North	1	GU132396	Haplotype 073
+Ctyp0082	North	1	GU132397	Haplotype 074
+Ctyp0083	North	1	GU132398	Haplotype 004
+Ctyp0084	North	1	GU132399	Haplotype 002
+Ctyp0085	North	1	GU132400	Haplotype 075
+Ctyp0086	North	1	GU132401	Haplotype 076
+Ctyp0087	North	1	GU132402	Haplotype 077
+Ctyp0088	North	1	GU132403	Haplotype 078
+Ctyp0089	North	1	GU132404	Haplotype 001
+Ctyp0090	North	1	GU132405	Haplotype 001
+Ctyp0091	North	1	GU132406	Haplotype 079
+Ctyp0092	North	1	GU132407	Haplotype 080
+Ctyp0093	North	1	GU132408	Haplotype 081
+Ctyp0094	North	1	GU132409	Haplotype 082
+Ctyp0095	North	1	GU132410	Haplotype 083
+Ctyp0096	North	1	GU132411	Haplotype 084
+Ctyp0097	North	1	GU132412	Haplotype 085
+Ctyp0098	North	1	GU132413	Haplotype 086
+Ctyp0099	North	1	GU132414	Haplotype 001
+Ctyp0100	North	1	GU132415	Haplotype 087
+Ctyp0101	North	1	GU132416	Haplotype 003
+Ctyp0102	North	1	GU132417	Haplotype 088
+Ctyp0103	North	1	GU132418	Haplotype 089
+Ctyp0104	North	1	GU132419	Haplotype 090
+Ctyp0105	North	1	GU132420	Haplotype 091
+Ctyp0106	North	1	GU132421	Haplotype 092
+Ctyp0107	North	1	GU132422	Haplotype 093
+Ctyp0108	North	1	GU132423	Haplotype 094
+Ctyp0109	North	1	GU132424	Haplotype 095
+Ctyp0110	North	1	GU132425	Haplotype 096
+Ctyp0111	North	1	GU132426	Haplotype 001
+Ctyp0112	North	1	GU132427	Haplotype 097
+Ctyp0113	North	1	GU132428	Haplotype 098
+Ctyp0114	North	1	GU132429	Haplotype 099
+Ctyp0115	North	1	GU132430	Haplotype 005
+Ctyp0116	North	1	GU132431	Haplotype 100
+				
+				
+				

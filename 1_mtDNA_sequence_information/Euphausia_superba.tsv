@@ -1,0 +1,813 @@
+Species	Euphausia superba			
+Number of data sets	2			
+				
+Data set no.	1			
+Locus	Mitochondrial cytochrome oxidase subunit I			
+DNA sequence lengh (in base pairs)	593			
+No. of DNA sequences	640			
+				
+Data source references:		Sample areas	Habitat	Links to source data files
+1	Goodall-Copestake, W. P., Pérez-Espona, S., Clark, M. S., Murphy, E. J., Seear, P. J., & Tarling, G. A. (2010). Swarms of diversity at the gene cox1 in Antarctic krill. Heredity, 104(5), 513–518. doi: 10.1038/hdy.2009.188	Antarctica	NA	GenBank
+2	Deagle, B. E., Faux, C., Kawaguchi, S., Meyer, B., & Jarman, S. N. (2015). Antarctic krill population genomics: Apparent panmixia, but genome complexity and large population size muddy the water. Molecular Ecology, 24(19), 4943–4959. doi: 10.1111/mec.13370	Antarctica	NA	https://doi.org/10.5061/dryad.3023m
+				
+Migrate data file name	Esuperba_640mtCOI_593bp_20160911_Migrate_1pop.txt			
+Results figure(s)	4, 5, 6, S3 & S5			
+				
+Individual sample identifiers and data source				
+Migrate_infile_sequence_identifier	Migrate_sample_partition	Data_source	GenBank_Accession_number	Source_DNA_sequence_identifier
+Esup0001	South	1	GQ305462	Hap_001
+Esup0002	South	1	GQ305463	Hap_002
+Esup0003	South	1	GQ305464	Hap_003
+Esup0004	South	1	GQ305465	Hap_004
+Esup0005	South	1	GQ305466	Hap_005
+Esup0006	South	1	GQ305467	Hap_006
+Esup0007	South	1	GQ305467	Hap_006
+Esup0008	South	1	GQ305467	Hap_006
+Esup0009	South	1	GQ305467	Hap_006
+Esup0010	South	1	GQ305467	Hap_006
+Esup0011	South	1	GQ305468	Hap_007
+Esup0012	South	1	GQ305469	Hap_008
+Esup0013	South	1	GQ305470	Hap_009
+Esup0014	South	1	GQ305471	Hap_010
+Esup0015	South	1	GQ305472	Hap_011
+Esup0016	South	1	GQ305473	Hap_012
+Esup0017	South	1	GQ305474	Hap_013
+Esup0018	South	1	GQ305475	Hap_014
+Esup0019	South	1	GQ305475	Hap_014
+Esup0020	South	1	GQ305475	Hap_014
+Esup0021	South	1	GQ305475	Hap_014
+Esup0022	South	1	GQ305475	Hap_014
+Esup0023	South	1	GQ305475	Hap_014
+Esup0024	South	1	GQ305475	Hap_014
+Esup0025	South	1	GQ305475	Hap_014
+Esup0026	South	1	GQ305475	Hap_014
+Esup0027	South	1	GQ305475	Hap_014
+Esup0028	South	1	GQ305476	Hap_015
+Esup0029	South	1	GQ305477	Hap_016
+Esup0030	South	1	GQ305478	Hap_017
+Esup0031	South	1	GQ305478	Hap_017
+Esup0032	South	1	GQ305478	Hap_017
+Esup0033	South	1	GQ305478	Hap_017
+Esup0034	South	1	GQ305478	Hap_017
+Esup0035	South	1	GQ305478	Hap_017
+Esup0036	South	1	GQ305479	Hap_018
+Esup0037	South	1	GQ305480	Hap_019
+Esup0038	South	1	GQ305481	Hap_020
+Esup0039	South	1	GQ305482	Hap_021
+Esup0040	South	1	GQ305483	Hap_022
+Esup0041	South	1	GQ305484	Hap_023
+Esup0042	South	1	GQ305484	Hap_023
+Esup0043	South	1	GQ305485	Hap_024
+Esup0044	South	1	GQ305486	Hap_025
+Esup0045	South	1	GQ305487	Hap_026
+Esup0046	South	1	GQ305488	Hap_027
+Esup0047	South	1	GQ305489	Hap_028
+Esup0048	South	1	GQ305490	Hap_029
+Esup0049	South	1	GQ305491	Hap_030
+Esup0050	South	1	GQ305492	Hap_031
+Esup0051	South	1	GQ305492	Hap_031
+Esup0052	South	1	GQ305493	Hap_032
+Esup0053	South	1	GQ305494	Hap_033
+Esup0054	South	1	GQ305495	Hap_034
+Esup0055	South	1	GQ305495	Hap_034
+Esup0056	South	1	GQ305495	Hap_034
+Esup0057	South	1	GQ305495	Hap_034
+Esup0058	South	1	GQ305495	Hap_034
+Esup0059	South	1	GQ305495	Hap_034
+Esup0060	South	1	GQ305495	Hap_034
+Esup0061	South	1	GQ305495	Hap_034
+Esup0062	South	1	GQ305495	Hap_034
+Esup0063	South	1	GQ305495	Hap_034
+Esup0064	South	1	GQ305495	Hap_034
+Esup0065	South	1	GQ305496	Hap_035
+Esup0066	South	1	GQ305497	Hap_036
+Esup0067	South	1	GQ305498	Hap_037
+Esup0068	South	1	GQ305499	Hap_038
+Esup0069	South	1	GQ305500	Hap_039
+Esup0070	South	1	GQ305501	Hap_040
+Esup0071	South	1	GQ305502	Hap_041
+Esup0072	South	1	GQ305503	Hap_042
+Esup0073	South	1	GQ305503	Hap_042
+Esup0074	South	1	GQ305503	Hap_042
+Esup0075	South	1	GQ305503	Hap_042
+Esup0076	South	1	GQ305503	Hap_042
+Esup0077	South	1	GQ305503	Hap_042
+Esup0078	South	1	GQ305503	Hap_042
+Esup0079	South	1	GQ305503	Hap_042
+Esup0080	South	1	GQ305503	Hap_042
+Esup0081	South	1	GQ305503	Hap_042
+Esup0082	South	1	GQ305503	Hap_042
+Esup0083	South	1	GQ305503	Hap_042
+Esup0084	South	1	GQ305504	Hap_043
+Esup0085	South	1	GQ305505	Hap_044
+Esup0086	South	1	GQ305506	Hap_045
+Esup0087	South	1	GQ305507	Hap_046
+Esup0088	South	1	GQ305507	Hap_046
+Esup0089	South	1	GQ305507	Hap_046
+Esup0090	South	1	GQ305508	Hap_047
+Esup0091	South	1	GQ305509	Hap_048
+Esup0092	South	1	GQ305510	Hap_049
+Esup0093	South	1	GQ305511	Hap_050
+Esup0094	South	1	GQ305511	Hap_050
+Esup0095	South	1	GQ305511	Hap_050
+Esup0096	South	1	GQ305511	Hap_050
+Esup0097	South	1	GQ305511	Hap_050
+Esup0098	South	1	GQ305511	Hap_050
+Esup0099	South	1	GQ305512	Hap_051
+Esup0100	South	1	GQ305512	Hap_051
+Esup0101	South	1	GQ305513	Hap_052
+Esup0102	South	1	GQ305514	Hap_053
+Esup0103	South	1	GQ305515	Hap_054
+Esup0104	South	1	GQ305516	Hap_055
+Esup0105	South	1	GQ305517	Hap_056
+Esup0106	South	1	GQ305518	Hap_057
+Esup0107	South	1	GQ305519	Hap_058
+Esup0108	South	1	GQ305520	Hap_059
+Esup0109	South	1	GQ305521	Hap_060
+Esup0110	South	1	GQ305522	Hap_061
+Esup0111	South	1	GQ305523	Hap_062
+Esup0112	South	1	GQ305523	Hap_062
+Esup0113	South	1	GQ305524	Hap_063
+Esup0114	South	1	GQ305525	Hap_064
+Esup0115	South	1	GQ305526	Hap_065
+Esup0116	South	1	GQ305527	Hap_066
+Esup0117	South	1	GQ305528	Hap_067
+Esup0118	South	1	GQ305529	Hap_068
+Esup0119	South	1	GQ305530	Hap_069
+Esup0120	South	1	GQ305531	Hap_070
+Esup0121	South	1	GQ305532	Hap_071
+Esup0122	South	1	GQ305533	Hap_072
+Esup0123	South	1	GQ305534	Hap_073
+Esup0124	South	1	GQ305535	Hap_074
+Esup0125	South	1	GQ305536	Hap_075
+Esup0126	South	1	GQ305537	Hap_076
+Esup0127	South	1	GQ305538	Hap_077
+Esup0128	South	1	GQ305539	Hap_078
+Esup0129	South	1	GQ305540	Hap_079
+Esup0130	South	1	GQ305541	Hap_080
+Esup0131	South	1	GQ305542	Hap_081
+Esup0132	South	1	GQ305543	Hap_082
+Esup0133	South	1	GQ305544	Hap_083
+Esup0134	South	1	GQ305545	Hap_084
+Esup0135	South	1	GQ305546	Hap_085
+Esup0136	South	1	GQ305547	Hap_086
+Esup0137	South	1	GQ305548	Hap_087
+Esup0138	South	1	GQ305548	Hap_087
+Esup0139	South	1	GQ305549	Hap_088
+Esup0140	South	1	GQ305550	Hap_089
+Esup0141	South	1	GQ305551	Hap_090
+Esup0142	South	1	GQ305552	Hap_091
+Esup0143	South	1	GQ305553	Hap_092
+Esup0144	South	1	GQ305554	Hap_093
+Esup0145	South	1	GQ305555	Hap_094
+Esup0146	South	1	GQ305556	Hap_095
+Esup0147	South	1	GQ305557	Hap_096
+Esup0148	South	1	GQ305558	Hap_097
+Esup0149	South	1	GQ305558	Hap_097
+Esup0150	South	1	GQ305558	Hap_097
+Esup0151	South	1	GQ305558	Hap_097
+Esup0152	South	1	GQ305558	Hap_097
+Esup0153	South	1	GQ305558	Hap_097
+Esup0154	South	1	GQ305558	Hap_097
+Esup0155	South	1	GQ305559	Hap_098
+Esup0156	South	1	GQ305560	Hap_099
+Esup0157	South	1	GQ305561	Hap_100
+Esup0158	South	1	GQ305562	Hap_101
+Esup0159	South	1	GQ305563	Hap_102
+Esup0160	South	1	GQ305564	Hap_103
+Esup0161	South	1	GQ305565	Hap_104
+Esup0162	South	1	GQ305566	Hap_105
+Esup0163	South	1	GQ305567	Hap_106
+Esup0164	South	1	GQ305568	Hap_107
+Esup0165	South	1	GQ305569	Hap_108
+Esup0166	South	1	GQ305570	Hap_109
+Esup0167	South	1	GQ305571	Hap_110
+Esup0168	South	1	GQ305572	Hap_111
+Esup0169	South	1	GQ305573	Hap_112
+Esup0170	South	1	GQ305574	Hap_113
+Esup0171	South	1	GQ305575	Hap_114
+Esup0172	South	1	GQ305576	Hap_115
+Esup0173	South	1	GQ305577	Hap_116
+Esup0174	South	1	GQ305578	Hap_117
+Esup0175	South	1	GQ305579	Hap_118
+Esup0176	South	1	GQ305580	Hap_119
+Esup0177	South	1	GQ305581	Hap_120
+Esup0178	South	1	GQ305582	Hap_121
+Esup0179	South	1	GQ305583	Hap_122
+Esup0180	South	1	GQ305584	Hap_123
+Esup0181	South	1	GQ305585	Hap_124
+Esup0182	South	1	GQ305586	Hap_125
+Esup0183	South	1	GQ305587	Hap_126
+Esup0184	South	1	GQ305588	Hap_127
+Esup0185	South	1	GQ305589	Hap_128
+Esup0186	South	1	GQ305590	Hap_129
+Esup0187	South	1	GQ305591	Hap_130
+Esup0188	South	1	GQ305592	Hap_131
+Esup0189	South	1	GQ305593	Hap_132
+Esup0190	South	1	GQ305593	Hap_132
+Esup0191	South	1	GQ305593	Hap_132
+Esup0192	South	1	GQ305594	Hap_133
+Esup0193	South	1	GQ305595	Hap_134
+Esup0194	South	1	GQ305596	Hap_135
+Esup0195	South	1	GQ305597	Hap_136
+Esup0196	South	1	GQ305598	Hap_137
+Esup0197	South	1	GQ305599	Hap_138
+Esup0198	South	1	GQ305600	Hap_139
+Esup0199	South	1	GQ305601	Hap_140
+Esup0200	South	1	GQ305602	Hap_141
+Esup0201	South	1	GQ305603	Hap_142
+Esup0202	South	1	GQ305604	Hap_143
+Esup0203	South	1	GQ305605	Hap_144
+Esup0204	South	1	GQ305606	Hap_145
+Esup0205	South	1	GQ305607	Hap_146
+Esup0206	South	1	GQ305608	Hap_147
+Esup0207	South	1	GQ305609	Hap_148
+Esup0208	South	1	GQ305610	Hap_149
+Esup0209	South	1	GQ305611	Hap_150
+Esup0210	South	1	GQ305612	Hap_151
+Esup0211	South	1	GQ305612	Hap_151
+Esup0212	South	1	GQ305613	Hap_152
+Esup0213	South	1	GQ305614	Hap_153
+Esup0214	South	1	GQ305615	Hap_154
+Esup0215	South	1	GQ305616	Hap_155
+Esup0216	South	1	GQ305617	Hap_156
+Esup0217	South	1	GQ305618	Hap_157
+Esup0218	South	1	GQ305619	Hap_158
+Esup0219	South	1	GQ305620	Hap_159
+Esup0220	South	1	GQ305621	Hap_160
+Esup0221	South	1	GQ305622	Hap_161
+Esup0222	South	1	GQ305623	Hap_162
+Esup0223	South	1	GQ305624	Hap_163
+Esup0224	South	1	GQ305625	Hap_164
+Esup0225	South	1	GQ305626	Hap_165
+Esup0226	South	1	GQ305627	Hap_166
+Esup0227	South	1	GQ305628	Hap_167
+Esup0228	South	1	GQ305628	Hap_167
+Esup0229	South	1	GQ305629	Hap_168
+Esup0230	South	1	GQ305630	Hap_169
+Esup0231	South	1	GQ305631	Hap_170
+Esup0232	South	1	GQ305632	Hap_171
+Esup0233	South	1	GQ305633	Hap_172
+Esup0234	South	1	GQ305634	Hap_173
+Esup0235	South	1	GQ305635	Hap_174
+Esup0236	South	1	GQ305636	Hap_175
+Esup0237	South	1	GQ305637	Hap_176
+Esup0238	South	1	GQ305638	Hap_177
+Esup0239	South	1	GQ305638	Hap_177
+Esup0240	South	1	GQ305638	Hap_177
+Esup0241	South	1	GQ305639	Hap_178
+Esup0242	South	1	GQ305640	Hap_179
+Esup0243	South	1	GQ305641	Hap_180
+Esup0244	South	1	GQ305642	Hap_181
+Esup0245	South	1	GQ305643	Hap_182
+Esup0246	South	1	GQ305644	Hap_183
+Esup0247	South	1	GQ305645	Hap_184
+Esup0248	South	1	GQ305646	Hap_185
+Esup0249	South	1	GQ305647	Hap_186
+Esup0250	South	1	GQ305648	Hap_187
+Esup0251	South	1	GQ305649	Hap_188
+Esup0252	South	1	GQ305650	Hap_189
+Esup0253	South	1	GQ305651	Hap_190
+Esup0254	South	1	GQ305652	Hap_191
+Esup0255	South	1	GQ305653	Hap_192
+Esup0256	South	1	GQ305654	Hap_193
+Esup0257	South	1	GQ305655	Hap_194
+Esup0258	South	1	GQ305656	Hap_195
+Esup0259	South	1	GQ305657	Hap_196
+Esup0260	South	1	GQ305658	Hap_197
+Esup0261	South	1	GQ305659	Hap_198
+Esup0262	South	1	GQ305660	Hap_199
+Esup0263	South	1	GQ305661	Hap_200
+Esup0264	South	1	GQ305662	Hap_201
+Esup0265	South	1	GQ305663	Hap_202
+Esup0266	South	1	GQ305664	Hap_203
+Esup0267	South	1	GQ305665	Hap_204
+Esup0268	South	1	GQ305666	Hap_205
+Esup0269	South	1	GQ305667	Hap_206
+Esup0270	South	1	GQ305668	Hap_207
+Esup0271	South	1	GQ305669	Hap_208
+Esup0272	South	1	GQ305670	Hap_209
+Esup0273	South	1	GQ305671	Hap_210
+Esup0274	South	1	GQ305672	Hap_211
+Esup0275	South	1	GQ305673	Hap_212
+Esup0276	South	1	GQ305674	Hap_213
+Esup0277	South	1	GQ305675	Hap_214
+Esup0278	South	1	GQ305676	Hap_215
+Esup0279	South	1	GQ305677	Hap_216
+Esup0280	South	1	GQ305678	Hap_217
+Esup0281	South	1	GQ305679	Hap_218
+Esup0282	South	1	GQ305680	Hap_219
+Esup0283	South	1	GQ305681	Hap_220
+Esup0284	South	1	GQ305682	Hap_221
+Esup0285	South	1	GQ305683	Hap_222
+Esup0286	South	1	GQ305684	Hap_223
+Esup0287	South	1	GQ305685	Hap_224
+Esup0288	South	1	GQ305686	Hap_225
+Esup0289	South	1	GQ305686	Hap_225
+Esup0290	South	1	GQ305687	Hap_226
+Esup0291	South	1	GQ305688	Hap_227
+Esup0292	South	1	GQ305689	Hap_228
+Esup0293	South	1	GQ305690	Hap_229
+Esup0294	South	1	GQ305691	Hap_230
+Esup0295	South	1	GQ305692	Hap_231
+Esup0296	South	1	GQ305693	Hap_232
+Esup0297	South	1	GQ305694	Hap_233
+Esup0298	South	1	GQ305695	Hap_234
+Esup0299	South	1	GQ305696	Hap_235
+Esup0300	South	1	GQ305697	Hap_236
+Esup0301	South	1	GQ305698	Hap_237
+Esup0302	South	1	GQ305699	Hap_238
+Esup0303	South	1	GQ305700	Hap_239
+Esup0304	South	1	GQ305701	Hap_240
+Esup0305	South	1	GQ305702	Hap_241
+Esup0306	South	1	GQ305703	Hap_242
+Esup0307	South	1	GQ305704	Hap_243
+Esup0308	South	1	GQ305705	Hap_244
+Esup0309	South	1	GQ305706	Hap_245
+Esup0310	South	1	GQ305707	Hap_246
+Esup0311	South	1	GQ305708	Hap_247
+Esup0312	South	1	GQ305709	Hap_248
+Esup0313	South	1	GQ305710	Hap_249
+Esup0314	South	1	GQ305711	Hap_250
+Esup0315	South	1	GQ305712	Hap_251
+Esup0316	South	1	GQ305713	Hap_252
+Esup0317	South	1	GQ305714	Hap_253
+Esup0318	South	1	GQ305715	Hap_254
+Esup0319	South	1	GQ305716	Hap_255
+Esup0320	South	1	GQ305717	Hap_256
+Esup0321	South	1	GQ305718	Hap_257
+Esup0322	South	1	GQ305719	Hap_258
+Esup0323	South	1	GQ305720	Hap_259
+Esup0324	South	1	GQ305721	Hap_260
+Esup0325	South	1	GQ305722	Hap_261
+Esup0326	South	1	GQ305723	Hap_262
+Esup0327	South	1	GQ305724	Hap_263
+Esup0328	South	1	GQ305725	Hap_264
+Esup0329	South	1	GQ305726	Hap_265
+Esup0330	South	1	GQ305727	Hap_266
+Esup0331	South	1	GQ305728	Hap_267
+Esup0332	South	1	GQ305729	Hap_268
+Esup0333	South	1	GQ305730	Hap_269
+Esup0334	South	1	GQ305731	Hap_270
+Esup0335	South	1	GQ305732	Hap_271
+Esup0336	South	1	GQ305733	Hap_272
+Esup0337	South	1	GQ305734	Hap_273
+Esup0338	South	1	GQ305735	Hap_274
+Esup0339	South	1	GQ305736	Hap_275
+Esup0340	South	1	GQ305737	Hap_276
+Esup0341	South	1	GQ305738	Hap_277
+Esup0342	South	1	GQ305739	Hap_278
+Esup0343	South	1	GQ305740	Hap_279
+Esup0344	South	1	GQ305741	Hap_280
+Esup0345	South	1	GQ305742	Hap_281
+Esup0346	South	1	GQ305743	Hap_282
+Esup0347	South	1	GQ305744	Hap_283
+Esup0348	South	1	GQ305745	Hap_284
+Esup0349	South	1	GQ305746	Hap_285
+Esup0350	South	1	GQ305747	Hap_286
+Esup0351	South	1	GQ305748	Hap_287
+Esup0352	South	1	GQ305749	Hap_288
+Esup0353	South	1	GQ305750	Hap_289
+Esup0354	South	1	GQ305751	Hap_290
+Esup0355	South	1	GQ305752	Hap_291
+Esup0356	South	1	GQ305753	Hap_292
+Esup0357	South	1	GQ305754	Hap_293
+Esup0358	South	1	GQ305755	Hap_294
+Esup0359	South	1	GQ305756	Hap_295
+Esup0360	South	1	GQ305757	Hap_296
+Esup0361	South	1	GQ305758	Hap_297
+Esup0362	South	1	GQ305759	Hap_298
+Esup0363	South	1	GQ305760	Hap_299
+Esup0364	South	1	GQ305761	Hap_300
+Esup0365	South	1	GQ305762	Hap_301
+Esup0366	South	1	GQ305763	Hap_302
+Esup0367	South	1	GQ305764	Hap_303
+Esup0368	South	1	GQ305765	Hap_304
+Esup0369	South	1	GQ305766	Hap_305
+Esup0370	South	1	GQ305767	Hap_306
+Esup0371	South	1	GQ305768	Hap_307
+Esup0372	South	1	GQ305769	Hap_308
+Esup0373	South	1	GQ305770	Hap_309
+Esup0374	South	1	GQ305771	Hap_310
+Esup0375	South	1	GQ305772	Hap_311
+Esup0376	South	1	GQ305773	Hap_312
+Esup0377	South	1	GQ305774	Hap_313
+Esup0378	South	1	GQ305775	Hap_314
+Esup0379	South	1	GQ305776	Hap_315
+Esup0380	South	1	GQ305777	Hap_316
+Esup0381	South	1	GQ305778	Hap_317
+Esup0382	South	1	GQ305779	Hap_318
+Esup0383	South	1	GQ305780	Hap_319
+Esup0384	South	1	GQ305781	Hap_320
+Esup0385	South	1	GQ305782	Hap_321
+Esup0386	South	1	GQ305783	Hap_322
+Esup0387	South	1	GQ305784	Hap_323
+Esup0388	South	1	GQ305785	Hap_324
+Esup0389	South	1	GQ305786	Hap_325
+Esup0390	South	1	GQ305787	Hap_326
+Esup0391	South	1	GQ305788	Hap_327
+Esup0392	South	1	GQ305789	Hap_328
+Esup0393	South	1	GQ305790	Hap_329
+Esup0394	South	1	GQ305791	Hap_330
+Esup0395	South	1	GQ305792	Hap_331
+Esup0396	South	1	GQ305793	Hap_332
+Esup0397	South	1	GQ305794	Hap_333
+Esup0398	South	1	GQ305795	Hap_334
+Esup0399	South	1	GQ305796	Hap_335
+Esup0400	South	1	GQ305797	Hap_336
+Esup0401	South	1	GQ305798	Hap_337
+Esup0402	South	1	GQ305799	Hap_338
+Esup0403	South	1	GQ305800	Hap_339
+Esup0404	South	1	GQ305801	Hap_340
+Esup0405	South	1	GQ305802	Hap_341
+Esup0406	South	1	GQ305803	Hap_342
+Esup0407	South	1	GQ305804	Hap_343
+Esup0408	South	1	GQ305805	Hap_344
+Esup0409	South	1	GQ305806	Hap_345
+Esup0410	South	1	GQ305807	Hap_346
+Esup0411	South	1	GQ305808	Hap_347
+Esup0412	South	1	GQ305809	Hap_348
+Esup0413	South	1	GQ305810	Hap_349
+Esup0414	South	1	GQ305811	Hap_350
+Esup0415	South	1	GQ305812	Hap_351
+Esup0416	South	1	GQ305813	Hap_352
+Esup0417	South	1	GQ305814	Hap_353
+Esup0418	South	1	GQ305815	Hap_354
+Esup0419	South	1	GQ305816	Hap_355
+Esup0420	South	1	GQ305817	Hap_356
+Esup0421	South	1	GQ305818	Hap_357
+Esup0422	South	1	GQ305819	Hap_358
+Esup0423	South	1	GQ305820	Hap_359
+Esup0424	South	1	GQ305821	Hap_360
+Esup0425	South	1	GQ305822	Hap_361
+Esup0426	South	1	GQ305823	Hap_362
+Esup0427	South	1	GQ305824	Hap_363
+Esup0428	South	1	GQ305825	Hap_364
+Esup0429	South	1	GQ305826	Hap_365
+Esup0430	South	1	GQ305827	Hap_366
+Esup0431	South	1	GQ305828	Hap_367
+Esup0432	South	1	GQ305829	Hap_368
+Esup0433	South	1	GQ305830	Hap_369
+Esup0434	South	1	GQ305831	Hap_370
+Esup0435	South	1	GQ305832	Hap_371
+Esup0436	South	1	GQ305833	Hap_372
+Esup0437	South	1	GQ305834	Hap_373
+Esup0438	South	1	GQ305835	Hap_374
+Esup0439	South	1	GQ305836	Hap_375
+Esup0440	South	1	GQ305837	Hap_376
+Esup0441	South	1	GQ305838	Hap_377
+Esup0442	South	1	GQ305839	Hap_378
+Esup0443	South	1	GQ305840	Hap_379
+Esup0444	South	1	GQ305841	Hap_380
+Esup0445	South	1	GQ305842	Hap_381
+Esup0446	South	1	GQ305843	Hap_382
+Esup0447	South	1	GQ305844	Hap_383
+Esup0448	South	1	GQ305845	Hap_384
+Esup0449	South	1	GQ305846	Hap_385
+Esup0450	South	1	GQ305847	Hap_386
+Esup0451	South	1	GQ305848	Hap_387
+Esup0452	South	1	GQ305849	Hap_388
+Esup0453	South	1	GQ305850	Hap_389
+Esup0454	South	1	GQ305851	Hap_390
+Esup0455	South	1	GQ305852	Hap_391
+Esup0456	South	1	GQ305853	Hap_392
+Esup0457	South	1	GQ305854	Hap_393
+Esup0458	South	1	GQ305855	Hap_394
+Esup0459	South	1	GQ305856	Hap_395
+Esup0460	South	1	GQ305857	Hap_396
+Esup0461	South	1	GQ305858	Hap_397
+Esup0462	South	1	GQ305859	Hap_398
+Esup0463	South	1	GQ305860	Hap_399
+Esup0464	South	1	GQ305861	Hap_400
+Esup0465	South	1	GQ305862	Hap_401
+Esup0466	South	1	GQ305863	Hap_402
+Esup0467	South	1	GQ305864	Hap_403
+Esup0468	South	1	GQ305865	Hap_404
+Esup0469	South	1	GQ305866	Hap_405
+Esup0470	South	1	GQ305867	Hap_406
+Esup0471	South	1	GQ305868	Hap_407
+Esup0472	South	1	GQ305869	Hap_408
+Esup0473	South	1	GQ305870	Hap_409
+Esup0474	South	1	GQ305871	Hap_410
+Esup0475	South	1	GQ305872	Hap_411
+Esup0476	South	1	GQ305873	Hap_412
+Esup0477	South	1	GQ305874	Hap_413
+Esup0478	South	1	GQ305875	Hap_414
+Esup0479	South	1	GQ305876	Hap_415
+Esup0480	South	1	GQ305877	Hap_416
+Esup0481	South	1	GQ305878	Hap_417
+Esup0482	South	1	GQ305879	Hap_418
+Esup0483	South	1	GQ305880	Hap_419
+Esup0484	South	1	GQ305881	Hap_420
+Esup0485	South	1	GQ305882	Hap_421
+Esup0486	South	1	GQ305883	Hap_422
+Esup0487	South	1	GQ305884	Hap_423
+Esup0488	South	1	GQ305885	Hap_424
+Esup0489	South	1	GQ305886	Hap_425
+Esup0490	South	1	GQ305887	Hap_426
+Esup0491	South	1	GQ305888	Hap_427
+Esup0492	South	1	GQ305889	Hap_428
+Esup0493	South	1	GQ305890	Hap_429
+Esup0494	South	1	GQ305891	Hap_430
+Esup0495	South	1	GQ305892	Hap_431
+Esup0496	South	1	GQ305893	Hap_432
+Esup0497	South	1	GQ305894	Hap_433
+Esup0498	South	1	GQ305895	Hap_434
+Esup0499	South	1	GQ305896	Hap_435
+Esup0500	South	1	GQ305897	Hap_436
+Esup0501	South	1	GQ305898	Hap_437
+Esup0502	South	1	GQ305899	Hap_438
+Esup0503	South	1	GQ305900	Hap_439
+Esup0504	South	1	GQ305901	Hap_440
+Esup0505	South	2		001_For_A01
+Esup0506	South	2		002_For_B01
+Esup0507	South	2		003_For_C01
+Esup0508	South	2		004_Rev_RC_D01
+Esup0509	South	2		005_For_E01
+Esup0510	South	2		006_For_F01
+Esup0511	South	2		007_For_G01
+Esup0512	South	2		008_For_G06
+Esup0514	South	2		010_For_B02
+Esup0515	South	2		011_For_C02
+Esup0516	South	2		012_For_D02
+Esup0517	South	2		013_For_E02
+Esup0518	South	2		014_For_F02
+Esup0519	South	2		015_For_G02
+Esup0520	South	2		016_For_H02
+Esup0521	South	2		017_For_A03
+Esup0522	South	2		018_For_B03
+Esup0523	South	2		019_For_C03
+Esup0524	South	2		020_For_D03
+Esup0525	South	2		021_For_E03
+Esup0526	South	2		022_For_F03
+Esup0527	South	2		023_For_G03
+Esup0528	South	2		024_For_H03
+Esup0529	South	2		025_For_A04
+Esup0530	South	2		026_For_B04
+Esup0531	South	2		027_For_C04
+Esup0532	South	2		028_For_D04
+Esup0533	South	2		029_For_E04
+Esup0534	South	2		030_For_F04
+Esup0535	South	2		031_For_G04
+Esup0536	South	2		032_For_H04
+Esup0537	South	2		033_For_A05
+Esup0538	South	2		034_For_B05
+Esup0539	South	2		035_For_C05
+Esup0540	South	2		036_For_D05
+Esup0541	South	2		037_For_E05
+Esup0542	South	2		038_For_F05
+Esup0543	South	2		039_For_G05
+Esup0544	South	2		040_For_H05
+Esup0545	South	2		041_For_A06
+Esup0546	South	2		042_For_B06
+Esup0547	South	2		043_Rev_RC_C06
+Esup0548	South	2		044_For_D06
+Esup0549	South	2		045_For_E06
+Esup0550	South	2		046_For_F06
+Esup0551	South	2		047_For_G06
+Esup0552	South	2		048_For_H06
+Esup0553	South	2		049_For_A07
+Esup0554	South	2		050_For_B07
+Esup0555	South	2		051_For_C07
+Esup0556	South	2		052_For_D07
+Esup0557	South	2		053_For_E07
+Esup0558	South	2		054_For_F07
+Esup0559	South	2		055_For_G07
+Esup0560	South	2		056_For_H07
+Esup0562	South	2		058_For_B08
+Esup0563	South	2		059_For_C08
+Esup0564	South	2		060_For_D08
+Esup0565	South	2		061_For_E08
+Esup0566	South	2		062_For_F08
+Esup0567	South	2		063_Rev_RC_G08
+Esup0568	South	2		064_For_H08
+Esup0569	South	2		065_For_A09
+Esup0570	South	2		066_For_B09
+Esup0571	South	2		067_For_C09
+Esup0572	South	2		068_For_D09
+Esup0573	South	2		069_For_E09
+Esup0574	South	2		070_For_F09
+Esup0575	South	2		071_For_G09
+Esup0576	South	2		072_For_H09
+Esup0577	South	2		073_For_A10
+Esup0578	South	2		074_For_B10
+Esup0579	South	2		075_For_C10
+Esup0580	South	2		076_For_D10
+Esup0581	South	2		077_For_E10
+Esup0582	South	2		078_For_F10
+Esup0583	South	2		079_For_G10
+Esup0584	South	2		080_For_H10
+Esup0585	South	2		081_For_A11
+Esup0586	South	2		082_For_B11
+Esup0587	South	2		083_For_C11
+Esup0588	South	2		084_For_D11
+Esup0589	South	2		085_For_E11
+Esup0590	South	2		086_For_F11
+Esup0591	South	2		087_For_G11
+Esup0592	South	2		088_For_H11
+Esup0593	South	2		089_For_A12
+Esup0594	South	2		090_For_B12
+Esup0595	South	2		091_For_C12
+Esup0596	South	2		092_For_D12
+Esup0597	South	2		093_For_E12
+Esup0598	South	2		094_For_F12
+Esup0599	South	2		095_For_G12
+Esup0600	South	2		096_For_H12
+Esup0601	South	2		097_For_A01
+Esup0602	South	2		098_For_B01
+Esup0603	South	2		099_For_C01
+Esup0604	South	2		100_For_D01
+Esup0607	South	2		103_For_G01
+Esup0608	South	2		104_For_H06
+Esup0610	South	2		106_For_B02
+Esup0611	South	2		107_For_C02
+Esup0612	South	2		108_For_D02
+Esup0613	South	2		109_For_E02
+Esup0614	South	2		110_For_F02
+Esup0615	South	2		111_For_G02
+Esup0617	South	2		113_For_A03
+Esup0618	South	2		114_Rev_RC_B09
+Esup0619	South	2		115_For_C03
+Esup0620	South	2		116_For_D03
+Esup0621	South	2		117_For_E03
+Esup0622	South	2		118_For_F03
+Esup0623	South	2		119_For_G03
+Esup0624	South	2		120_For_H03
+Esup0625	South	2		121_For_A04
+Esup0626	South	2		122_For_B04
+Esup0627	South	2		123_For_C04
+Esup0628	South	2		124_For_D04
+Esup0629	South	2		125_For_E04
+Esup0630	South	2		126_For_F04
+Esup0631	South	2		127_For_G04
+Esup0632	South	2		128_For_H04
+Esup0633	South	2		129_For_A05
+Esup0634	South	2		130_For_B05
+Esup0635	South	2		131_For_C05
+Esup0636	South	2		132_For_D05
+Esup0637	South	2		133_For_E05
+Esup0638	South	2		134_For_F05
+Esup0639	South	2		135_For_G05
+Esup0640	South	2		136NFor_H05
+Esup0641	South	2		137_For_A06
+Esup0642	South	2		138_For_B06
+Esup0643	South	2		139_For_C06
+Esup0644	South	2		140_For_D06
+Esup0645	South	2		141_For_E06
+Esup0646	South	2		142_For_F06
+				
+Data set no.	2			
+Locus	Mitochondrial NADH subunit I			
+DNA sequence lengh (in base pairs)	494			
+No. of DNA sequences	139			
+				
+Data source references:		Sample areas	Habitat	Links to source data files
+2	Deagle, B. E., Faux, C., Kawaguchi, S., Meyer, B., & Jarman, S. N. (2015). Antarctic krill population genomics: Apparent panmixia, but genome complexity and large population size muddy the water. Molecular Ecology, 24(19), 4943–4959. doi: 10.1111/mec.13370	Antarctica	NA	https://doi.org/10.5061/dryad.3023m
+				
+Migrate data file name	Esuperba_139mtND1_494bp_20160911_Migrate_1pop.txt			
+Results figure(s)	S3			
+				
+Individual sample identifiers and data source				
+Migrate_infile_sequence_identifier	Migrate_sample_partition	Data_source	GenBank_Accession_number	Source_DNA_sequence_identifier
+Esup0505	South	2	001_R_A01	
+Esup0506	South	2	002_R_B01	
+Esup0507	South	2	003_R_C01	
+Esup0508	South	2	004_R_D01	
+Esup0509	South	2	005_R_E01	
+Esup0510	South	2	006_R_F01	
+Esup0511	South	2	007_R_G01	
+Esup0512	South	2	008_R_G12	
+Esup0513	South	2	009_R_A02	
+Esup0514	South	2	010_R_B02	
+Esup0515	South	2	011_R_C02	
+Esup0516	South	2	012_R_D02	
+Esup0517	South	2	013_R_E02	
+Esup0518	South	2	014_R_F02	
+Esup0519	South	2	015_R_G02	
+Esup0520	South	2	016_R_H02	
+Esup0521	South	2	017_R_A03	
+Esup0522	South	2	018_R_B03	
+Esup0523	South	2	019_R_C03	
+Esup0524	South	2	020_R_D03	
+Esup0525	South	2	021_R_E03	
+Esup0526	South	2	022_R_F03	
+Esup0527	South	2	023_R_G03	
+Esup0528	South	2	024_R_H03	
+Esup0529	South	2	025_R_A04	
+Esup0530	South	2	026_R_B04	
+Esup0531	South	2	027_R_C04	
+Esup0532	South	2	028_R_D04	
+Esup0533	South	2	029_R_E04	
+Esup0534	South	2	030_R_F04	
+Esup0535	South	2	031_R_G04	
+Esup0536	South	2	032_R_H04	
+Esup0537	South	2	033_R_A05	
+Esup0538	South	2	034_R_B05	
+Esup0539	South	2	035_R_C05	
+Esup0540	South	2	036_R_D05	
+Esup0541	South	2	037_R_E05	
+Esup0542	South	2	038_R_F05	
+Esup0543	South	2	039_R_G05	
+Esup0544	South	2	040_R_H05	
+Esup0545	South	2	041_R_A06	
+Esup0546	South	2	042_R_B06	
+Esup0547	South	2	043_R_C06	
+Esup0548	South	2	044_R_D06	
+Esup0549	South	2	045_R_E06	
+Esup0550	South	2	046_R_F06	
+Esup0551	South	2	047_R_G06	
+Esup0552	South	2	048_R_H06	
+Esup0553	South	2	049_R_A07	
+Esup0554	South	2	050_R_B07	
+Esup0555	South	2	051_R_C07	
+Esup0556	South	2	052_R_D07	
+Esup0557	South	2	053_R_E07	
+Esup0558	South	2	054_R_F07	
+Esup0559	South	2	055_R_G07	
+Esup0560	South	2	056_R_H07	
+Esup0561	South	2	057_R_A08	
+Esup0562	South	2	058_R_B08	
+Esup0563	South	2	059_R_C08	
+Esup0564	South	2	060_R_D08	
+Esup0565	South	2	061_R_E08	
+Esup0566	South	2	062_R_F08	
+Esup0567	South	2	063_R_G08	
+Esup0568	South	2	064_R_H08	
+Esup0569	South	2	065_R_A09	
+Esup0570	South	2	066_R_B09	
+Esup0571	South	2	067_R_C09	
+Esup0572	South	2	068_R_D09	
+Esup0573	South	2	069_R_E09	
+Esup0574	South	2	070_R_F09	
+Esup0575	South	2	071_R_G09	
+Esup0576	South	2	072_R_H09	
+Esup0577	South	2	073_R_A10	
+Esup0578	South	2	074_R_B10	
+Esup0579	South	2	075_R_C10	
+Esup0580	South	2	076_R_D10	
+Esup0581	South	2	077_R_E10	
+Esup0582	South	2	078_F_F10	
+Esup0583	South	2	079_R_G10	
+Esup0584	South	2	080_R_H10	
+Esup0585	South	2	081_R_A11	
+Esup0586	South	2	082_R_B11	
+Esup0587	South	2	083_R_C11	
+Esup0588	South	2	084_R_D11	
+Esup0589	South	2	085_R_E11	
+Esup0590	South	2	086_R_F11	
+Esup0591	South	2	087_R_G11	
+Esup0592	South	2	088_R_H11	
+Esup0593	South	2	089_R_A12	
+Esup0594	South	2	090_R_B12	
+Esup0595	South	2	091_R_C12	
+Esup0596	South	2	092_R_D12	
+Esup0597	South	2	093_R_E12	
+Esup0598	South	2	094_R_F12	
+Esup0599	South	2	095_R_G12	
+Esup0600	South	2	096_R_H12	
+Esup0601	South	2	097_R_A07	
+Esup0602	South	2	098_R_B07	
+Esup0603	South	2	099_R_C07	
+Esup0604	South	2	100_R_D07	
+Esup0605	South	2	101_R_E07	
+Esup0607	South	2	103_R_G07	
+Esup0608	South	2	104_R_H07	
+Esup0609	South	2	105_R_A08	
+Esup0610	South	2	106_R_B08	
+Esup0612	South	2	108_R_D08	
+Esup0613	South	2	109_R_E08	
+Esup0614	South	2	110_R_F08	
+Esup0615	South	2	111_R_G08	
+Esup0617	South	2	113_R_A09	
+Esup0618	South	2	114_R_B09	
+Esup0619	South	2	115_R_C09	
+Esup0620	South	2	116_R_D09	
+Esup0621	South	2	117_R_E09	
+Esup0622	South	2	118_R_F09	
+Esup0623	South	2	119_R_G09	
+Esup0624	South	2	120_R_H09	
+Esup0625	South	2	121_R_A10	
+Esup0626	South	2	122_R_B10	
+Esup0627	South	2	123_R_C10	
+Esup0628	South	2	124_R_D10	
+Esup0629	South	2	125_R_E10	
+Esup0630	South	2	126_R_F10	
+Esup0631	South	2	127_R_G10	
+Esup0632	South	2	128_R_H10	
+Esup0633	South	2	129_R_A11	
+Esup0634	South	2	130_R_B11	
+Esup0635	South	2	131_R_C11	
+Esup0636	South	2	132_R_D11	
+Esup0637	South	2	133_R_E11	
+Esup0638	South	2	134_R_F11	
+Esup0639	South	2	135_R_G11	
+Esup0640	South	2	136_R_H11	
+Esup0641	South	2	137_R_A12	
+Esup0642	South	2	138_R_B12	
+Esup0643	South	2	139_R_C12	
+Esup0644	South	2	140_R_D12	
+Esup0645	South	2	141_R_E12	
+Esup0646	South	2	142_R_F12	
+				
+				
+				

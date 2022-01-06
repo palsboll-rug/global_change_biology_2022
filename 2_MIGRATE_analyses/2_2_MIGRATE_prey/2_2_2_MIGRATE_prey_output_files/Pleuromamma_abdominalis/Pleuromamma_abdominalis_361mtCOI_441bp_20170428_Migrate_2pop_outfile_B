@@ -1,0 +1,247 @@
+  ========================================================================
+   Dataset of Pleuromamma abdominalis from Clade 1 and 2 PLAB01 and PLAB02
+  ========================================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  ========================================================================
+  Version 3.6.6
+
+  Program started at Mon Jun 26 08:45:50 2017
+                                                   
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+Migration rate      (M)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.100000   0.200000   0.020000 
+Migration rate      (M)      Uniform  0.000000  250.000000 500.000000 50.000000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 2907
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)               148400
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.12000
+   M values were generated from guessed values
+   M-matrix: 83.00 [all are the same]
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Pleuromamma abdominalis_361mtCOI_441bp_2017042
+   Output file (ASCII text): Pleuromamma abdominalis_361mtCO
+   Output file (PDF):        Pleuromamma abdominalis_361mtCO
+   Posterior distribution: Pleuromamma abdominalis_361mtCOI_
+   All values of Post.Dist:Pleuromamma abdominalis_361mtCOI_
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file Pleuromamma abdominalis_
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Pleuromamma abd
+
+Summary of data:
+Title: Dataset of Pleuromamma abdominalis from Clade 1 and 2
+Data file:  Pleuromamma abdominalis_361mtCOI_441bp_20170428_
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 North_Atla Pabd0014 Pabd0026 Pabd0032 Pabd0043 Pabd0066 Pabd0074 Pabd0078 Pabd0081 
+                 Pabd0083 Pabd0084 Pabd0085 Pabd0088 Pabd0089 Pabd0090 Pabd0093 Pabd0094 
+                 Pabd0096 Pabd0099 Pabd0100 Pabd0101 Pabd0103 Pabd0104 Pabd0105 Pabd0106 
+                 Pabd0107 Pabd0109 Pabd0112 Pabd0116 Pabd0119 Pabd0124 Pabd0129 Pabd0130 
+                 Pabd0001 Pabd0002 Pabd0003 Pabd0004 Pabd0005 Pabd0006 Pabd0007 Pabd0008 
+                 Pabd0009 Pabd0010 Pabd0011 Pabd0012 Pabd0013 Pabd0015 Pabd0016 Pabd0017 
+                 Pabd0018 Pabd0019 Pabd0020 Pabd0021 Pabd0022 Pabd0023 Pabd0024 Pabd0025 
+                 Pabd0027 Pabd0028 Pabd0029 Pabd0030 Pabd0031 Pabd0033 Pabd0034 Pabd0035 
+                 Pabd0036 Pabd0037 Pabd0038 Pabd0039 Pabd0040 Pabd0041 Pabd0042 Pabd0044 
+                 Pabd0045 Pabd0046 Pabd0047 Pabd0048 Pabd0049 Pabd0050 Pabd0051 Pabd0052 
+                 Pabd0053 Pabd0054 Pabd0055 Pabd0056 Pabd0057 Pabd0058 Pabd0059 Pabd0060 
+                 Pabd0061 Pabd0062 Pabd0063 Pabd0064 Pabd0065 Pabd0067 Pabd0068 Pabd0069 
+                 Pabd0070 Pabd0071 Pabd0072 Pabd0073 Pabd0075 Pabd0076 Pabd0077 Pabd0079 
+                 Pabd0080 Pabd0082 Pabd0086 Pabd0087 Pabd0091 Pabd0092 Pabd0095 Pabd0097 
+                 Pabd0098 Pabd0102 Pabd0108 Pabd0110 Pabd0111 Pabd0113 Pabd0114 Pabd0115 
+                 Pabd0117 Pabd0118 Pabd0120 Pabd0121 Pabd0122 Pabd0123 Pabd0125 Pabd0126 
+                 Pabd0127 Pabd0128 
+      South_Atla Pabd0271 Pabd0272 Pabd0274 Pabd0280 Pabd0281 Pabd0282 Pabd0284 Pabd0286 
+                 Pabd0287 Pabd0131 Pabd0132 Pabd0134 Pabd0135 Pabd0136 Pabd0137 Pabd0138 
+                 Pabd0139 Pabd0141 Pabd0142 Pabd0144 Pabd0148 Pabd0149 Pabd0150 Pabd0151 
+                 Pabd0152 Pabd0155 Pabd0156 Pabd0157 Pabd0170 Pabd0173 Pabd0179 Pabd0181 
+                 Pabd0183 Pabd0184 Pabd0206 Pabd0296 Pabd0298 Pabd0299 Pabd0300 Pabd0301 
+                 Pabd0302 Pabd0303 Pabd0304 Pabd0305 Pabd0307 Pabd0308 Pabd0309 Pabd0310 
+                 Pabd0311 Pabd0312 Pabd0313 Pabd0314 Pabd0315 Pabd0316 Pabd0317 Pabd0318 
+                 Pabd0319 Pabd0320 Pabd0321 Pabd0322 Pabd0324 Pabd0325 Pabd0326 Pabd0327 
+                 Pabd0328 Pabd0333 Pabd0335 Pabd0336 Pabd0337 Pabd0338 Pabd0256 Pabd0257 
+                 Pabd0258 Pabd0259 Pabd0260 Pabd0261 Pabd0262 Pabd0263 Pabd0264 Pabd0265 
+                 Pabd0266 Pabd0267 Pabd0268 Pabd0269 Pabd0270 Pabd0273 Pabd0275 Pabd0276 
+                 Pabd0277 Pabd0278 Pabd0279 Pabd0283 Pabd0285 Pabd0288 Pabd0289 Pabd0133 
+                 Pabd0140 Pabd0143 Pabd0145 Pabd0146 Pabd0147 Pabd0153 Pabd0154 Pabd0158 
+                 Pabd0159 Pabd0160 Pabd0161 Pabd0162 Pabd0163 Pabd0164 Pabd0165 Pabd0166 
+                 Pabd0167 Pabd0168 Pabd0169 Pabd0171 Pabd0172 Pabd0174 Pabd0175 Pabd0176 
+                 Pabd0177 Pabd0178 Pabd0180 Pabd0182 Pabd0185 Pabd0186 Pabd0187 Pabd0188 
+                 Pabd0189 Pabd0190 Pabd0191 Pabd0192 Pabd0193 Pabd0194 Pabd0195 Pabd0196 
+                 Pabd0197 Pabd0198 Pabd0199 Pabd0200 Pabd0201 Pabd0202 Pabd0203 Pabd0204 
+                 Pabd0205 Pabd0207 Pabd0208 Pabd0209 Pabd0210 Pabd0211 Pabd0212 Pabd0213 
+                 Pabd0214 Pabd0215 Pabd0216 Pabd0217 Pabd0218 Pabd0219 Pabd0220 Pabd0221 
+                 Pabd0222 Pabd0223 Pabd0224 Pabd0225 Pabd0226 Pabd0227 Pabd0228 Pabd0229 
+                 Pabd0230 Pabd0231 Pabd0232 Pabd0233 Pabd0234 Pabd0235 Pabd0236 Pabd0237 
+                 Pabd0238 Pabd0239 Pabd0240 Pabd0241 Pabd0242 Pabd0243 Pabd0244 Pabd0245 
+                 Pabd0246 Pabd0247 Pabd0248 Pabd0249 Pabd0250 Pabd0251 Pabd0252 Pabd0253 
+                 Pabd0254 Pabd0255 Pabd0290 Pabd0291 Pabd0292 Pabd0293 Pabd0294 Pabd0295 
+                 Pabd0297 Pabd0306 Pabd0323 Pabd0329 Pabd0330 Pabd0331 Pabd0332 Pabd0334 
+                 Pabd0339 Pabd0340 Pabd0341 Pabd0342 Pabd0343 Pabd0344 Pabd0345 Pabd0346 
+                 Pabd0347 Pabd0348 Pabd0349 Pabd0350 Pabd0351 Pabd0352 Pabd0353 Pabd0354 
+                 Pabd0355 Pabd0356 Pabd0357 Pabd0358 Pabd0359 Pabd0360 Pabd0361 
+Population                               Locus   Gene copies    
+----------------------------------------------------------------
+  1 North_Atlantic                           1       130
+  2 South_Atlantic_and_West_Indian_Ocean     1       231
+    Total of all populations                 1       361
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.2375  0.1928  0.2396  0.3301       6.75900
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.08560  0.10520  0.11820  0.12827  0.15173  0.11807  0.11864
+    1  Theta_2         0.08960  0.10347  0.11513  0.12253  0.14507  0.11540  0.11639
+    1  M_2->1            49.00    77.00    94.83   129.00   205.67   113.17   117.92
+    1  M_1->2            23.67    63.67    82.17   105.00   156.00    88.17    91.33
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0005000000  0.1578284949     0.0000174653
+0.0010000000  0.1888722926     0.0000403882
+0.0015000001  0.1908921152     0.0000733357
+0.0020000001  0.1762055755     0.0001159330
+0.0025000001  0.1580601335     0.0001692319
+0.0030000001  0.1383032501     0.0002331848
+0.0035000002  0.1243510693     0.0003084571
+0.0040000002  0.1106562093     0.0003880842
+0.0045000002  0.0974749848     0.0004830734
+0.0050000002  0.0900196508     0.0005832920
+0.0055000003  0.0815021247     0.0006837356
+0.0060000003  0.0715976581     0.0007731713
+0.0065000003  0.0701729432     0.0009018533
+0.0070000003  0.0689605027     0.0010007566
+0.0075000004  0.0722018182     0.0011183718
+0.0080000004  0.0732272342     0.0012176435
+0.0085000004  0.0756247193     0.0013023543
+0.0090000004  0.0807447210     0.0014714395
+0.0095000005  0.0823694915     0.0015316878
+0.0100000005  0.0817774311     0.0016160125
+0.0105000005  0.0885931477     0.0017066968
+0.0110000005  0.0928874835     0.0017915068
+0.0115000005  0.0911854059     0.0017703777
+0.0120000006  0.0899733603     0.0018558031
+0.0125000006  0.1039320454     0.0018419879
+0.0130000006  0.0982352421     0.0018386629
+0.0135000006  0.0965118930     0.0019775867
+0.0140000007  0.1033766568     0.0019272083
+0.0145000007  0.0982866362     0.0020047626
+0.0150000007  0.0797133967     0.0018277474
+0.0155000007  0.0836276859     0.0019869760
+0.0160000008  0.0831832141     0.0020008397
+0.0165000008  0.0926097110     0.0020581582
+0.0170000008  0.0774255618     0.0019502804
+0.0175000008  0.0756779686     0.0019652399
+0.0180000009  0.0912433341     0.0020561588
+0.0185000009  0.1077553332     0.0021072470
+0.0190000009  0.0950824618     0.0021342759
+0.0195000009  0.0860902295     0.0021250839
+0.0200000009  0.1113465726     0.0022569080
+0.0205000010  0.1037051380     0.0022335541
+0.0210000010  0.1032176316     0.0022358201
+0.0215000010  0.0961325541     0.0022414292
+0.0220000010  0.0983353481     0.0022257240
+0.0225000011  0.1091755107     0.0021912819
+0.0230000011  0.1114428714     0.0022179005
+0.0235000011  0.0943204761     0.0023370029
+0.0240000011  0.0996448472     0.0021052952
+0.0245000012  0.0853256211     0.0023025407
+0.0250000012  0.0758929029     0.0021293473
+0.0255000012  0.0856736004     0.0021766643
+0.0260000012  0.0906658918     0.0022204155
+0.0265000013  0.0922909528     0.0022193233
+0.0270000013  0.0945592597     0.0022824022
+0.0275000013  0.1051258892     0.0022567518
+0.0280000013  0.0770035535     0.0021932954
+0.0285000014  0.0857098475     0.0022380466
+0.0290000014  0.1042350680     0.0022030384
+0.0295000014  0.0998685211     0.0022724424
+0.0300000014  0.0905926600     0.0021076703
+0.0305000014  0.1240144968     0.0021832581
+0.0310000015  0.0909444317     0.0021844660
+0.0315000015  0.0905869752     0.0022211708
+0.0320000015  0.1161182299     0.0021420366
+0.0325000015  0.1297068298     0.0018307237
+0.0330000016  0.2206573188     0.0021997062
+0.0335000016  0.1402564347     0.0016872841
+0.0340000016  0.0807630643     0.0020535043
+0.0345000016  0.0651635006     0.0020996523
+0.0350000017  0.0844433680     0.00

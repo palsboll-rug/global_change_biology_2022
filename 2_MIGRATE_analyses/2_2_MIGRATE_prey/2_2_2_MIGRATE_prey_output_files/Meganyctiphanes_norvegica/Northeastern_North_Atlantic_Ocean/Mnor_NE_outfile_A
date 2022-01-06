@@ -1,0 +1,325 @@
+  =========================================================================================================
+   Dataset of Meganyctiphanes norvegica ND1 for North Atlantic. One population North Eastern North Atlantic
+  =========================================================================================================
+  MIGRATION RATE AND POPULATION SIZE ESTIMATION
+  using Markov Chain Monte Carlo simulation
+  =========================================================================================================
+  Version 3.6.6
+
+  Program started at Tue Jun 13 21:18:14 2017
+         finished at Wed Jun 14 01:40:33 2017
+     
+
+
+Options in use:
+---------------
+
+Analysis strategy is BAYESIAN INFERENCE
+
+Proposal distribution:
+Parameter group          Proposal type
+-----------------------  -------------------
+Population size (Theta)       Slice sampling
+
+
+Prior distribution (Proposal-delta will be tuned to acceptance frequence 0.440000):
+Parameter group          Prior type   Minimum    Mean(*)    Maximum    Delta
+-----------------------  ------------ ---------- ---------- ---------- ----------
+Population size (Theta)      Uniform  0.000000   0.050000   0.100000   0.010000 
+
+
+
+Datatype: DNA sequence data
+
+Inheritance scalers in use for Thetas (specified scalars=1)
+1.00 
+[Each Theta uses the (true) ineritance scalar of the first locus as a reference]
+
+
+Data set was subsampled: used a random sample of size: 250
+with private random number seed 763413
+
+
+Pseudo-random number generator: Mersenne-Twister                                
+Random number seed (from parmfile)            293654652
+
+Start parameters:
+   First genealogy was started using a random tree
+   Theta values were generated  from guessed values
+   Theta = 0.02000
+   M values were generated from the FST-calculation
+
+Migration model:
+   Migration matrix model with variable Theta  
+
+Mutation rate is constant 
+
+Markov chain settings:
+   Long chains (long-chains):                              1
+      Steps sampled (inc*samples*rep):             800000000
+      Steps recorded (sample*rep):                   4000000
+   Combining over replicates:                            100
+   Static heating scheme
+      4 chains with  temperatures
+       1.00, 1.50, 3.00,1000000.00
+      Swapping interval is 1
+   Forcing at least this percentage of new genealogies:  0.10
+   Burn-in per replicate (samples*inc):              8000000
+
+Print options:
+   Data file: Meganyctiphanes_norvegica_654mtND1_155bp_20161
+   Output file (ASCII text):               Mnor_NE_outfile_A
+   Output file (PDF):                          Mnor_NE_A.pdf
+   Posterior distribution:               Mnor_NE_bayesfile_A
+   All values of Post.Dist:           Mnor_NE_bayesallfile_A
+   Print data:                                            No
+   Print genealogies:                                     No
+   Plot data: No                                            
+   Frequency histogram of events             Yes: All events
+   Time of events are saved in file    Mnor_NE_mighistfile_A
+   Histogram of the parameter values through time        Yes
+   Parameters through time are saved in file Mnor_NE_skyline
+
+Summary of data:
+Title: Meganyctiphanes norvegica, where Population Northeast
+Data file:  Meganyctiphanes_norvegica_654mtND1_155bp_2016101
+Datatype:                                      Sequence data
+Number of loci:                                            1
+
+
+Data set was subsampled and used a random sample of size: 250
+
+Locus Population Individuals
+----- ---------- ---------------------------------------------------------------------
+    1 Northeaste Mnor0784 Mnor0325 Mnor0174 Mnor0476 Mnor0497 Mnor0343 Mnor0765 Mnor0573 
+                 Mnor0412 Mnor0482 Mnor0657 Mnor0631 Mnor0370 Mnor0739 Mnor0469 Mnor0155 
+                 Mnor0762 Mnor0508 Mnor0241 Mnor0440 Mnor0382 Mnor0509 Mnor0165 Mnor0643 
+                 Mnor0800 Mnor0691 Mnor0381 Mnor0272 Mnor0429 Mnor0328 Mnor0494 Mnor0581 
+                 Mnor0199 Mnor0560 Mnor0396 Mnor0367 Mnor0617 Mnor0515 Mnor0331 Mnor0156 
+                 Mnor0232 Mnor0284 Mnor0392 Mnor0532 Mnor0734 Mnor0773 Mnor0708 Mnor0376 
+                 Mnor0339 Mnor0672 Mnor0614 Mnor0408 Mnor0321 Mnor0638 Mnor0561 Mnor0204 
+                 Mnor0245 Mnor0683 Mnor0404 Mnor0238 Mnor0593 Mnor0779 Mnor0686 Mnor0719 
+                 Mnor0190 Mnor0733 Mnor0566 Mnor0700 Mnor0635 Mnor0248 Mnor0181 Mnor0468 
+                 Mnor0319 Mnor0658 Mnor0572 Mnor0679 Mnor0724 Mnor0688 Mnor0629 Mnor0498 
+                 Mnor0650 Mnor0282 Mnor0634 Mnor0409 Mnor0288 Mnor0627 Mnor0571 Mnor0432 
+                 Mnor0234 Mnor0420 Mnor0480 Mnor0458 Mnor0591 Mnor0154 Mnor0665 Mnor0200 
+                 Mnor0170 Mnor0791 Mnor0490 Mnor0186 Mnor0514 Mnor0237 Mnor0481 Mnor0622 
+                 Mnor0383 Mnor0400 Mnor0801 Mnor0185 Mnor0493 Mnor0198 Mnor0216 Mnor0582 
+                 Mnor0388 Mnor0184 Mnor0236 Mnor0299 Mnor0375 Mnor0353 Mnor0262 Mnor0728 
+                 Mnor0251 Mnor0587 Mnor0196 Mnor0286 Mnor0461 Mnor0630 Mnor0761 Mnor0257 
+                 Mnor0615 Mnor0219 Mnor0357 Mnor0502 Mnor0594 Mnor0323 Mnor0329 Mnor0715 
+                 Mnor0637 Mnor0720 Mnor0578 Mnor0522 Mnor0579 Mnor0752 Mnor0692 Mnor0226 
+                 Mnor0485 Mnor0598 Mnor0646 Mnor0484 Mnor0352 Mnor0214 Mnor0641 Mnor0182 
+                 Mnor0495 Mnor0799 Mnor0610 Mnor0633 Mnor0544 Mnor0403 Mnor0645 Mnor0364 
+                 Mnor0283 Mnor0169 Mnor0774 Mnor0745 Mnor0554 Mnor0356 Mnor0276 Mnor0628 
+                 Mnor0451 Mnor0395 Mnor0730 Mnor0292 Mnor0224 Mnor0305 Mnor0207 Mnor0354 
+                 Mnor0393 Mnor0551 Mnor0798 Mnor0661 Mnor0389 Mnor0605 Mnor0316 Mnor0564 
+                 Mnor0786 Mnor0308 Mnor0401 Mnor0334 Mnor0373 Mnor0787 Mnor0152 Mnor0506 
+                 Mnor0280 Mnor0264 Mnor0259 Mnor0233 Mnor0151 Mnor0320 Mnor0652 Mnor0681 
+                 Mnor0699 Mnor0487 Mnor0770 Mnor0543 Mnor0677 Mnor0162 Mnor0589 Mnor0311 
+                 Mnor0525 Mnor0326 Mnor0464 Mnor0306 Mnor0358 Mnor0322 Mnor0350 Mnor0741 
+                 Mnor0520 Mnor0275 Mnor0701 Mnor0193 Mnor0553 Mnor0371 Mnor0613 Mnor0660 
+                 Mnor0336 Mnor0258 Mnor0489 Mnor0462 Mnor0647 Mnor0180 Mnor0314 Mnor0421 
+                 Mnor0694 Mnor0298 Mnor0747 Mnor0693 Mnor0659 Mnor0625 Mnor0424 Mnor0623 
+                 Mnor0750 Mnor0690 Mnor0296 Mnor0655 Mnor0536 Mnor0410 Mnor0565 Mnor0416 
+                 Mnor0255 Mnor0703 
+Population                   Locus   Gene copies    
+----------------------------------------------------
+  1 Northeastern_North           1       654
+    Total of all populations     1       654
+
+
+Empirical Base Frequencies
+------------------------------------------------------------
+Locus     Nucleotide                        Transition/
+          ------------------------------  Transversion ratio
+          A       C       G       T(U)
+------------------------------------------------------------
+   1      0.2516  0.1188  0.1552  0.4743       7.69530
+
+
+
+Bayesian estimates
+==================
+
+Locus Parameter        2.5%      25.0%    mode     75.0%   97.5%     median   mean
+-----------------------------------------------------------------------------------
+    1  Theta_1         0.01793  0.02533  0.03017  0.03553  0.04800  0.03163  0.03231
+-----------------------------------------------------------------------------------
+
+
+Parameter changes over time
+---------------------------
+SEE IN PDF FILE AND SKYLINE FILE
+
+Locus: 1   Parameter: Theta_1
+Time        Parameter       Frequency of visit
+----------------------------------------------
+0.0005000000  0.0610034131     0.0000960875
+0.0010000000  0.0573481582     0.0005266158
+0.0015000001  0.0537660792     0.0012235916
+0.0020000001  0.0506111123     0.0020905954
+0.0025000001  0.0479024798     0.0030287877
+0.0030000001  0.0454397574     0.0039871694
+0.0035000002  0.0430478230     0.0048902165
+0.0040000002  0.0406760164     0.0057026744
+0.0045000002  0.0382941887     0.0064014522
+0.0050000002  0.0360195115     0.0069969199
+0.0055000003  0.0338600762     0.0074889828
+0.0060000003  0.0318877175     0.0079433704
+0.0065000003  0.0301071238     0.0083163548
+0.0070000003  0.0284989681     0.0086329663
+0.0075000004  0.0270362236     0.0089057935
+0.0080000004  0.0257470217     0.0091331033
+0.0085000004  0.0246001929     0.0093450639
+0.0090000004  0.0236271378     0.0095148236
+0.0095000005  0.0227772277     0.0096657183
+0.0100000005  0.0220708959     0.0097853839
+0.0105000005  0.0215030685     0.0099078491
+0.0110000005  0.0210381020     0.0099958600
+0.0115000005  0.0207057185     0.0100818258
+0.0120000006  0.0204562247     0.0101552038
+0.0125000006  0.0202930067     0.0102253966
+0.0130000006  0.0202194974     0.0102978442
+0.0135000006  0.0201978888     0.0103352312
+0.0140000007  0.0202176273     0.0103726340
+0.0145000007  0.0202911738     0.0104176458
+0.0150000007  0.0204344504     0.0104502384
+0.0155000007  0.0206310954     0.0104827955
+0.0160000008  0.0208293963     0.0105252722
+0.0165000008  0.0211145319     0.0105311340
+0.0170000008  0.0214403868     0.0105533022
+0.0175000008  0.0218090322     0.0105801951
+0.0180000009  0.0221936870     0.0105996570
+0.0185000009  0.0226137042     0.0106019592
+0.0190000009  0.0230489131     0.0106345639
+0.0195000009  0.0235203765     0.0106331799
+0.0200000009  0.0240385663     0.0106424736
+0.0205000010  0.0245531760     0.0106457733
+0.0210000010  0.0251031891     0.0106659764
+0.0215000010  0.0256525483     0.0106742829
+0.0220000010  0.0262464639     0.0106718251
+0.0225000011  0.0268999469     0.0106783779
+0.0230000011  0.0275793523     0.0106769949
+0.0235000011  0.0282173790     0.0106739365
+0.0240000011  0.0288922302     0.0106975641
+0.0245000012  0.0296241250     0.0106983446
+0.0250000012  0.0304262005     0.0107018780
+0.0255000012  0.0311658923     0.0107037667
+0.0260000012  0.0319348238     0.0106972046
+0.0265000013  0.0326351933     0.0106820902
+0.0270000013  0.0334360227     0.0106674433
+0.0275000013  0.0342475921     0.0107202409
+0.0280000013  0.0349642038     0.0107434420
+0.0285000014  0.0358095504     0.0106942346
+0.0290000014  0.0365934484     0.0106776413
+0.0295000014  0.0374201052     0.0107097877
+0.0300000014  0.0383199118     0.0107455850
+0.0305000014  0.0392118916     0.0107293809
+0.0310000015  0.0400656983     0.0107071465
+0.0315000015  0.0409218632     0.0107276253
+0.0320000015  0.0418833680     0.0106909862
+0.0325000015  0.0428198501     0.0106886551
+0.0330000016  0.0437219478     0.0107149826
+0.0335000016  0.0445814207     0.0107627800
+0.0340000016  0.0452867262     0.0107145058
+0.0345000016  0.0461061522     0.0107311578
+0.0350000017  0.0469943173     0.0107835075
+0.0355000017  0.0478149541     0.0106797516
+0.0360000017  0.0485985689     0.0107864318
+0.0365000017  0.0494930297     0.0106969113
+0.0370000018  0.0503556207     0.0106871743
+0.0375000018  0.0512915924     0.0107426876
+0.0380000018  0.0524595529     0.0106312558
+0.0385000018  0.0535085090     0.0106375357
+0.0390000019  0.0545837283     0.0108373920
+0.0395000019  0.0555676557     0.0107854325
+0.0400000019  0.0563136227     0.0105352262
+0.0405000019  0.0571393296     0.0107345674
+0.0410000019  0.0586123057     0.0107811531
+0.0415000020  0.0593816452     0.0107436422
+0.0420000020  0.0600146279     0.0106741078
+0.0425000020  0.0610444583     0.0105311628
+0.0430000020  0.0621889010     0.0108459182
+0.0435000021  0.0631823763     0.0108817900
+0.0440000021  0.0639618412     0.0106170755
+0.0445000021  0.0641684383     0.0102228299
+0.0450000021  0.0633516610     0.0100166062
+0.0455000022  0.0612542108     0.0100666061
+0.0460000022  0.0609476455     0.0095753269
+0.0465000022  0.0581884421     0.0092951879
+0.0470000022  0.0563982725     0.0083567128
+0.0475000023  0.0536301807     0.0080802031
+0.0480000023  0.0489826351     0.0075308820
+0.0485000023  0.0468693189     0.0072691082
+0.0490000023  0.0463935621     0.0070826444
+0.0495000024  0.0442899615     0.0066493354
+
+
+Events over time
+--------------------
+
+
+
+Approximate Summary of coalescence and migration events
+========================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.00064    0.00000    0.00148    1.00000
+---------------------------------------------------------
+
+
+
+Time and probability of most recent common ancestor
+===================================================
+
+Locus 1
+---------------------------------------------------------
+Population   Time                             Frequency
+             -----------------------------
+From    To   Average    Median     Std
+---------------------------------------------------------
+   1    1    0.01460    0.01375    0.00507    1.00000
+---------------------------------------------------------
+
+
+
+
+Log-Probability of the data given the model (marginal likelihood = log(P(D|thisModel))
+--------------------------------------------------------------------
+[Use this value for Bayes factor calculations:
+BF = Exp[log(P(D|thisModel) - log(P(D|otherModel)]
+shows the support for thisModel]
+
+
+
+(1a) Thermodynamic integration: log(Prob(D|Model))=-675.378806 (-564.214179 with Bezier-approximation[1b]) 
+(2) Harmonic mean:             log(Prob(D|Model))=-419.637475
+(1) and (2) should give a similar result, in principle.
+But (2) is overestimating the likelihood, it and is presented for historical reasons and should not be used. But (1) needs heating with chains that span a temperature range of 1.0 to at least 100,000.
+
+MCMC run characteristics
+========================
+
+
+
+
+Acceptance ratios for all parameters and the genealogies
+---------------------------------------------------------------------
+
+Parameter           Accepted changes               Ratio
+Theta_1               160000195/160000195          1.00000
+Genealogies           247062100/639999805          0.38603
+Autocorrelation and Effective sample size
+-------------------------------------------------------------------
+
+[  0]   Parameter         Autocorrelation      Effective Sample size
+  ---------         ---------------      ---------------------
+  Theta_1                0.88652            363070.04
+  Ln[Prob(D|P)]          0.91119            280921.59
+

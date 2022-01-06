@@ -1,0 +1,358 @@
+Species	Balaenoptera physalus			
+Number of data sets	1			
+				
+Data set no.	1			
+Locus	Mitochondrial control region			
+DNA sequence lengh (in base pairs)	391			
+No. of DNA sequences	341			
+				
+Data source references:		Sample areas	Habitat	Links to source data files
+1	Archer, F. I., Morin, P. A., Hancock-Hanser, B. L., Robertson, K. M., Leslie, M. S., Bérubé, M., . . . Taylor, B. L. (2013). Mitogenomic Phylogenetics of Fin Whales: Genetic Evidence for Revision of Subspecies. PLoS One, 8(5), e63396. doi: 10.1371/journal.pone.0063396	Eastern US seaborder, Antarctica	Summer feeding area	https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.084g8
+2	This study	Eastern US and Canadian seaborder	Summer feeding area	
+				
+Migrate data file name	Bphysalus_341mtDNA_391bp_20170827_Migrate_2pop.txt			
+Results figure(s)	3, 4, 5, 6, 7, S1,  S3, S5 & S6			
+				
+Individual sample identifiers and data source				
+Migrate_infile_sequence_identifier	Migrate_sample_partition	Data_source	GenBank_Accession_number	Source_DNA_sequence_identifier
+Bphy0001	North	1	KC572708	
+Bphy0002	North	1	KC572709	
+Bphy0007	North	1	KC572714	
+Bphy0084	South	1	KC572791	
+Bphy0085	South	1	KC572792	
+Bphy0086	South	1	KC572793	
+Bphy0087	South	1	KC572794	
+Bphy0088	South	1	KC572795	
+Bphy0089	South	1	KC572796	
+Bphy0090	South	1	KC572797	
+Bphy0091	South	1	KC572798	
+Bphy0092	South	1	KC572799	
+Bphy0093	South	1	KC572800	
+Bphy0094	South	1	KC572801	
+Bphy0095	South	1	KC572802	
+Bphy0096	South	1	KC572803	
+Bphy0097	South	1	KC572804	
+Bphy0098	South	1	KC572805	
+Bphy0099	South	1	KC572806	
+Bphy0118	North	1	KC572825	
+Bphy0119	North	1	KC572826	
+Bphy0120	North	1	KC572827	
+Bphy0121	North	1	KC572828	
+Bphy0122	North	1	KC572829	
+Bphy0123	South	1	KC572830	
+Bphy0124	South	1	KC572831	
+Bphy0125	South	1	KC572832	
+Bphy0126	South	1	KC572833	
+Bphy0127	South	1	KC572834	
+Bphy0128	South	1	KC572835	
+Bphy0129	South	1	KC572836	
+Bphy0130	South	1	KC572837	
+Bphy0131	South	1	KC572838	
+Bphy0132	South	1	KC572839	
+Bphy0133	South	1	KC572840	
+Bphy0134	South	1	KC572841	
+Bphy0135	South	1	KC572842	
+Bphy0136	South	1	KC572843	
+Bphy0137	South	1	KC572844	
+Bphy0138	South	1	KC572845	
+Bphy0139	South	1	KC572846	
+Bphy0140	South	1	KC572847	
+Bphy0141	South	1	KC572848	
+Bphy0142	South	1	KC572849	
+Bphy0143	South	1	KC572850	
+Bphy0144	South	1	KC572851	
+Bphy0145	South	1	KC572852	
+Bphy0146	South	1	KC572853	
+Bphy0147	South	1	KC572854	
+Bphy0168	North	1	KC582037	
+Bphy0169	North	1	KC582038	
+Bphy0170	North	1	KC582039	
+Bphy0171	North	1	KC582040	
+Bphy0282	North	1	KC582151	
+Bphy0347	North	1	KC582216	
+Bphy0348	North	1	KC582217	
+Bphy0349	North	1	KC582218	
+Bphy0350	North	1	KC582219	
+Bphy0351	North	1	KC582220	
+Bphy0352	North	1	KC582221	
+Bphy0353	North	1	KC582222	
+Bphy0354	North	1	KC582223	
+Bphy0355	North	1	KC582224	
+Bphy0356	North	1	KC582225	
+Bphy0357	North	1	KC582226	
+Bphy0358	North	1	KC582227	
+Bphy0359	North	1	KC582228	
+Bphy0360	North	1	KC582229	
+Bphy0361	North	1	KC582230	
+Bphy0366	South	1	KC582235	
+Bphy0367	South	1	KC582236	
+Bphy0368	South	1	KC582237	
+Bphy0369	South	1	KC582238	
+Bphy0370	South	1	KC582239	
+Bphy0428	South	2		
+Bphy0429	South	2		
+Bphy0430	South	2		
+Bphy0431	South	2		
+Bphy0432	South	2		
+Bphy0433	South	2		
+Bphy0434	South	2		
+Bphy0435	South	2		
+Bphy0436	South	2		
+Bphy0437	South	2		
+Bphy0438	South	2		
+Bphy0439	South	2		
+Bphy0440	South	2		
+Bphy0441	South	2		
+Bphy0442	South	2		
+Bphy0443	North	2		
+Bphy0444	North	2		
+Bphy0445	North	2		
+Bphy0446	North	2		
+Bphy0447	North	2		
+Bphy0448	North	2		
+Bphy0449	North	2		
+Bphy0450	North	2		
+Bphy0451	North	2		
+Bphy0452	North	2		
+Bphy0453	North	2		
+Bphy0454	North	2		
+Bphy0455	North	2		
+Bphy0456	North	2		
+Bphy0457	North	2		
+Bphy0458	North	2		
+Bphy0459	North	2		
+Bphy0460	North	2		
+Bphy0461	North	2		
+Bphy0462	North	2		
+Bphy0463	North	2		
+Bphy0464	North	2		
+Bphy0465	North	2		
+Bphy0466	North	2		
+Bphy0467	North	2		
+Bphy0468	North	2		
+Bphy0469	North	2		
+Bphy0470	North	2		
+Bphy0471	North	2		
+Bphy0472	North	2		
+Bphy0473	North	2		
+Bphy0474	North	2		
+Bphy0475	North	2		
+Bphy0476	North	2		
+Bphy0477	North	2		
+Bphy0478	North	2		
+Bphy0479	North	2		
+Bphy0480	North	2		
+Bphy0481	North	2		
+Bphy0482	North	2		
+Bphy0483	North	2		
+Bphy0484	North	2		
+Bphy0485	North	2		
+Bphy0486	North	2		
+Bphy0487	North	2		
+Bphy0488	North	2		
+Bphy0489	North	2		
+Bphy0490	North	2		
+Bphy0491	North	2		
+Bphy0492	North	2		
+Bphy0493	North	2		
+Bphy0494	North	2		
+Bphy0495	North	2		
+Bphy0496	North	2		
+Bphy0497	North	2		
+Bphy0498	North	2		
+Bphy0499	North	2		
+Bphy0500	North	2		
+Bphy0501	North	2		
+Bphy0502	North	2		
+Bphy0503	North	2		
+Bphy0504	North	2		
+Bphy0505	North	2		
+Bphy0506	North	2		
+Bphy0507	North	2		
+Bphy0508	North	2		
+Bphy0509	North	2		
+Bphy0510	North	2		
+Bphy0511	North	2		
+Bphy0512	North	2		
+Bphy0513	North	2		
+Bphy0514	North	2		
+Bphy0515	North	2		
+Bphy0516	North	2		
+Bphy0517	North	2		
+Bphy0518	North	2		
+Bphy0519	North	2		
+Bphy0520	North	2		
+Bphy0521	North	2		
+Bphy0522	North	2		
+Bphy0523	North	2		
+Bphy0524	North	2		
+Bphy0525	North	2		
+Bphy0526	North	2		
+Bphy0527	North	2		
+Bphy0528	North	2		
+Bphy0529	North	2		
+Bphy0530	North	2		
+Bphy0531	North	2		
+Bphy0532	North	2		
+Bphy0533	North	2		
+Bphy0534	North	2		
+Bphy0535	North	2		
+Bphy0536	North	2		
+Bphy0537	North	2		
+Bphy0538	North	2		
+Bphy0539	North	2		
+Bphy0540	North	2		
+Bphy0541	North	2		
+Bphy0542	North	2		
+Bphy0543	North	2		
+Bphy0544	North	2		
+Bphy0545	North	2		
+Bphy0546	North	2		
+Bphy0547	North	2		
+Bphy0548	North	2		
+Bphy0549	North	2		
+Bphy0550	North	2		
+Bphy0551	North	2		
+Bphy0552	North	2		
+Bphy0553	North	2		
+Bphy0554	North	2		
+Bphy0555	North	2		
+Bphy0556	North	2		
+Bphy0557	North	2		
+Bphy0558	North	2		
+Bphy0559	North	2		
+Bphy0560	North	2		
+Bphy0561	North	2		
+Bphy0562	North	2		
+Bphy0563	North	2		
+Bphy0564	North	2		
+Bphy0565	North	2		
+Bphy0566	North	2		
+Bphy0567	North	2		
+Bphy0568	North	2		
+Bphy0569	North	2		
+Bphy0570	North	2		
+Bphy0571	North	2		
+Bphy0572	North	2		
+Bphy0573	North	2		
+Bphy0574	North	2		
+Bphy0575	North	2		
+Bphy0576	North	2		
+Bphy0577	North	2		
+Bphy0578	North	2		
+Bphy0579	North	2		
+Bphy0580	North	2		
+Bphy0581	North	2		
+Bphy0582	North	2		
+Bphy0583	North	2		
+Bphy0584	North	2		
+Bphy0585	North	2		
+Bphy0586	North	2		
+Bphy0587	North	2		
+Bphy0588	North	2		
+Bphy0589	North	2		
+Bphy0590	North	2		
+Bphy0591	North	2		
+Bphy0592	North	2		
+Bphy0593	North	2		
+Bphy0594	North	2		
+Bphy0595	North	2		
+Bphy0596	North	2		
+Bphy0597	North	2		
+Bphy0598	North	2		
+Bphy0599	North	2		
+Bphy0600	North	2		
+Bphy0601	North	2		
+Bphy0602	North	2		
+Bphy0603	North	2		
+Bphy0604	North	2		
+Bphy0605	North	2		
+Bphy0606	North	2		
+Bphy0607	North	2		
+Bphy0608	North	2		
+Bphy0609	North	2		
+Bphy0610	North	2		
+Bphy0611	North	2		
+Bphy0612	North	2		
+Bphy0613	North	2		
+Bphy0614	North	2		
+Bphy0615	North	2		
+Bphy0616	North	2		
+Bphy0617	North	2		
+Bphy0618	North	2		
+Bphy0619	North	2		
+Bphy0620	North	2		
+Bphy0621	North	2		
+Bphy0622	North	2		
+Bphy0623	North	2		
+Bphy0624	North	2		
+Bphy0625	North	2		
+Bphy0626	North	2		
+Bphy0627	North	2		
+Bphy0628	North	2		
+Bphy0629	North	2		
+Bphy0630	North	2		
+Bphy0631	North	2		
+Bphy0632	North	2		
+Bphy0633	North	2		
+Bphy0634	North	2		
+Bphy0635	North	2		
+Bphy0636	North	2		
+Bphy0637	North	2		
+Bphy0638	North	2		
+Bphy0639	North	2		
+Bphy0640	North	2		
+Bphy0641	North	2		
+Bphy0642	North	2		
+Bphy0643	North	2		
+Bphy0644	North	2		
+Bphy0645	North	2		
+Bphy0646	North	2		
+Bphy0647	North	2		
+Bphy0648	North	2		
+Bphy0649	North	2		
+Bphy0650	North	2		
+Bphy0651	North	2		
+Bphy0652	North	2		
+Bphy0653	North	2		
+Bphy0654	North	2		
+Bphy0655	North	2		
+Bphy0656	North	2		
+Bphy0657	North	2		
+Bphy0658	North	2		
+Bphy0659	North	2		
+Bphy0660	North	2		
+Bphy0661	North	2		
+Bphy0662	North	2		
+Bphy0663	North	2		
+Bphy0664	North	2		
+Bphy0665	North	2		
+Bphy0666	North	2		
+Bphy0667	North	2		
+Bphy0668	North	2		
+Bphy0669	North	2		
+Bphy0670	North	2		
+Bphy0671	North	2		
+Bphy0672	North	2		
+Bphy0673	North	2		
+Bphy0674	North	2		
+Bphy0675	North	2		
+Bphy0676	North	2		
+Bphy0677	North	2		
+Bphy0678	North	2		
+Bphy0679	North	2		
+Bphy0680	North	2		
+Bphy0681	North	2		
+Bphy0682	North	2		
+Bphy0683	North	2		
+Bphy0684	North	2		
+Bphy0685	North	2		
+Bphy0686	North	2		
+Bphy0687	North	2		
+Bphy0688	North	2		
+Bphy0689	North	2		
+Bphy0690	North	2		
+Bphy0691	North	2		
+Bphy0692	North	2		
+Bphy0693	North	2		
+Bphy0694	North	2		
