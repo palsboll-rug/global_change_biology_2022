@@ -70,17 +70,18 @@ Please read the STAIRWAY_README file for a description of the analysis pipeline
 
 #### 4\_1\_STAIRWAY\_scripts
 
+The scripts used for the RAD based analyses.
+
 #### 4\_2\_RAD\_ID\_files
+
+The list of RAD sample identification IDs.
 
 #### 4\_3\_STAIRWAY\_blueprint\_files
 
+The blueprints used for generating the STAIRWAY (ver. 2.0 beta) plots presented in the paper.
+
 #### 4\_4\_RAD\_data\_information
 
-The blueprints used for generating the STAIRWAY (ver. 2) plots presented in the paper
-
-Each blue print file contains:
-Total number of sites, including monomorphic sites (line 5) 
-The folded site frequency spectrum (line 7).
-Additional information is included as well, such as the employed mutation rate (line 16) and generation time (line 17).
+The RAD data set information.
 
 January 6th, 2022
