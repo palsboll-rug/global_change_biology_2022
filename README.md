@@ -74,6 +74,8 @@ Please read the STAIRWAY_README file for a description of the analysis pipeline
 
 #### 4\_3\_STAIRWAY\_blueprint\_files
 
+#### 4\_4\_RAD\_data\_information
+
 The blueprints used for generating the STAIRWAY (ver. 2) plots presented in the paper
 
 Each blue print file contains:
