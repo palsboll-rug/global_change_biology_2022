@@ -1,0 +1,42 @@
+Species	Balaenoptera acutorostrata		
+Number of data sets	1		
+			
+Data set no.	1		
+Sequencing protocol	ddRAD		
+No. of samples	27		
+			
+Data source:	Sample areas		
+This study	North Atlantic		
+			
+Blueprint files names	BalAcu_10x.blueprint & BalAcu_2x.blueprint		
+Results figure(s)	"7, S3 & S4"		
+			
+Individual sample identifiers and SRA accession			
+Sample_ID	Sample_partition	SRA_Accession_number	SRA_link 
+NA001_rad	North	SAMN24369310	https://www.ncbi.nlm.nih.gov/biosample/24369310
+NA002_rad	North	SAMN24369311	https://www.ncbi.nlm.nih.gov/biosample/24369311
+NA003_rad	North	SAMN24369312	https://www.ncbi.nlm.nih.gov/biosample/24369312
+NA004_rad	North	SAMN24369313	https://www.ncbi.nlm.nih.gov/biosample/24369313
+NA005_rad	North	SAMN24369314	https://www.ncbi.nlm.nih.gov/biosample/24369314
+NA006_rad	North	SAMN24369315	https://www.ncbi.nlm.nih.gov/biosample/24369315
+NA007_rad	North	SAMN24369316	https://www.ncbi.nlm.nih.gov/biosample/24369316
+NA008_rad	North	SAMN24369317	https://www.ncbi.nlm.nih.gov/biosample/24369317
+NA009_rad	North	SAMN24369318	https://www.ncbi.nlm.nih.gov/biosample/24369318
+NA010_rad	North	SAMN24369319	https://www.ncbi.nlm.nih.gov/biosample/24369319
+NA011_rad	North	SAMN24369320	https://www.ncbi.nlm.nih.gov/biosample/24369320
+NA012_rad	North	SAMN24369321	https://www.ncbi.nlm.nih.gov/biosample/24369321
+NA013_rad	North	SAMN24369322	https://www.ncbi.nlm.nih.gov/biosample/24369322
+NA014_rad	North	SAMN24369323	https://www.ncbi.nlm.nih.gov/biosample/24369323
+NA015_rad	North	SAMN24369324	https://www.ncbi.nlm.nih.gov/biosample/24369324
+NA016_rad	North	SAMN24369325	https://www.ncbi.nlm.nih.gov/biosample/24369325
+NA017_rad	North	SAMN24369326	https://www.ncbi.nlm.nih.gov/biosample/24369326
+NA018_rad	North	SAMN24369327	https://www.ncbi.nlm.nih.gov/biosample/24369327
+NA019_rad	North	SAMN24369328	https://www.ncbi.nlm.nih.gov/biosample/24369328
+NA020_rad	North	SAMN24369329	https://www.ncbi.nlm.nih.gov/biosample/24369329
+NA021_rad	North	SAMN24369330	https://www.ncbi.nlm.nih.gov/biosample/24369330
+NA022_rad	North	SAMN24369331	https://www.ncbi.nlm.nih.gov/biosample/24369331
+NA023_rad	North	SAMN24369332	https://www.ncbi.nlm.nih.gov/biosample/24369332
+NA024_rad	North	SAMN24369333	https://www.ncbi.nlm.nih.gov/biosample/24369333
+NA025_rad	North	SAMN24369334	https://www.ncbi.nlm.nih.gov/biosample/24369334
+NA026_rad	North	SAMN24369335	https://www.ncbi.nlm.nih.gov/biosample/24369335
+NA027_rad	North	SAMN24369336	https://www.ncbi.nlm.nih.gov/biosample/24369336

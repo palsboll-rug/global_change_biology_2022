@@ -1,0 +1,60 @@
+Species	Eubalaena australis		
+Number of data sets	1		
+			
+Data set no.	1		
+Sequencing protocol	ddRAD		
+No. of samples	45		
+			
+Data source:	Sample areas		
+This study	Southern Hemisphere		
+			
+Blueprint files names	EubAus_10x.blueprint & EubAus_2x.blueprint		
+Results figure(s)	"7, S3 & S4"		
+			
+Individual sample identifiers and SRA accession			
+Sample_ID	Sample_partition	SRA_Accession_number	SRA_link 
+SH001_rad	South	SAMN24369365	https://www.ncbi.nlm.nih.gov/biosample/24369365
+SH002_rad	South	SAMN24369366	https://www.ncbi.nlm.nih.gov/biosample/24369366
+SH003_rad	South	SAMN24369367	https://www.ncbi.nlm.nih.gov/biosample/24369367
+SH004_rad	South	SAMN24369368	https://www.ncbi.nlm.nih.gov/biosample/24369368
+SH005_rad	South	SAMN24369369	https://www.ncbi.nlm.nih.gov/biosample/24369369
+SH006_rad	South	SAMN24369370	https://www.ncbi.nlm.nih.gov/biosample/24369370
+SH007_rad	South	SAMN24369371	https://www.ncbi.nlm.nih.gov/biosample/24369371
+SH008_rad	South	SAMN24369372	https://www.ncbi.nlm.nih.gov/biosample/24369372
+SH009_rad	South	SAMN24369373	https://www.ncbi.nlm.nih.gov/biosample/24369373
+SH010_rad	South	SAMN24369374	https://www.ncbi.nlm.nih.gov/biosample/24369374
+SH011_rad	South	SAMN24369375	https://www.ncbi.nlm.nih.gov/biosample/24369375
+SH012_rad	South	SAMN24369376	https://www.ncbi.nlm.nih.gov/biosample/24369376
+SH013_rad	South	SAMN24369377	https://www.ncbi.nlm.nih.gov/biosample/24369377
+SH014_rad	South	SAMN24369378	https://www.ncbi.nlm.nih.gov/biosample/24369378
+SH015_rad	South	SAMN24369379	https://www.ncbi.nlm.nih.gov/biosample/24369379
+SH016_rad	South	SAMN24369380	https://www.ncbi.nlm.nih.gov/biosample/24369380
+SH017_rad	South	SAMN24369381	https://www.ncbi.nlm.nih.gov/biosample/24369381
+SH018_rad	South	SAMN24369382	https://www.ncbi.nlm.nih.gov/biosample/24369382
+SH019_rad	South	SAMN24369383	https://www.ncbi.nlm.nih.gov/biosample/24369383
+SH020_rad	South	SAMN24369384	https://www.ncbi.nlm.nih.gov/biosample/24369384
+SH021_rad	South	SAMN24369385	https://www.ncbi.nlm.nih.gov/biosample/24369385
+SH022_rad	South	SAMN24369386	https://www.ncbi.nlm.nih.gov/biosample/24369386
+SH023_rad	South	SAMN24369387	https://www.ncbi.nlm.nih.gov/biosample/24369387
+SH024_rad	South	SAMN24369388	https://www.ncbi.nlm.nih.gov/biosample/24369388
+SH025_rad	South	SAMN24369389	https://www.ncbi.nlm.nih.gov/biosample/24369389
+SH026_rad	South	SAMN24369390	https://www.ncbi.nlm.nih.gov/biosample/24369390
+SH027_rad	South	SAMN24369391	https://www.ncbi.nlm.nih.gov/biosample/24369391
+SH028_rad	South	SAMN24369392	https://www.ncbi.nlm.nih.gov/biosample/24369392
+SH029_rad	South	SAMN24369393	https://www.ncbi.nlm.nih.gov/biosample/24369393
+SH030_rad	South	SAMN24369394	https://www.ncbi.nlm.nih.gov/biosample/24369394
+SH031_rad	South	SAMN24369395	https://www.ncbi.nlm.nih.gov/biosample/24369395
+SH032_rad	South	SAMN24369396	https://www.ncbi.nlm.nih.gov/biosample/24369396
+SH033_rad	South	SAMN24369397	https://www.ncbi.nlm.nih.gov/biosample/24369397
+SH034_rad	South	SAMN24369398	https://www.ncbi.nlm.nih.gov/biosample/24369398
+SH035_rad	South	SAMN24369399	https://www.ncbi.nlm.nih.gov/biosample/24369399
+SH036_rad	South	SAMN24369400	https://www.ncbi.nlm.nih.gov/biosample/24369400
+SH037_rad	South	SAMN24369401	https://www.ncbi.nlm.nih.gov/biosample/24369401
+SH038_rad	South	SAMN24369402	https://www.ncbi.nlm.nih.gov/biosample/24369402
+SH039_rad	South	SAMN24369403	https://www.ncbi.nlm.nih.gov/biosample/24369403
+SH040_rad	South	SAMN24369404	https://www.ncbi.nlm.nih.gov/biosample/24369404
+SH041_rad	South	SAMN24369405	https://www.ncbi.nlm.nih.gov/biosample/24369405
+SH042_rad	South	SAMN24369406	https://www.ncbi.nlm.nih.gov/biosample/24369406
+SH043_rad	South	SAMN24369407	https://www.ncbi.nlm.nih.gov/biosample/24369407
+SH044_rad	South	SAMN24369408	https://www.ncbi.nlm.nih.gov/biosample/24369408
+SH045_rad	South	SAMN24369409	https://www.ncbi.nlm.nih.gov/biosample/24369409
