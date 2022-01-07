@@ -1,7 +1,7 @@
 Supplementary data for
 # Strong and lasting impacts of past global warming on baleen whales and their prey
 
-*Andrea A. Cabrera, Elena Schall, Martine Bérubé, Pia Anderwald, Lutz Bachmann, Simon Berrow, Peter B. Best, Phillip J. Clapham, Haydée A. Cunha, Luciano Dalla Rosa, Carolina Dias, Kenneth P. Findlay, Tore Haug, Mads Peter Heide-Jørgensen, Rus Hoelzel, Kit M. Kovacs, Scott Landry, Finn Larsen, Xênia Moreira Lopes, Christian Lydersen, David K. Mattila, Tom Oosting, Richard M. Pace III, Chiara Papetti, Angeliki Paspati, Luis A. Pastene, Rui Prieto, Christian Ramp, Jooke Robbins, Richard Sears, Eduardo R. Secchi, Mónica A. Silva, Malene Simon, Gísli Víkingsson, Øystein Wiig, Nils Øien and Per J. Palsbøll* 
+*Andrea A. Cabrera, Elena Schall, Martine Bérubé, Pia Anderwald, Lutz Bachmann, Simon Berrow, Peter B. Best, Phillip J. Clapham, Haydée A. Cunha, Luciano Dalla Rosa, Carolina Dias, Kenneth P. Findlay, Tore Haug, Mads Peter Heide-Jørgensen, Rus A. Hoelzel, Kit M. Kovacs, Scott Landry, Finn Larsen, Xênia Moreira Lopes, Christian Lydersen, David K. Mattila, Tom Oosting, Richard M. Pace III, Chiara Papetti, Angeliki Paspati, Luis A. Pastene, Rui Prieto, Christian Ramp, Jooke Robbins, Richard Sears, Eduardo R. Secchi, Mónica A. Silva, Malene Simon, Gísli Víkingsson, Øystein Wiig, Nils Øien and Per J. Palsbøll* 
 
 *Global Change Biology* (in press)
 
