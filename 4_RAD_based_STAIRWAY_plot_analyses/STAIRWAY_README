@@ -1,10 +1,10 @@
-This directory contain the scripts used for the RAD based analyses (“script” directory)
-Additionally, it contains the used data (links in the “rad_data” directory), list of sample 
-identification IDs (“IDs_files” directory) and the input file used to run stairway plot 
-(“blueprint” directory). 
+This directory contains: 
 
-Each script corresponds to a step of the entire analysis pipeline which was executed in 
-the following order:
+4_1_STAIRWAY_scripts
+
+The scripts used for the RAD based analyses.
+
+Each script corresponds to a step of the entire analysis pipeline which was executed in the following order:
 
 - STACKS: process_radtags.sh
 
@@ -12,7 +12,7 @@ Process_radtags separate reads per by sample ID creating four fastq files per sa
 (sample_xxx.1.fq, sample_xxx.2.fq, sample_xxx.rem.1.fq, sample_xxx.rem.2.fq). These are 
 the data files deposited in GenBank's SRA archive.
 
-Fastq read files from the same sample ID (i.e., from different RAD libraries) were 
+Fastq read files from the same sample ID (i.e., from different RAD libraries) were
 combined (using cat_command.sh), after which the infiles for ANGSD were generated applying 
 the following script in the listed order:
 
@@ -23,11 +23,31 @@ the following script in the listed order:
 After generating the site frequency spectrum (SFS), the SFS was added to the corresponding
 blueprint file. The blueprint files used in the paper are all included in this repository.
 
-The blueprint files serves as the input for generting the final STAIRWAY plot. The final 
-STAIRWAY plot was generated as follows (available at the STAIRWAY 
-manual for ver. 2.0 beta): 
+The blueprint files serves as the input for generting the final STAIRWAY plot. The final
+STAIRWAY plot was generated as follows (available at the STAIRWAY manual for ver. 2.0 beta): 
 
 java -cp stairway_plot_es Stairbuilder file.blueprint
 
-The command above creates the script file.blueprint.sh, which then is executed to produce
+The command above creates the script file.blueprint.sh, which then is executed to produce 
 the final STAIRWAY plot (i.e., file.blueprint.plot.sh)
+
+
+4_2_RAD_ID_files directory
+
+One file per species with the list of RAD sample identification IDs. Each line corresponds to 
+a sample ID. 
+
+
+4_3_STAIRWAY_blueprint_files
+
+The input files used to run stairway plot with minimum coverage of 2x and 10x.
+
+Each blue print file contains: Total number of sites, including monomorphic sites (line 5).
+The folded site frequency spectrum (line 7). Additional information is included as well, 
+such as the employed mutation rate (line 16) and generation time (line 17).
+
+
+4_4_RAD_data_information 
+
+A single Microsoft Excel<sup>TM</sup> file (and corresponding individual, plain tab-separated, text files)
+with the RAD data set information.
