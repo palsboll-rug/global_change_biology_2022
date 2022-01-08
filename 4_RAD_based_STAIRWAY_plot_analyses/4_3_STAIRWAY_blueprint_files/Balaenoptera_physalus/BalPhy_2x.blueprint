@@ -1,0 +1,24 @@
+#example blueprint file
+#input setting
+popid: BalPhy_2x # id of the population (no white space)
+nseq: 56 # number of sequences
+L: 6980701 # total number of observed nucleic sites, including polymorphic and monomorphic
+whether_folded: true # whether the SFS is folded (true or false)
+SFS: 	13572.42603	6046.631335	4325.413704	3254.634046	2588.957252	2224.362118	1871.949491	1684.442071	1614.141592	1446.775239	1339.111012	1182.356648	1133.58988	1169.864091	985.960062	1009.973397	1025.10744	909.153171	926.839305	957.937456	934.053017	964.63154	768.390653	862.828622	848.554482	809.405092	808.980056	1058.549248 # snp frequency spectrum: number of singleton, number of doubleton, etc. (separated by white space)
+#smallest_size_of_SFS_bin_used_for_estimation: 1 # default is 1; to ignore singletons, change this number to 2
+#largest_size_of_SFS_bin_used_for_estimation: 28 # default is nseq/2 for folded SFS
+pct_training: 0.67 # percentage of sites for training
+nrand: 14	27	41	54 # number of random break points for each try (separated by white space)
+project_dir: BalPhy_2x # project directory
+stairway_plot_dir: stairway_plot_es # directory to the stairway plot files
+ninput: 200 # number of input files to be created for each estimation
+#output setting
+mu: 3.47e-8 # assumed mutation rate per site per generation
+year_per_generation: 32.47 # assumed generation time (in years)
+#plot setting
+plot_title: BalPhy_2x # title of the plot
+xrange: 0.1,10000 # Time (1k year) range; format: xmin,xmax; "0,0" for default
+yrange: 0,0 # Ne (1k individual) range; format: xmin,xmax; "0,0" for default
+xspacing: 2 # X axis spacing
+yspacing: 2 # Y axis spacing
+fontsize: 12 # Font size
