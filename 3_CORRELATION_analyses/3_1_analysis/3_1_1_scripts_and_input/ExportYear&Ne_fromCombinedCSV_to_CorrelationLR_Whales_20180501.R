@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------------------------------------------------------------------
 # Date 09-06-2017
 # Andrea Cabrera
-# Description: this script reads the combined csv files generate with for example the script 
+# Description: this script reads the combined csv files  
 # It containes the poolSD and poolMean of the three replicates and the time in years
 # It will export the files to be used for the correlation analysis
 
@@ -13,14 +13,14 @@
 
 
 
-root_dir = "D:/RUG/Migration Antarctic/Correlations/Analysis"
-setwd("D:/RUG/Migration Antarctic/Correlations/Analysis/Whales")
+root_dir = "[Add root directory here]/Correlations/Analysis"
+setwd("[Add working directory here]/Correlations/Analysis/Whales")
 
 library(readr) # The goal of readr is to provide a fast and friendly way to read rectangular data (like csv, tsv, and fwf)
 library(data.table) # extension of data frames
 
 
-folder <- "D:/RUG/Migration Antarctic/Correlations/Species_Combined_CSV/Whales/"     # path to folder that holds multiple .csv files
+folder <- "[Add root directory here]/Correlations/Species_Combined_CSV/Whales/"     # path to folder that holds multiple .csv files
 file_list <- list.files(path=folder, pattern="*.csv") # create list of all .csv files in folder
 
 # read in each .csv file in file_list and create a data frame with the same name as the .csv file
