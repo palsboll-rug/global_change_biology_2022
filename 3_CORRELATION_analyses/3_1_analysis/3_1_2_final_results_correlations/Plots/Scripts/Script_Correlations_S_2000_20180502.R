@@ -13,15 +13,15 @@ library(Hmisc) # library for correlations with significance levels
 library(corrplot) # to plot nice correlation plots
 
 
-#root_dir = "D:/RUG/Migration Antarctic/"
-setwd("D:/RUG/Migration Antarctic/Correlations/Plots/Plots")
+#root_dir = "[Add root directory here]/"
+setwd("[Add root directory here]/Correlations/Plots/Plots")
 getwd() 
 
 # check the working directory####################
 # Scritp to do the Linear Regression
 
 #Read the file 
-Antarctic.Data.LR<- read_csv("D:/RUG/Migration Antarctic/Correlations/Plots/Data/Southern_AllApprox_LR_2000_Mod_20180501.csv")
+Antarctic.Data.LR<- read_csv("[Add root directory here]/Correlations/Plots/Data/Southern_AllApprox_LR_2000_Mod_20180501.csv")
 
 
 #Give a new name
