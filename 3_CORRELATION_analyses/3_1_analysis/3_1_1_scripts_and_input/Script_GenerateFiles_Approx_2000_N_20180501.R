@@ -3,7 +3,7 @@
 # Andrea Cabrera
 # Description: this script reads a csv file with the time, Demographic parameters mean  for all species 
 # It also reads the csv file with the climate data
-# It estimate linear regression among variables 
+# It estimate linear regression among variables in order to have the same time bins across species and climate
 
 
 
