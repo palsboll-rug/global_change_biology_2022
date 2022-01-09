@@ -22,15 +22,15 @@ library(corrplot) # to plot nice correlation plots
 library(ellipse)
 
 
-#root_dir = "D:/RUG/Migration Antarctic/"
-setwd("D:/RUG/Migration Antarctic/Correlations/Plots/Plots")
+#root_dir = "[Add root directory here]"
+setwd("[Add root directory here]/Correlations/Plots/Plots")
 getwd() 
 
 # check the working directory####################
 # Scritp to do the Linear Regression
 
 #Read the file 
-Arctic.Data.LR<- read_csv("D:/RUG/Migration Antarctic/Correlations/Plots/Data/Northern_AllApprox_LR_2000_Mod_20180502.csv")
+Arctic.Data.LR<- read_csv("[Add root directory here]/Correlations/Plots/Data/Northern_AllApprox_LR_2000_Mod_20180502.csv")
 
 
 #Give a new name
