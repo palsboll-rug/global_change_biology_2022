@@ -7,12 +7,12 @@
 
 
 
-root_dir = "D:/RUG/Migration Antarctic/Correlations/Analysis"
-setwd("D:/RUG/Migration Antarctic/Correlations/Analysis/Theta_N/Approx_LR_2000")
+root_dir = "[Add root directory here]/Correlations/Analysis"
+setwd("[Add working directory here]/Correlations/Analysis/Theta_N/Approx_LR_2000")
 
 library(readr)
 
-folder <- "D:/RUG/Migration Antarctic/Correlations/Analysis/Theta_N/"         # path to folder that holds multiple .csv files
+folder <- "[Add root directory here]/Correlations/Analysis/Theta_N/"         # path to folder that holds multiple .csv files
 file_list <- list.files(path=folder, pattern="*.csv") # create list of all .csv files in folder
 # read in each .csv file in file_list and create a data frame with the same name as the .csv file
 
